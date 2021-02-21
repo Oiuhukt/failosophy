@@ -10,8 +10,6 @@ Este es mi primer post usando jekyll. Estuve Utilizando un servicio llamado Smal
 
 ## Links
 
-* Un tutorial rápido de cómo comenzar a usar Jekyll. Está hecho por un tal Mike que pareciera que el mejor nombre que hubieran podido elegir sus padres es Brad o Bryce.
-
-[Tutorial de Mike](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+* Un tutorial rápido de cómo comenzar a usar Jekyll. Está hecho por un tal Mike que pareciera que el mejor nombre que hubieran podido elegir sus padres es Brad o Bryce. [Tutorial de Mike](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 * Por supesto un gran lugar para obtener información es la página oficial de [Jekyll](https://jekyllrb.com/)
