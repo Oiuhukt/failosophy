@@ -22,8 +22,8 @@ title: failosophy
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Este es mi sitio personal en donde me quejo de mucho y digo algo, a lo más, interesante
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/failosophy" # the subpath of your site, e.g. /blog
+url: "https://oiuhukt.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OlivettiOscar
 github_username:  Oiuhukt
 
