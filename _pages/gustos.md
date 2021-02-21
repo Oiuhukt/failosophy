@@ -5,7 +5,7 @@ title: Gustos
 
 # Música
 
-Soy una persona que hasta bien entrados sus 20 años no sabía si tenía gusto artístico. Cuando nos llevaban a los museos y mis compañeros describían lo que las obras los hacían *sentir*, trataba de sentir algo al ver las obras y me quedaba viendo sin tener sensación alguna. Pero la música sí que me hacía sentir cosas por las historias de las letras. Además estuve en una banda (ellos siguen activos [aquí la página](https://www.facebook.com/qamaabanda)) y pude aprender algo de música. Además tuvimos la oportunidad de grabar un disco y los ingenieros de sonido me enseñaron algo de apreciación del trabajo de producción, que es tan importante como la creación musical. Por ello la música me es muy cercana. [Blog sobre música](https://failosophy.smvi.co/melodias/m%C3%BAsica)
+Soy una persona que hasta bien entrados sus 20 años no sabía si tenía gusto artístico. Cuando nos llevaban a los museos y mis compañeros describían lo que las obras los hacían *sentir*, trataba de sentir algo al ver las obras y me quedaba viendo sin tener sensación alguna. Pero la música sí que me hacía sentir cosas por las historias de las letras. Además estuve en una banda (ellos siguen activos [aquí la página](https://www.facebook.com/qamaabanda)) y pude aprender algo de música. Además tuvimos la oportunidad de grabar un disco y los ingenieros de sonido me enseñaron algo de apreciación del trabajo de producción, que es tan importante como la creación musical. Por ello, creo que la música me es cercana <html><a class="page-link" href="/failosophy/about/">About</a><a class="page-link" href="/failosophy/_pages/academia.html">Academia</a><a class="page-link" href="/failosophy/_pages/gustos.html">Gustos</a></div><\html>
 
 # Anime
 
