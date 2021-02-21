@@ -28,7 +28,7 @@ twitter_username: OlivettiOscar
 github_username:  Oiuhukt
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
