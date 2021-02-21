@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-# ¡Bienvenidos! {#bienvenidos}
+# ¡Bienvenidos!
