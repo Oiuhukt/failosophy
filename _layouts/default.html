@@ -1,21 +1,23 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
-  </head>
-  <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
-    </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      &copy; to me
-    </footer>
-  </body>
+
+{% include head.html %}
+
+<!-- hack iOS CSS :active style -->
+<body ontouchstart="">
+
+    {% include nav.html %}
+    {% include search.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+
+<!-- Image to hack wechat -->
+<img src="/img/icon_wechat.png" width="0" height="0" />
+<!-- Migrate from head to bottom, no longer block render and still work -->
+
+</body>
+
 </html>
