@@ -6,8 +6,6 @@ permalink: /
 layout: default
 ---
 
-# Welcome to Simple Jekyll
+# Bienvenidos a mi página personal
 
-This is a simple webpage that has been handbuilt by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
-
-Please feel free to take a look around. If you're interested, you can find the source code for this site [on GitHub](https://github.com/kevquirk/jekyll-simple.css).
+Mi nombre es Oscar Abraham Olivetti Alvarez y esta página es para ayudar a comunicarme con otras personas. Soy estudiante de maestría en el Posgrado en Filosofía de la Ciencia en la UNAM. Soy entusiasta del software libre y también me quejo de mucho y digo cosas, a lo más, interesantes.
