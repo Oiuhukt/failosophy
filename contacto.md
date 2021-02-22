@@ -7,6 +7,7 @@ layout: default
 ---
 
 ----------
+
 Me pueden encontrar en
 
 * [facebook](https://www.facebook.com/Abraham.Olivetti/)
@@ -15,4 +16,5 @@ Me pueden encontrar en
 
 
 No conozco mucha gente, por lo que probablemente responda cualquier comentario.
+
 -------------
