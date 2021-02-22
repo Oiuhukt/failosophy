@@ -2,7 +2,7 @@
 title: Primerito
 header: Primerito
 description: El primer post que hice usando jekyll
-permalink: failosophy/primerito/
+permalink: /primerito/
 layout: post
 ---
 
