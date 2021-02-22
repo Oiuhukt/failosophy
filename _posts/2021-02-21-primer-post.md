@@ -1,10 +1,10 @@
 ---
+title: Primerito
+header: Primerito
+description: El primer post que hice usando jekyll
+permalink: /primerito/
 layout: post
-title:  "My primer post"
-date:   2021-02-21 12:37:04 -0600
-categories: jekyll update
 ---
-
 
 Este es mi primer post usando jekyll. Estuve Utilizando un servicio llamado Small Victories hasta que por alguna razón crashearon sos servidores. Por esot mi página original quedó inhabilitada. Pero esto me animó a comenzar a aprender jekyll. Lo recomiendo ampliamente. Aquí abajo dejo algunos links que podrías ser de utilidad para comenzar.
 
