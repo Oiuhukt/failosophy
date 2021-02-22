@@ -1,10 +1,12 @@
 ---
 title: Mi página web personal
 header: failosophy
-description: 
+description:
 permalink: /
 layout: default
 ---
+
+![failogo](/home/oiuhukt/Público/failosophy/assets/images/logo.png)
 
 # ¡Bienvenidos!
 
