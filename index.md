@@ -1,7 +1,7 @@
 ---
 title: Mi página web personal
-header: Oiuhukt
-description: A Jekyll site powered by Simple.css
+header: failosophy
+description: 
 permalink: /
 layout: default
 ---
