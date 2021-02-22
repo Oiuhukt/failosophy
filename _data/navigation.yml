@@ -1,11 +1,11 @@
 - name: Home
-  link: /
+  link: failosophy/
 
 - name: Blog
-  link: /blog
+  link: failosophy/blog
 
-- name: About
-  link: /about
+- name: Acerca
+  link: failosophy/acerca
 
-- name: Contact
-  link: /contact
+- name: Contacto
+  link: failosophy/contacto
