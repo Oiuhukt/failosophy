@@ -2,7 +2,7 @@
 title: Mi página web personal
 header: failosophy
 description:
-permalink: /failosophy/contacto/
+permalink: /contacto/
 layout: default
 ---
 
