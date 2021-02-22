@@ -2,7 +2,7 @@
 title: Contacto
 header: failosophy
 description: Esta página menciona algo de mí y este sitio.
-permalink: /about/
+permalink: /acerca/
 layout: default
 ---
 
