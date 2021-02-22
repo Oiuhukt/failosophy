@@ -1,23 +1,30 @@
-<!DOCTYPE html>
-<html lang="es">
+<!doctype html>
+<html lang="en-GB">
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://cdn.kevq.uk/assets/images/favicon.png" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    {% feed_meta %}
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <link rel="stylesheet" href="https://cdn.kevq.uk/assets/css/custom.css">
+</head>
+  <body>
+   <header>
+      <h1>{{ page.header }}</h1>
+      <p>{{ page.description }}</p>
 
-{% include head.html %}
+      {% include navigation.html %}
+   </header>
+      
 
-<!-- hack iOS CSS :active style -->
-<body ontouchstart="">
+      <main>
+  {{ content }}
+      </main>
 
-    {% include nav.html %}
-    {% include search.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
-
-
-<!-- Image to hack wechat -->
-<img src="/img/icon_wechat.png" width="0" height="0" />
-<!-- Migrate from head to bottom, no longer block render and still work -->
-
-</body>
-
-</html>
+      <footer>
+<p>This site was created by <a href="https://kevq.uk">Kev Quirk</a> and was made using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://simplecss.org">Simple.css</a>.</p>
+      </footer>
+  </body>
+ </html>
