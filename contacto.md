@@ -6,5 +6,13 @@ permalink: /contact/
 layout: default
 ---
 
+----------
+Me pueden encontrar en
 
-Me pueden encontrar en 
+* [facebook](https://www.facebook.com/Abraham.Olivetti/)
+* [twitter](https://twitter.com/OlivettiOscar)
+* [github](https://github.com/Oiuhukt)
+
+
+No conozco mucha gente, por lo que probablemente responda cualquier comentario.
+-------------
