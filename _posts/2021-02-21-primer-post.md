@@ -6,7 +6,9 @@ permalink: /primerito/
 layout: post
 ---
 
-Este es mi primer post usando jekyll. Estuve Utilizando un servicio llamado Small Victories hasta que por alguna razón crashearon sos servidores. Por esot mi página original quedó inhabilitada. Pero esto me animó a comenzar a aprender jekyll. Lo recomiendo ampliamente. Aquí abajo dejo algunos links que podrías ser de utilidad para comenzar.
+# El primero de varios
+
+Este es mi primer post en este sitio que cree usando jekyll, por supuesto no soy un desarrollador profesional (hice una carrera técnica y esto me ha facilitado las cosas, pero no al nivel de un desarrollador) así que utilice la guía y el templete que hizo [Kevin Quirk](https://kevq.uk/how-to-build-jekyll-site-simple-css/). Estuve Utilizando un servicio llamado Small Victories hasta que por alguna razón crashearon sus servidores. Por eso mi página original quedó inhabilitada. Pero esto me animó a comenzar a aprender jekyll. Lo recomiendo ampliamente. Aquí abajo dejo algunos links que podrías ser de utilidad para comenzar.
 
 ## Links
 
