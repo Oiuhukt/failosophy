@@ -7,7 +7,7 @@ permalink: /blog/
 ---
 
 {% for post in site.posts %}
-  <p><a href="failosophy/{{ post.url }}">{{ post.title }}</a><br>
+  <p><a href=failosophy/"{{ post.url }}">{{ post.title }}</a><br>
   {{ post.description }}<br>
-  :date: {{ post.date | date_to_string }}</p>
+  {{ post.date | date_to_string }}</p>
 {% endfor %}
