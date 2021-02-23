@@ -8,7 +8,7 @@ description: Sitio web personal
 lang: en
 locale: en_GB
 url: "https://oiuhukt.github.io/failosophy/"
-baseurl: "/failosophy/"
+baseurl: ""
 
 # RSS feeds
 feed:
