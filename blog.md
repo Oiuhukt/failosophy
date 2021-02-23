@@ -11,3 +11,6 @@ permalink: /blog/
   {{ post.description }}<br>
    {{ post.date | date_to_string }}</p>
 {% endfor %}
+
+
+{% post_url 2021-02-21-Anime %}
