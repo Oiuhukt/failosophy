@@ -1,7 +1,7 @@
 ---
 title: Mi página web personal
 header: failosophy
-description:
+description: ¿Dónde estoy?
 permalink: /contacto/
 layout: default
 ---
