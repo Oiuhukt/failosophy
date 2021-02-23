@@ -6,7 +6,7 @@ description: Blog!
 permalink: /blog/
 ---
 
-<a href="failosophy/panaderia/">esta es la liga </a>
+<a href="/panaderia/">esta es la liga </a>
 
 /failosophy/panaderia/
 
