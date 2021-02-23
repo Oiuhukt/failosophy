@@ -15,4 +15,4 @@ A pesar de esto, he conocido a muchas de las personas más interesantes en este 
 
 Hay algo que sin duda sí me gusta: leer e investigar. A veces el proceso es difícil y una constante pelea contra la voluntad. Pero por lo general el trabajo trae sus recompensas, auqneu sea sólo hacer una pequeña distinción en un tema. Mi trabajo de grado trata sobre inferencias causales. Especialmente las utilizadas en biología evolutiva. Me interesa en particular dar una definición causal de fitness. Abajo una presentación donde expongo esto.
 
- <embed src="/failosophy/assets/images/output.pdf" type="application/pdf" width="100%" height="600px" />
+ <embed src="/failosophy/assets/images/output.pdf" type="application/pdf" width="100%" height="100%" />
