@@ -7,8 +7,8 @@ author: Oscar Olivetti
 description: Sitio web personal
 lang: en
 locale: en_GB
-url: "https://oiuhukt.github.io/"
-baseurl: "failosophy/"
+url: "https://oiuhukt.github.io/failosophy/"
+baseurl: "/failosophy/"
 
 # RSS feeds
 feed:
