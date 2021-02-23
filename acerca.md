@@ -6,7 +6,7 @@ permalink: /acerca/
 layout: default
 ---
 
-#Algo sobre mí
+# Algo sobre mí
 
 Como dice en mi página de bienvenida, soy estudiante de filosofía. Este sitio es otra de las consecuencias que tuvo la pandemia del 2020 (la primera fue el pan de masa madre). Planeo usar este sitio como un blog que me ayude a mejorar mis habilidades de escritura, además de ser un repositorio para dirigir a otros links interesantes.
 
