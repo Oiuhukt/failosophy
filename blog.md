@@ -6,6 +6,10 @@ description: Blog!
 permalink: /blog/
 ---
 
+<a href="failosophy/panaderia/">esta es la liga </a>
+
+/failosophy/panaderia/
+
 {% for post in site.posts %}
   <p><a href="{{ post.permalink }}">{{ post.title }}</a><br>
   {{ post.description }}<br>
