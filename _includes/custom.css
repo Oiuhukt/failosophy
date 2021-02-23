@@ -32,9 +32,9 @@
 /* Dark theme */
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #05445E;
-    --accent-bg: #05445E;
-    --text: #D4F1F4;
+    --bg: #190204;
+    --accent-bg: #FF8976;
+    --text: #FFCBA4;
     --text-light: #ABABAB;
     --border: #666;
     --accent: #FFB300;
