@@ -1,0 +1,44 @@
+/*
+  Write your own styles here.
+
+  We've included some classes to get you going
+*/
+
+a {
+   color: #F57064;
+}
+
+
+
+div {
+  background: #a0d6c7;
+}
+
+body {
+  background: #a0d6c7;
+}
+
+.sv-document-nav-title,
+.sv-document-nav-items {
+  background: #a0d6c7;
+}
+
+.sv-document-article {
+  background: #a0d6c7;
+}
+
+/*
+  Mobile First!
+
+  Include your desktop styles here
+*/
+@media screen and (min-width: 800px){
+  body {
+    background: #a0d6c7;
+  }
+
+  .sv-document-nav-title,
+  .sv-document-nav-items {
+    background: #a0d6c7;
+  }
+}
