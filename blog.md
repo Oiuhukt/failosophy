@@ -6,12 +6,8 @@ description: Blog!
 permalink: /blog/
 ---
 
-<a href="/panaderia/">esta es la liga </a>
-
-/failosophy/panaderia/
-
 {% for post in site.posts %}
-  <p><a href="{{ post.permalink }}">{{ post.title }}</a><br>
+  <p><a href="{{ post.url }}">{{ post.title }}</a><br>
   {{ post.description }}<br>
    {{ post.date | date_to_string }}</p>
 {% endfor %}
