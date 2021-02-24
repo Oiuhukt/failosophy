@@ -14,7 +14,4 @@ Me pueden encontrar en
 * [twitter](https://twitter.com/OlivettiOscar)
 * [github](https://github.com/Oiuhukt)
 
-
-No conozco mucha gente, por lo que probablemente responda cualquier comentario.
-
 -------------
