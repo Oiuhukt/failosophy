@@ -14,6 +14,18 @@ En esta parte de la página, pondré las ligas a sitios que me parecen interesan
 
 * [Kevin Klement](http://people.umass.edu/klement/)
 
-Kevin Klement es profesor de lógica y especialista en Russell, Frege y Wittgenstein. En su sitio tiene en pdf algunas obras de Russell, que el mismo transcribió a latex. 
+Kevin Klement es profesor de lógica y especialista en Russell, Frege y Wittgenstein. En su sitio tiene en pdf algunas obras de Russell, que el mismo transcribió a latex.
 
 -----
+
+----
+* [Stephen Yablo](http://www.mit.edu/~yablo/writing.html)
+
+Esta es una guía para escribir en sayos filsóficos.
+----
+
+----
+* [Peter Suber](https://cyber.harvard.edu/~psuber/wiki/Peter_Suber)
+
+Aquí una lista personal de Peter Suber sobre temas de filosofía de la filosofía. 
+----
