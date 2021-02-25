@@ -14,7 +14,9 @@
 
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
+}
 
+/*
   @media (prefers-color-scheme: dark) {
 
       --bg: #190204;
@@ -35,7 +37,7 @@
   }
 
 }
-
+/*
 /* Default (light) theme
 --bg: #190204;
 --accent-bg: #A82810;
