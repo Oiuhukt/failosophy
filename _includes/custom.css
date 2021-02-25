@@ -82,7 +82,7 @@ main {
 
 /* Make the header bg full width, but the content inline with body */
 header {
-	background: var(--accent-bg);
+	background: #021A18;
 	border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
