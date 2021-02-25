@@ -19,13 +19,17 @@ Kevin Klement es profesor de lógica y especialista en Russell, Frege y Wittgens
 -----
 
 ----
+
 * [Stephen Yablo](http://www.mit.edu/~yablo/writing.html)
 
 Esta es una guía para escribir en sayos filsóficos.
+
 ----
 
 ----
+
 * [Peter Suber](https://cyber.harvard.edu/~psuber/wiki/Peter_Suber)
 
-Aquí una lista personal de Peter Suber sobre temas de filosofía de la filosofía. 
+Aquí una lista personal de Peter Suber sobre temas de filosofía de la filosofía.
+
 ----
