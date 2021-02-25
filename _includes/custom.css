@@ -15,8 +15,21 @@
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
 
-/* Dark theme */
-@media (prefers-color-scheme: dark) {
+  /* Default (light) theme */
+  --bg: #0C1446;
+  --accent-bg: #F5F7FF;
+  --text: #212121;
+  --text-light: #585858;
+  --border: #D8DAE1;
+  --accent: #0D47A1;
+  --accent-light: #90CAF9;
+  --code: #D81B60;
+  --preformatted: #444;
+  --marked: #FFDD33;
+  --disabled: #EFEFEF;
+}
+
+/* Dark theme or-scheme: dark) {
   :root {
     --bg: #190204;
     --accent-bg: #A82810;
@@ -29,7 +42,9 @@
     --preformatted: #CCC;
     --disabled: #111;
   }
+  */
 
+  @media (prefers-col
   img, video {
     opacity: .6;
   }
