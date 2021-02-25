@@ -15,7 +15,7 @@
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
 
-  /* Default (light) theme */
+  /* Default (light) theme
   --bg: #0C1446;
   --accent-bg: #F5F7FF;
   --text: #212121;
@@ -28,7 +28,7 @@
   --marked: #FFDD33;
   --disabled: #EFEFEF;
 }
-
+*/
 /* Dark theme or-scheme: dark) {
   :root {
     --bg: #190204;
@@ -61,8 +61,8 @@ html {
 
 /* Make the body a nice central block */
 body {
-  color: var(--text);
-  background: var(--bg);
+  color: #190204;
+  background: var(#190204);
   font-size: var(--base-fontsize);
   line-height: var(--line-height);
   margin: 0;
@@ -77,7 +77,7 @@ main {
 
 /* Make the header bg full width, but the content inline with body */
 header {
-	background: var(--accent-bg);
+	background: #A82810;
 	border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
