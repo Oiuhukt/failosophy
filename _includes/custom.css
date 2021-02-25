@@ -14,21 +14,23 @@
 
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
+
+  --bg: #190204;
+  --accent-bg: #A82810;
+  --text: #FFCBA4;
+  --text-light: #ABABAB;
+  --border: #666;
+  --accent: #FFB300;
+  --accent-light: #FFECB3;
+  --code: #F06292;
+  --preformatted: #CCC;
+  --disabled: #111;
 }
 
 /*
   @media (prefers-color-scheme: dark) {
 
-      --bg: #190204;
-      --accent-bg: #A82810;
-      --text: #FFCBA4;
-      --text-light: #ABABAB;
-      --border: #666;
-      --accent: #FFB300;
-      --accent-light: #FFECB3;
-      --code: #F06292;
-      --preformatted: #CCC;
-      --disabled: #111;
+
 
 
     img, video {
@@ -129,8 +131,8 @@ nav a {
 }
 
 nav a:hover {
-  color: var(--accent) !important;
-  border-color: var(--accent);
+  color: #FFB300 !important;
+  border-color: #FFB300;
 }
 
 nav a.current:hover {
@@ -140,7 +142,7 @@ nav a.current:hover {
 footer {
   margin-top: 4rem;
   padding: 2rem 1rem 1.5rem 1rem;
-  color: var(--text-light);
+  color: #FFCBA4;
   font-size: .9rem;
   text-align: center;
   border-top: 1px solid var(--border);
