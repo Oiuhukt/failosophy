@@ -15,21 +15,22 @@
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
 
-  /* Default (light) theme
-  --bg: #0C1446;
-  --accent-bg: #F5F7FF;
-  --text: #212121;
-  --text-light: #585858;
-  --border: #D8DAE1;
-  --accent: #0D47A1;
-  --accent-light: #90CAF9;
-  --code: #D81B60;
-  --preformatted: #444;
+  /* Default (light) theme */
+  --bg: #190204;
+  --accent-bg: #A82810;
+  --text: #FFCBA4;
+  --text-light: #ABABAB;
+  --border: #666;
+  --accent: #FFB300;
+  --accent-light: #FFECB3;
+  --code: #F06292;
+  --preformatted: #CCC;
   --marked: #FFDD33;
-  --disabled: #EFEFEF;
+  --disabled: #111;
 }
-*/
-/* Dark theme or-scheme: dark) {
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
   :root {
     --bg: #190204;
     --accent-bg: #A82810;
@@ -42,9 +43,7 @@
     --preformatted: #CCC;
     --disabled: #111;
   }
-  */
 
-  @media (prefers-col
   img, video {
     opacity: .6;
   }
@@ -61,8 +60,8 @@ html {
 
 /* Make the body a nice central block */
 body {
-  color: #190204;
-  background: var(#190204);
+  color: var(--text);
+  background: var(--bg);
   font-size: var(--base-fontsize);
   line-height: var(--line-height);
   margin: 0;
@@ -77,7 +76,7 @@ main {
 
 /* Make the header bg full width, but the content inline with body */
 header {
-	background: #A82810;
+	background: var(--accent-bg);
 	border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
