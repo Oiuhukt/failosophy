@@ -121,7 +121,7 @@ nav a {
   margin: 1rem 1rem 0 0;
   border: 1px solid var(--border);
   border-radius: 5px;
-  color: var(--text) !important;
+  color: #e0e5e5 !important;
   display: inline-block;
   padding: .1rem 1rem;
   text-decoration: none;
