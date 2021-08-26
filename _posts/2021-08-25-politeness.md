@@ -1,7 +1,7 @@
 ---
 title: Sobre ser amable
 header: Amabilidad en la academia
-description: academy
+description: Academy
 permalink: amabilidad/
 layout: post
 ---
