@@ -6,7 +6,7 @@ permalink: amabilidad/
 layout: post
 ---
 
-#Sobre la Amabilidad
+# Sobre la Amabilidad
 
 Tenía hoy años de edad cuando me topé con una entrada en el blog de Federica Russo. En dicha entrada, Russo nos recuerda que en filosofía mucho de lo que se hace (espero que de manera accidental aunque creo que esto es muy optimista) es tratar de probar que los otros están mal.
 
