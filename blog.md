@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 header: Blog
-description: Blog!
+description: ¡Blog!
 permalink: /blog/
 ---
 

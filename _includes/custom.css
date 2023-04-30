@@ -139,7 +139,7 @@ nav a:hover {
 }
 
 nav a.current:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 footer {
