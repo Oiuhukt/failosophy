@@ -84,7 +84,7 @@ main {
 
 /* Make the header bg full width, but the content inline with body */
 header {
-	background: var(--bg);
+	background: var(--accent-bg);
 	border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
@@ -142,7 +142,7 @@ nav a.current:hover {
 footer {
   margin-top: 4rem;
   padding: 2rem 1rem 1.5rem 1rem;
-  color: #FFCBA4;
+  color: var(--accent-bg);
   font-size: .9rem;
   text-align: center;
   border-top: 1px solid var(--border);
