@@ -16,13 +16,13 @@
   --line-height: 1.618;
 
   --bg: #282828;
-  --accent-bg: #32302f;
-  --text: #ebdbb2;
-  --text-light: #fbf1c7;
-  --border: #fe8019;
-  --accent: #d3869b;
-  --accent-light: #83a598;
-  --code: #Fb8bb26;
+  --accent-bg: #32302F;
+  --text: #EBDBB2;
+  --text-light: #FBF1C7;
+  --border: #FE8019;
+  --accent: #D3869B;
+  --accent-light: #83A598;
+  --code: #Fb8bb2;
   --preformatted: #CCC;
   --disabled: #111;
 }
@@ -69,7 +69,7 @@ html {
 /* Make the body a nice central block */
 body {
   color: var(--text);
-  background: #190204;
+  background: var(--bg);
   font-size: var(--base-fontsize);
   line-height: var(--line-height);
   margin: 0;
@@ -84,7 +84,7 @@ main {
 
 /* Make the header bg full width, but the content inline with body */
 header {
-	background: #021A18;
+	background: var(--bg);
 	border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
