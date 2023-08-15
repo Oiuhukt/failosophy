@@ -22,10 +22,13 @@ También hemos contado contado con invitados. El propósito de las charlas es qu
   box-sizing: border-box;
 }
 
+.row {
+  display: flex;
+}
+
 .column {
-  float: left;
-  width: 33.33%;
-  padding: 2.5px;
+  flex: 33.33%;
+  padding: 5px;
 }
 </style>
 
