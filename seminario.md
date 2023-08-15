@@ -30,15 +30,15 @@ También hemos contado contado con invitados. El propósito de las charlas es qu
 </style>
 
 <div>
-  <div class="column">
-   <img src="/failosophy/assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" width="400" height="400" />
-  </div>
-  <div class="column">
-   <img src="/failosophy/assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" width="400" height="400" />
+ <div class="column">
+   <img src="/failosophy/assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" />
  </div>
-  <div class="column">
-  <img src="/failosophy/assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" width="400" height="400" />
-  </div>
+ <div class="column">
+   <img src="/failosophy/assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" />
+ </div>
+ <div class="column">
+   <img src="/failosophy/assets/images/SL_JD.png" alt="Josephine" title="Póster Josephine" />
+ </div>
 </div>
 </html>
 
