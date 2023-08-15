@@ -1,4 +1,3 @@
-
 ---
 title: Seminario
 header: failosophy
@@ -17,6 +16,6 @@ También ayudan a organizar el seminario Mar Azuela y Lizbeth Saavedra. Mar no s
 
 También hemos contado contado con invitados. El propósito de las charlas es que las alumnas tengan contacto con personas que estén desarrollando investigación en el área, tanto dentro como fuera del país. Entre nuestros invitados han estado: Josephine Dik, Dominik Pichler y Robert Freiman.
 
-<img src="./failosophy/assets/images/Josephine" alt="Josephine" title="Póster Josephine" width="150" height="100" />
+<img src="/failosophy/assets/images/Josephine" alt="Josephine" title="Póster Josephine" width="150" height="100" />
 
 Este semestre 
