@@ -5,6 +5,7 @@ description: Academia
 permalink: /academia/
 layout: default
 ---
+
 ## No me encanta la academia (aunque a veces me gusta un poco)
 
 Como dije en la página principal, estudio un posgrado. Esto me hace ser parte de la academia. Odio el comportamiento de algunos académicos: todos quieren ser más listos que tú y tratan de demostrarlo constantemente. Esto me ha llevado a tener cuadros de depresión severos. Todo el tiempo me siento como si por más empeño no lograra lo que se espera de mí y eso me frustra.
