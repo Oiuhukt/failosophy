@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-header:
+header: failosophy
 description:
 permalink: /blog/
 ---

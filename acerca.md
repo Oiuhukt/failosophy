@@ -1,7 +1,7 @@
 ---
 title: Contacto
 header: failosophy
-description: Esta página y yo
+description: 
 permalink: /acerca/
 layout: default
 ---
