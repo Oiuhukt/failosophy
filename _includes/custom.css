@@ -15,14 +15,14 @@
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
 
-  --bg: #1e2030;
-  --accent-bg: #cc241d;
-  --text: #EBDBB2;
-  --text-light: #FBF1C7;
-  --border: #FE8019;
-  --accent: #D3869B;
-  --accent-light: #83A598;
-  --code: #Fb8bb2;
+  --bg: #1e1e2e;
+  --accent-bg: #181825;
+  --text: #cdd6f4;
+  --text-light: #bac2de;
+  --border: #74c7ec;
+  --accent: #89b4fa;
+  --accent-light: #89dceb;
+  --code: #a6adc8;
   --preformatted: #CCC;
   --disabled: #111;
 }
