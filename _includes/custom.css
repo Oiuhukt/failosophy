@@ -1,7 +1,9 @@
-
 /* Set the global variables for everything. Change these to use your own fonts/colours. */
-:root {
-/* Set sans-serif & mono fonts */
+
+:root,
+::backdrop {
+
+  /* Set sans-serif & mono fonts */
 
   --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
@@ -24,6 +26,7 @@
   --accent-light: #89dceb;
   --code: #a6adc8;
   --preformatted: #CCC;
+  --marked: #ffdd33;
   --disabled: #111;
 }
 
@@ -57,9 +60,31 @@
 /* Dark theme */
 
 
-* {
+ img,
+  video {
+    opacity: 0.8;
+  }
+
+/* Reset box-sizing */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Reset default appearance */
+textarea,
+select,
+input,
+progress {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+
+html {
   /* Set the font globally */
   font-family: var(--sans-font);
+  scroll-behavior: smooth;
 }
 
 html {
@@ -85,8 +110,8 @@ main {
 /* Make the header bg full width, but the content inline with body */
 header {
   
-  color: #d3869b
-  background: var(--accent-light);
+  color: var(--bg)
+  background: var(--bg);
   border-bottom: 1px solid var(--border);
   padding: 1.5rem 15rem;
   margin-bottom: 3rem;
