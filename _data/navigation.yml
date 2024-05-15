@@ -1,0 +1,17 @@
+- name: Home
+  link: /
+
+- name: Blog
+  link: /blog
+
+- name: Acerca
+  link: /acerca
+
+- name: Contacto
+  link: /contacto
+
+- name: Academia
+  link: /academia
+
+- name: Links
+  link: /links
