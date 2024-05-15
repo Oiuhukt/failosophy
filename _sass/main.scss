@@ -17,6 +17,7 @@
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
 
+  --vis: #ed8796;
   --bg: #1e1e2e;
   --accent-bg: #181825;
   --text: #cdd6f4;
@@ -191,8 +192,9 @@ h3 {
 
 /* Format links & buttons */
 a,
+
 a:visited {
-  color: var(--accent);
+  color: var(--vis);
 }
 
 a:hover {
@@ -290,7 +292,7 @@ header > nav a:visited {
   margin: 0 0.5rem 1rem 0.5rem;
   border: 1px solid var(--border);
   border-radius: var(--standard-border-radius);
-  color: var(--text);
+  color: var(--vis);
   display: inline-block;
   padding: 0.1rem 1rem;
   text-decoration: none;
@@ -300,7 +302,7 @@ header > nav a:hover,
 header > nav a.current,
 header > nav a[aria-current="page"] {
   border-color: var(--accent);
-  color: var(--accent);
+  color: #a6da95;
   cursor: pointer;
 }
 
