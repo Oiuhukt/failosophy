@@ -5,7 +5,6 @@ description:
 permalink: /
 layout: default
 ---
-<article>
 
 <h1>¡Bienvenidas!</h1>
 
@@ -40,4 +39,4 @@ Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://
 <img src="/assets/images/logo.png">
 </figure>
 </p>
-</article>
+
