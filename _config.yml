@@ -22,11 +22,13 @@ title: failosophy
 email: aolivetti22@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Estudio filosofía. Esta es mi página personal.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+markdown: kramdown
 # Build settings
 #theme: minima
 #plugins:
