@@ -278,6 +278,7 @@ header > nav {
 /* Use flexbox to allow items to wrap, as needed */
 header > nav ul,
 header > nav ol {
+  font-size: 20%;
   align-content: space-around;
   align-items: center;
   display: flex;
