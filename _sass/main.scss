@@ -130,9 +130,19 @@ body > footer {
 }
 
 
-.footnote {
-   	font-size: 90%; /* smaller font */
-}
+ .footnote { /* This element is for a single footnote body */
+                float: footnote;
+                background-color: #a3bffa; 
+                margin-bottom: 2mm;
+            }
+
+            .footnote::footnote-call { /* As the name says this is the footnote call */
+                background-color: #d6bcfa;
+            }
+
+            .footnote::footnote-marker { /* And the footnote marker */
+                background-color: #fbb6ce;
+            }
 
 /* Format headers */
 h1 {
