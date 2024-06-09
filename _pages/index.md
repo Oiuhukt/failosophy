@@ -12,4 +12,3 @@ Mi nombre es Oscar Abraham Olivetti Alvarez y esta página es para ayudar a comu
 
 ![logo.png](/assets/images/logo.png)
 
----------------------
