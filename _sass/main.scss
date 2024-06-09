@@ -278,7 +278,6 @@ header > nav {
 /* Use flexbox to allow items to wrap, as needed */
 header > nav ul,
 header > nav ol {
-
   align-content: space-around;
   align-items: center;
   display: flex;
@@ -293,7 +292,7 @@ header > nav ol {
 /* List items are inline elements, make them behave more like blocks */
 header > nav ul li,
 header > nav ol li {
- font-size: 90%;/* smaller font */
+ font-size: 20%;/* smaller font */
  display: inline-block;
 }
 
