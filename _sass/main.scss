@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 @font-face{
-font-family:                                                                                                              et-book;
+font-family:et-book;
 src:url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot);
 src:url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix) format("embedded-opentype"), url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff) format("woff"),url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf) format("truetype"),url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf) format("svg");
 font-weight:400;
@@ -51,6 +51,7 @@ counter-reset:sidenote-counter
 }
 
 @media (prefers-color-scheme:dark){
+
 body{
 background-color:#151515;
 color:#ddd}
@@ -74,7 +75,7 @@ line-height:1
 }
 
 h3{
-  font-style:italic;
+font-style:italic;
 font-weight:400;
 font-size:1.7rem;
 margin-top:2rem;
@@ -82,7 +83,8 @@ margin-bottom:1.4rem;
 line-height:1
 }
 
-hr{display:block;
+hr{
+display:block;
 height:1px;
 width:55%;
 border:0;
@@ -115,12 +117,13 @@ padding-top:1rem;
 padding-bottom:1rem
 }
 
-dl,ol,p,ul{font-size:1.4rem;
+dl,ol,p,ul{
+font-size:1.4rem;
 line-height:2rem
 }
 
 p{
-  margin-top:1.4rem;
+margin-top:1.4rem;
 margin-bottom:1.4rem;
 padding-right:0;
 vertical-align:baseline
@@ -139,7 +142,11 @@ div.epigraph>blockquote,div.epigraph>blockquote>p{
 font-style:italic
 }
 
-div.epigraph>blockquote>footer{font-style:normal}div.epigraph>blockquote>footer>cite{
+div.epigraph>blockquote>footer{
+font-style:normal
+}
+
+div.epigraph>blockquote>footer>cite{
 font-style:italic
 }
 
@@ -195,9 +202,11 @@ max-width:40%
 }
 
 figure.fullwidth 
+
 figcaption{
 margin-right:24%
 }
+
 a:link,a:visited{
 color:inherit
 }
