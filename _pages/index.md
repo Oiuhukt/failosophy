@@ -16,12 +16,12 @@ Hablando de mi trabajo, ahora mismo soy estudiante de doctorado en el Posgrado e
  Espero que "ser estudiante" cambie en algún punto de mi vida.</label><input type="checkbox" id="1" class="margin-toggle"/>. 
  No estoy seguro de cómo presentar mi trabajo de investigación, digamos que me dedico a la "filosofía de la ciencia general". Tengo un par de publicaciones, que pueden revisar en 
 
-De mis intereses personales, soy entusiasta del software libre[^2], me gustan los juegos de mesa[^3], de la música y un largo etcétera. También me quejo de mucho y digo cosas, a lo más, interesantes.
+De mis intereses personales, soy entusiasta del software libre, me gustan los juegos de mesa, de la música y un largo etcétera. También me quejo de mucho y digo cosas, a lo más, interesantes.
 
 
+<!--
+No soy, ni de lejos, un programador. Pero trato de usar sotware libre en mi vida diaria, especialmente en mi trabjajo.
 
-[^2]: No soy, ni de lejos, un programador. Pero trato de usar sotware libre en mi vida diaria, especialmente en mi trabjajo.
-
-[^3]: Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://www.elizhargrave.com/games/wingspan). El arte del juego es simplemente hermoso.
-
+Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://www.elizhargrave.com/games/wingspan). El arte del juego es simplemente hermoso.
+-->
 ![logo.png](/assets/images/logo.png)
