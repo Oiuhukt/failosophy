@@ -30,4 +30,8 @@ No soy, ni de lejos, un programador. Pero trato de usar sotware libre en mi vida
 
 Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://www.elizhargrave.com/games/wingspan). El arte del juego es simplemente hermoso.
 -->
-![logo.png](/assets/images/logo.png)
+<figure>
+
+<img src="/assets/images/logo.png">
+
+</figure>
