@@ -19,7 +19,7 @@ De mis intereses personales, soy entusiasta del software libre[^2], me gustan lo
 
 [^1]: Espero que "ser estudiante" cambie en algún punto de mi vida.
 
-[^2]: No soy, ni de cerca, un programador. Pero trato de usar sotware libre en mi vida diaria, especialmente en mi trabjajo.
+[^2]: No soy, ni de lejos, un programador. Pero trato de usar sotware libre en mi vida diaria, especialmente en mi trabjajo.
 
 [^3]: Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://www.elizhargrave.com/games/wingspan). El arte del juego es simplemente hermoso.
 
