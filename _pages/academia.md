@@ -1,9 +1,13 @@
 ---
+layout: page-hero
+title: Academia
+nav_title: Academia
+head_title: Publicaciones
+subtitle: 
+weight: 2
 title: Academia
 header: failosophy
 description: Academia
-permalink: /academia/
-layout: default
 ---
 
 ## No me encanta la academia (aunque a veces me gusta un poco)
