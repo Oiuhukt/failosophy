@@ -2,6 +2,8 @@
 title: Ser amable
 description: Academy
 layout: post
+date: 2024-06-10
+autho: Oscar Olivetti
 ---
 
 Tenía hoy años de edad cuando me topé con una entrada en el blog de Federica Russo. En dicha entrada, Russo nos recuerda que en filosofía mucho de lo que se hace (espero que de manera accidental aunque creo que esto es muy optimista) es tratar de probar que los otros están mal.
