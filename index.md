@@ -22,17 +22,30 @@ Hablando de mi trabajo, ahora mismo soy estudiante de doctorado en el Posgrado e
           <span class="sidenote">
             Espero que "ser estudiante" cambie en algún punto de mi vida.
           </span> 
- No estoy seguro de cómo presentar mi trabajo de investigación, digamos que me dedico a la "filosofía de la ciencia general". Tengo un par de publicaciones, que pueden revisar en 
+ No estoy seguro de cómo presentar mi trabajo de investigación, digamos que me dedico a la "filosofía de la ciencia general". Tengo un par de publicaciones, que pueden revisar en el apartado correspondiente. 
 </p>
 
 <p>
-De mis intereses personales, soy entusiasta del software libre, me gustan los juegos de mesa, de la música y un largo etcétera. También me quejo de mucho y digo cosas, a lo más, interesantes.
+De mis intereses personales, soy entusiasta del software libre<label for="2" class="margin-toggle sidenote-number">
+ </label>
+ <input type="checkbox" 
+        id="2" 
+        class="margin-toggle"/>
+          <span class="sidenote">
+           No soy, ni de lejos, un programador. Pero trato de usar sotware libre en mi vida diaria, especialmente en mi trabajo. 
+          </span>
+, me gustan los juegos de mesa<label for="2" class="margin-toggle sidenote-number">
+ </label>
+ <input type="checkbox" 
+        id="2" 
+        class="margin-toggle"/>
+          <span class="sidenote">
+         Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://www.elizhargrave.com/games/wingspan). El arte del juego es simplemente hermoso. 
+          </span>. 
 
-<!--
-No soy, ni de lejos, un programador. Pero trato de usar sotware libre en mi vida diaria, especialmente en mi trabjajo.
+Me gusta mucho la música, escucharla principalmente. Tengo una pequeña selección en vinil de álbumes que me gustan mucho.
 
-Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://www.elizhargrave.com/games/wingspan). El arte del juego es simplemente hermoso.
--->
+Esta página también resguarda lo que quiero que sea un blog personal. Espero haya algo que llame su atención.
 
 <figure>
 <img src="/assets/images/logo.png">
