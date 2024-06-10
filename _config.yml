@@ -24,20 +24,20 @@ email: aolivetti22@gmail.com
 # Estudio filosofía. Esta es mi página personal.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 header: false
-subtitle: A Jekyll theme based on tufte-css
-author: Andy Brody
-description: A Jekyll theme based on tufte-css
+subtitle:
+author: Abraham Olivetti
+description: Página web personal
 show_author: true
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 # permalink: /blog/:categories/:year/:month/:day/:title.html
-permalink: /blog/:categories/:slug
-timezone: America/New_York
+#permalink: /blog/:categories/:slug
+#timezone: 
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 plugins:
