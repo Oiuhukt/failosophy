@@ -20,16 +20,36 @@
 
 title: failosophy
 email: aolivetti22@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Estudio filosofía. Esta es mi página personal.
-
+#description: >- # this means to ignore newlines until "baseurl:"
+# Estudio filosofía. Esta es mi página personal.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+header: false
+subtitle: A Jekyll theme based on tufte-css
+author: Andy Brody
+description: A Jekyll theme based on tufte-css
+show_author: true
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+# permalink: /blog/:categories/:year/:month/:day/:title.html
+permalink: /blog/:categories/:slug
+timezone: America/New_York
+excerpt_separator: <!--more-->
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
+plugins:
+  - jekyll-feed
+
+
 #markdown: kramdown
 # Build settings
+#theme: jekyll-theme-tufte
+#plugins:
+#  - jekyll-theme-tufte
+
 #theme: minima
 #plugins:
 #  - jekyll-feed

@@ -3,7 +3,7 @@ title: Mi página web personal
 header: failosophy
 description:
 permalink: /
-layout: default
+layout: page
 ---
 
 <h1>¡Bienvenidas!</h1>

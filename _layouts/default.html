@@ -1,18 +1,12 @@
-<!doctype html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  
-  <body>
-    <section>
-      <center>
-      {% include navigation.html %}
-      </center>
-    </section>
-    <section>  
-    {{ content }}
-    </section>
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body {% if page.full_width or layout.full_width %}class="full-width"{% endif %}>
+    {% include header.html %}
+    <article class="group">
+      {{ content }}
+    </article>
+    {% include print-footer.html %}
+    {% include footer.html %}
   </body>
-
+</html>
