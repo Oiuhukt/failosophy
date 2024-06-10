@@ -2,8 +2,7 @@
 title: Enlaces
 header: failosophy
 description: Sitios interesantes
-permalink: /links/
-layout: default
+layout: page
 ---
 
 # Enlaces a sitios interesantes
