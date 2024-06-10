@@ -1,8 +1,8 @@
 ---
+nav_title: Principal
 title: Mi página web personal
 header: failosophy
 description:
-permalink: /
 layout: page
 ---
 
