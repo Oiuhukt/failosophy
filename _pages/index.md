@@ -1,4 +1,11 @@
-<article>
+---
+title: Mi página web personal
+header: failosophy
+description:
+permalink: /
+layout: default
+---
+
 <h1>¡Bienvenidas!</h1>
 
 <p>
@@ -32,4 +39,3 @@ Mi favorito hasta ahora es Wingspan, diseñado por [Elizabeth Hargrave](https://
 <img src="/assets/images/logo.png">
 </figure>
 </p>
-</article>
