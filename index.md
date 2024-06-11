@@ -7,6 +7,21 @@ subtitle: Me presento
 weight: 1
 ---
 
+
+{% epigraph %}
+Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza. Sin duda es verdad $\ldots$
+
+<footer>Iris Murdoch, <cite>“La idea de perfección”</cite></footer>
+{% endepigraph %}
+
+{% epigraph %}
+$\ldots$ no hay ningún argumento contundente para mostrar que esta consecuencia es inaceptable; con intuiciones suficientemente flexibles se puede uno tragar cualquier cosa en filosofía.
+
+<footer>Gareth Evans, <cite>“La teoría causal de los nombres”</cite></footer>
+{% endepigraph %}
+
+
+
 Me llamo Oscar Abraham Olivetti Alvarez y esta página es mi página personal.
 Me gustan las páginas personales porque me parece una forma más fiel de estar en contacto con otras personas.
 Se ven "más humanos", por decirlo de alguna manera.
