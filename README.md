@@ -1,3 +1,8 @@
+# Mi página web personal
+
+Este es el repositorio que coentiene mi página personal. El diseño de la página se lo debo completamente al autor del tema, cuya información detallada viene en el siguient apartado.
+
+
 # jekyll-theme-tufte
 
 ## *A modern Jekyll theme based on [tufte-css](https://github.com/edwardtufte/tufte-css)*
