@@ -21,4 +21,4 @@ Me gusta mucho la música, escucharla principalmente. Tengo una pequeña selecci
 
 Esta página también resguarda lo que quiero que sea un blog personal. Espero haya algo que llame su atención.
 
-{% maincolumn 'assets/images/logo.png' 'logo' %}
+{% maincolumn 'assets/images/logo.png' '' %}
