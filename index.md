@@ -9,13 +9,13 @@ weight: 1
 
 
 {% epigraph %}
-Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza. Sin duda es verdad $\ldots$
+Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza. Sin duda es verdad . . .
 
 <footer>Iris Murdoch, <cite>“La idea de perfección”</cite></footer>
 {% endepigraph %}
 
 {% epigraph %}
-$\ldots$ no hay ningún argumento contundente para mostrar que esta consecuencia es inaceptable; con intuiciones suficientemente flexibles se puede uno tragar cualquier cosa en filosofía.
+. . . no hay ningún argumento contundente para mostrar que esta consecuencia es inaceptable; con intuiciones suficientemente flexibles se puede uno tragar cualquier cosa en filosofía.
 
 <footer>Gareth Evans, <cite>“La teoría causal de los nombres”</cite></footer>
 {% endepigraph %}
