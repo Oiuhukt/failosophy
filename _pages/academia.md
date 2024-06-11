@@ -13,7 +13,7 @@ description: Academia
 
 Soy estudiante de posgrado. Lo que significa que tengo que publicar *papers* en revistas académicas. Como podrán ver, he fallado *radicalmente*.
 
-Pero tengo el objetivo de que eso cambie en el futuro. Hace poco me enseñaron que puedo ser filósofo, sin que *ser filósofo* sea mi trabajo{% sidenote '1' 'Gracias a este trbajo, he conocido a muchas personas interesantes, dispuestas a hacer una comunidad. Al dfinal , nos apoyamos mutuamente para participar en el desarrollo del conocimiento humano.' %}. Por ahora sólo hay una.
+Pero tengo el objetivo de que eso cambie en el futuro. Hace poco me enseñaron que puedo ser filósofo, sin que *ser filósofo* sea mi trabajo{% sidenote '1' 'Gracias a este trabajo he conocido a muchas personas interesantes, todas dispuestas a hacer una comunidad. Al final, nos apoyamos mutuamente para participar en el desarrollo del conocimiento humano.' %}. Por ahora sólo hay una.
 
 ## Publicaciones
 
