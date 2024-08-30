@@ -1,6 +1,6 @@
 ---
 name: Mar Azuela
-layout: author
+layout: authors
 ---
 
 Estudiante de posgrado blah blah...
