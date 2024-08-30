@@ -1,6 +1,6 @@
 ---
 name: Abraham Olivetti
-layout: authors
+layout: author
 ---
 
 Soy estudiante de posgrado. Lo que significa que tengo que publicar *papers* en revistas académicas y como podrán ver, he fallado ligeramente en esta tarea.
