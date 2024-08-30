@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Agradezco a \LaTeX"
+title: "Agradezco a LaTeX"
 subtitle: ·
 date: 2024-07-08
-author: oiuhukt
+author: Abraham Olivetti
 ---
 
 <!-- LTeX: language=es -->
