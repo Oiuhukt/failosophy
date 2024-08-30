@@ -7,6 +7,8 @@ Soy estudiante de posgrado. Lo que significa que tengo que publicar *papers* en 
 
 Pero tengo el objetivo de que eso cambie en el futuro. Hace poco me enseñaron que puedo ser filósofo, sin que *ser filósofo* sea mi trabajo{% sidenote '1' 'Gracias a este trabajo he conocido a muchas personas interesantes, todas dispuestas a hacer una comunidad. Al final, nos apoyamos mutuamente para participar en el desarrollo del conocimiento humano.' %}.
 
+
+
 ## Publicaciones
 
 
