@@ -1,6 +1,6 @@
 ---
 layout: page-hero
-title: Principal
+title: failosophy
 nav_title: Principal
 head_title: Hola
 subtitle:
@@ -20,7 +20,7 @@ Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza. Sin dud
 <footer>Gareth Evans, <cite>“La teoría causal de los nombres”</cite></footer>
 {% endepigraph %}
 
-## Me presento
+
 
 Me llamo Oscar Abraham Olivetti Alvarez y esta página es mi página personal.
 Me gustan las páginas personales porque me parece una forma más fiel de estar en contacto con otras personas.
