@@ -1,13 +1,15 @@
 ---
 layout: post
 title: "Cómo se siente tener mi trabajo"
-subtitle: "Excelente ambiente laboral"
-date: 2024-07-08
+subtitle: "-"
+date: 2024-10-05
 author: Abraham Olivetti
 ---
 
 
 Por supuesto que es una referencia a Nagel. Lean ese artículo.
+
+## Excelente ambiente laboral
 
 Recientemente comencé a dar clases en la Universidad Tecnológica el Retoño. 
 Es una Universidad bonita, pequeña. 
