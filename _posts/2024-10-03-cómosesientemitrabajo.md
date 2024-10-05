@@ -160,7 +160,7 @@ Ponerme el cubrebocas, salir a tomar agua, entrar a los baños hasta que pararan
 Luego regresaba y fingía que había estado bostezando --usé la técnica Foster Wallace.--
 
 Fueron épocas de carnaval, y a pesar de que no estábamos en São Paulo capital, hubo eventos carnavalescos. 
-Una especie de pequeños carnavales en CAMPINAS.
+Una especie de pequeños carnavales en Campinas.
 Los estudiantes de UNICAMP nos invitaron a uno de estos eventos.
 Es lo más divertido que he hecho en mi vida.
 Pero volvían los pensamientos inevitables.
@@ -188,7 +188,7 @@ Quizás eso fue lo más valioso que aprendí.
 
 Aprendí más sobre teoría de la probabilidad gracias a Mundici.
 Conocí a un programador excelente que tiene un artículo publicado en un Journal de Oxford.
-Se llama Lukas
+Se llama Lukas.
 Conocí a un filósofo que estaba trabajando en un departamento de matemáticas en Viena.
 Se llama Giovanni.
 Conocí a tres matemáticos cuya investigación giraba en torno a la lógica modal.
@@ -245,6 +245,9 @@ Me entristece aún más saber que muchos de los alumnos a quienes les doy clases
 Por eso creo que todos deberíamos tener acceso a todas las oportunidades.
 Por eso me interesa que los alumnos aprendan a preocuparse por los otros.
 Por eso espero que aprecien el trabajo que hacemos los maestros, porque no es poco.
+
+Si mañana un profesor me mencionara una noticia como la que le mencioné a mis alumnos, me sentiría orgulloso --me parecería admirable.-- y lo felicitaría, porque están apreciando su trabajo.
+Si un profesor me hubiera dado una noticia parecida cuando estaba cursando la licenciatura, la admiración sería la única respuesta.
 
 
 
