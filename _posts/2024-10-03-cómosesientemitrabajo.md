@@ -244,7 +244,7 @@ Me entristece además saber que muchas personas brillantes que he conocido a lo 
 Me entristece aún más saber que muchos de los alumnos a quienes les doy clases van a tener el mismo destino que algunas de las personas aquí mencionadas.
 Por eso creo que todos deberíamos tener acceso a todas las oportunidades.
 Por eso me interesa que los alumnos aprendan a preocuparse por los otros.
-
+Por eso espero que aprecien el trabajo que hacemos los maestros, porque no es poco.
 
 
 
