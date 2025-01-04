@@ -43,7 +43,7 @@ permalink: /blog/:categories/:slug
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 plugins:
-  - jekyll-feed
+ - jekyll-feed
 
 
 #markdown: kramdown
