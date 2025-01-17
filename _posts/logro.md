@@ -2,7 +2,7 @@
 layout: post
 title: "Fallos y logros"
 subtitle: "-"
-lang: "es"
+lang: "es, en"
 date: 2024-12-20
 author: Abraham Olivetti
 ---
@@ -31,7 +31,7 @@ Pero resultó que sí pude --al menos eso creo-- y resultó ser una gran experie
 
 Por fortuna, mi nerviosismo fue rápidamente apaciguado por la enorme cantidad de manuales que revisé para dar la clase.
 Resulta que hay una cantidad asfixiante de recursos de enseñanza para esta materia.
-No tengo idea de a qué se debe el renacimiento (si es que hay tal cosa,) de la discusión en torno a problemas de igualdad económica y política, además de problemas en torno a la ética ambiental.
+No tengo idea de a qué se debe el renacimiento --si es que hay tal cosa-- de la discusión en torno a problemas de igualdad económica y política, además de problemas en torno a la ética ambiental.
 
 Digo que no sé si es que hay tal cosa porque como no soy cercano a las discusiones en ética, mucho menos en torno a la ética ambiental.
 Por tanto, mi ignorancia está jugando un papel en este diagnóstico. 
@@ -103,11 +103,15 @@ Revisé la [guía de Willie Lynch](https://www.gatheringofchrist.org/wp-content/
 Me di el pretexto para leer la introducción y el primer capítulo de _What We Owe to Each Other_ (2000) de Scanlon.
 Tuve la oportunidad de leer completo el libro _Lo que nos debemos unos a otros_ (2022) de Shafik --lo sé, no sé si Shafik haya leído a Scanlon, yo apuesto a que sí.
 Releí _Rational Fools_ (1977) de Sen, es un excelente artículo.
-Usé ademas las notas que tenía del libro 
-También 
+Usé ademas las notas que tenía del libro _How to Hide an Empire_ (2019) de Immerwahr.
 
-Les confesé a las alumnas que no soy un experto en desigualdades sociales debido al género/preferencia/sexo biológico.
-Que me iba a centrar un poco más 
+Les confesé a las alumnas que no soy un experto en desigualdades sociales debido al género/preferencia/sexo biológico y que me iba a centrar un poco más en desigualdades económicas debido a aspectos raciales.
+
+Por eso quise empezar con el horripilante texto de Willie Lynch.
+Quise que quedaran impactados por la manera en la que los seres humanos somos capaces de hablar de otros seres humanos, hablar como si fuéramos martillos, hoces o cualquier herramienta que se puedas pulir a discreción.
+Por supuesto este documento lo descubrí porque Kendrick Lamar lo menciona en una ca
+
+
 
 Por supuesto también encontré nuevas cosas que leer. 
 Como e especial estuve buscando literatura sobre desigualdad económica para esta parte del curso.
