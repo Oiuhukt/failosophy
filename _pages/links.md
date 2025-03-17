@@ -4,6 +4,7 @@ title: Enlaces
 nav_title: Enlaces
 head_title: Enlaces
 header: failosophy
+weight: 4
 description: Sitios interesantes
 layout: page-hero
 ---
@@ -19,5 +20,3 @@ Confieso que me gustan las páginas web personales. Tengo la impresión de que e
 [Jun Otsuka](http://www.philosophy.bun.kyoto-u.ac.jp/junotk/index.html){% sidenote '4' 'Roca-Royes trabaja filosofía de la ciencia y tiene una excelente [introducción a la filosofía de la estadística](https://www.routledge.com/Thinking-About-Statistics-The-Philosophical-Foundations/Otsuka/p/book/9781032333106)' %}
 
 [Roberta Millstein](https://www.rlm.net/cv.html){% sidenote '5' 'Millstein  trabaja filosofía de la biología' %}
-
-
