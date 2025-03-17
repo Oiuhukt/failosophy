@@ -1,5 +1,7 @@
 # Mi página web personal
 
+
+Edición para muestr
 Este es el repositorio que coentiene mi página personal. El diseño de la página se lo debo completamente al autor del tema, cuya información detallada viene en el siguient apartado.
 
 
