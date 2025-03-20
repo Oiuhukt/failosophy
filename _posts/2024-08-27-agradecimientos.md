@@ -8,25 +8,67 @@ author: oiuhukt
 
 <!-- LTeX: language=es -->
 
-Estudié filosofía y soy parte de la comunidad dedicada a hacer investigación --para eso me pagan-- y necesito producir documentos para mostrar mi trabajo.
-Como producir documentos es una parte importante del trabajo, creo que es necesario conocer las herramientas que nos lo permiten.
+Estudié filosofía y soy parte de la comunidad dedicada a hacer
+investigación --para eso me pagan-- y necesito producir documentos
+para mostrar mi trabajo. Como producir documentos es una parte
+importante del trabajo, creo que es necesario conocer las
+herramientas que nos lo permiten.
 
 ## La tesis
 
-He estado últimamente pensando en muchas cosas.
-En particular he pensado largo y tendido sobre el tema de mi tesis de doctorado.
-Si bien he trabajado principalmente en el tema, también he pensado en la _tesis_: el producto impreso que se entrega a las manos de los lectores.
-Ese documento tiene una medida de papel particular, como carta, oficio o A4; 
-el contenido del documento descansa dentro de ciertos márgenes con medida particular; 
-y el contenido está estructurado por encabezados, subsecciones, títulos, notas al pies, etc. 
+He estado últimamente pensando en muchas cosas. En particular he
+pensado largo y tendido sobre el tema de mi tesis de doctorado. Si
+bien he trabajado principalmente en el tema, también he pensado en
+la _tesis_: el producto impreso que se entrega a las manos de los
+lectores. Ese documento tiene una medida de papel particular, ya
+sea: carta, oficio o A4; el contenido del documento descansa dentro
+de ciertos márgenes con medida particular y el contenido está
+estructurado por: encabezados, subsecciones, títulos, notas al pie,
+etc.
 
-De todas estas características físicas, me interesa hablar de este último conjunto de características, digamos la _estructura del contenido_ [EC].
-La EC es una parte esencial del formato, pero también es una guía para estructurar el contenido de la tesis: hay que decidir qué secciones y subsecciones son necesarias para escribir un capítulo y decidir qué notas a pie incorporar.
+De todas estas características físicas, me interesa hablar de este
+último conjunto de características, digamos la _estructura del
+contenido_ [EC]. La EC es una parte esencial del formato, pero
+también es una guía para estructurar el contenido de la tesis: hay
+que decidir qué secciones y subsecciones son necesarias para
+escribir un capítulo y decidir qué notas a pie incorporar.
 
-Es gracias a un par de herramientas que he podido concentrarme más en el contenido y la estructura del contenido y no en el formato de dicha estructura;
-formato ejemplificado por nuestros longevos compañeros: tamaño de letra, espaciado, sangría, espacio entre líneas, __negritas__, _itálicas_, etc;
-y ha sido gracias a buenas herramientas que he podido producir el documento. 
-Claro que la herramienta principal es la que de hecho nos permite redactar.
+Hay herramientas como Microsoft Word que sirven para realizar este
+trabajo. Pero no quiero usar word {% 'sidenote' '0' 'Sin duda,
+Charlie Stross lo expresa mucho mejor en su entrada [Why Microsoft Word Must Die](https://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html)' %} en mi vida personal --aunque he
+tenido que ceder en otros aspectos de mi vida: para las alumnas de
+marketing he estado usando google docs. Entonces necesito un
+sustituto para editar texto.
+
+Para sustituir los programas tradicionales de composición de texto
+tomé la ruta larga, que probablemente es a su vez la más estúpida.
+Pero el camino dio frutos y he aprendido bastante sobre $\Latex$, `
+`markdown``, ``html``, ``css``, ``bash``, ``Linux`` y ``R`` (en
+orden de experticia, digamos).
+
+En muchos casos he visto quue estos lenguajes se venden prometiendo
+a los autores --usualmente un fulano que usa un teclado para
+escribir lo que sea,-- será capaz de concentrarse más en el
+conetenido del texto que en la estructura del mismo. Quiero afirmar
+que esto es, sin duda, una verdad a medias.
+
+En mi caso particular, creo que en efecto me ha ayudado a
+concentrarme más en el contenido que en la estructura del texto.
+Dejen a las computadoras hacer lo que saben hacer: automatizar.
+Gracias a estas herramientas he podido automatizar una buena parte
+de mi trabajo.
+
+Creo que estas herramientas pueden ser de utilidad para cualquier
+persona, porque es verdad que me ha servido concentrarme en el
+contenido y no en el formato. Pero esto se debe a que  gracias a
+este grupo de herramientas que he podido
+concentrarme más en el contenido y la estructura del contenido y no
+en el formato de dicha estructura; formato ejemplificado por
+nuestros longevos compañeros: tamaño de letra, espaciado, sangría,
+espacio entre líneas, __negritas__, _itálicas_, etc; y ha sido
+gracias a buenas herramientas que he podido producir el documento.
+Claro que la herramienta principal es la que de hecho nos permite
+redactar.
 
 ## _suite_ de ofimática
 
@@ -35,7 +77,7 @@ Es la suite de ofimática la que tiene algún programa para redactar documentos.
 
 La herramienta por excelencia para este trabajo es el _procesador de textos_{% sidenote '1' 'Otra de las herramientas útiles en la investigación es la _hoja de cálculo_, en la que podemos procesar grandes cantidades de datos y obtener sus propiedades estadístícas.' %}.
 Es en el procesador de textos en el que vemos el _formato_ y el _contenido_ del documento.
-Podemos agregar contenido sin formato, escribir cualquier cadena de carácteres que queramos; 
+Podemos agregar contenido sin formato, escribir cualquier cadena de carácteres que queramos;
 luego guardar el documento con algún nombre recordable para editarlo en el futuro.
 
 Con el procesador de textos{% sidenote '2' 'Voy a hablar mayormente de procesadores de textos porque estudié filosofía. No es necesario hacer estadística (que no estaría nada mal). Pero quiero hablar de una herramienta de procesado de datos en otra entrada' %} podemos no sólo agregar contenido a un documento sino también darle estructura y declarar el _formato_ del documento.
@@ -74,7 +116,7 @@ No se programa en \LaTeX, pero se escribe en este lenguaje.
 Para fines de este escrito, \LaTeX es un sistema de composición del documento y no es un lenguaje de programación{% sidenote '6' 'Por supuesto que comparte características con un lenguaje de programación imperativo y $\TeX$ es turing completo y discutir esto nos saca de tema' %}.
 Decir esto es importante porque suele ser una preocupación común, porque hace parecer a \LaTeX más complicado de lo que es.
 
-Otra cosa que debo decir es que $\LaTeX$ sí comparte ciertas características con los lenguajes de programación: el documento  necesita un _compilador_ y hay que aprender una _sintaxis;_ 
+Otra cosa que debo decir es que $\LaTeX$ sí comparte ciertas características con los lenguajes de programación: el documento  necesita un _compilador_ y hay que aprender una _sintaxis;_
 aprender esta sintaxis tiene una curva.
 Microsoft Word no tiene esta curva, porque es más familiar a todas nosotras, en corto: si estás dedicando más tiempo a aprender la sintaxis y dar formato al documento en lugar de escribir, entonces no vale la pena.
 Simplemente usa Word o similares.
@@ -94,29 +136,29 @@ Lo importante es que al igual que con Word y sus botones para cambiar una cadena
 ## Creando un documento
 
 Para este caso particular, diremos que un documento de \LaTeX tiene tres partes: el preámbulo del documento, el contenido del documento y la bibliografía.
-La bibliografía está separada del contenido porque crear una base de datos bibliográfica contenida en un archivo `.bib` es un proceso diferente. 
+La bibliografía está separada del contenido porque crear una base de datos bibliográfica contenida en un archivo `.bib` es un proceso diferente.
 Entonces concentrémonos en las dos primeras
 
-En el preámbulo del documento, señalamos el tipo de documento que vamos a redactar. 
+En el preámbulo del documento, señalamos el tipo de documento que vamos a redactar.
 Las opciones que más uso son `article` y `book`.
 La diferencia radica en las variables que podemos modificar, el tipoi de documento `book` define un comando para dar formato a encabezados como capítulo, la etiqueta `\chapter{*}` y que podemos definir qué tanto margen izquierdo y derecho queremos dejar para la encuadernación;
 el tipo `article` no tiene estas características --aunque se pueden agregar.--
 
 En el preámbulo también definimos los paquetes que queremos usar para nuestro documento, que nos permiten usar otros comandos.
-El preámbulo se ve así 
+El preámbulo se ve así
 
 ```
 \documentclass[letterpaper,12pt]{article}
 \usepackage{paper}
 \usepackage[spanish]{babel}
-\usepackage[T1]{fontenc}    % 
+\usepackage[T1]{fontenc}    %
 \usepackage{url}
 ```
 
 Donde `letterpaper, 12pt` dicen que el documento tiene el tamaño de una hoja carta con letra de tamaño 12.
 Los paquetes que uso para el documento son `babel`, `fontenc` y `url`.
 Por ahora no prestemos atención a `paper`, entonces el primer paquete `babel`, es un paquete para usar diferentes lenguajes en el documento.
-En este caso usar el español y que las reglas para romper las sílabas de una palabra sean las del español; 
+En este caso usar el español y que las reglas para romper las sílabas de una palabra sean las del español;
 `fontenc` es el paquete que nos permite escribir "á" y no  "\'a".
 Esto se debe a que la versión original, \TeX no tiene estos caracteres, sólo tiene 7 bits y el acento y la letra son dos caracteres diferentes, mientras que T1 usa 8 bits y tiene "á" como un caracter, no la composición de dos caracteres.
 El último paquete `url` hace que los enlaces tengan el formato adecuado.
@@ -129,13 +171,13 @@ El último paquete `url` hace que los enlaces tengan el formato adecuado.
 
 Pero Latex no es un _lenguaje de programación._
 No es un lenguaje de programación funcional
-porque no usamos funciones sino que es más parecido 
+porque no usamos funciones sino que es más parecido
 
 Pero es importante esta relación entre el proyecto Latex y el lenguaje de etiquetas html.
-html fue creado originalmente para mostrar documentos en una pantalla que sólo podía renderizar caracteres. 
-Pero como el internet se creó para compartir la investigación más rápido entre grupos geográficamente distantes. 
+html fue creado originalmente para mostrar documentos en una pantalla que sólo podía renderizar caracteres.
+Pero como el internet se creó para compartir la investigación más rápido entre grupos geográficamente distantes.
 Surge la necesidad de dar estructura al documento: título, información de los autores, secciones, subsecciones, notas a pie, etc.
-El lenguaje de html se creo para solucionar este problema. 
+El lenguaje de html se creo para solucionar este problema.
 
 
 
@@ -198,13 +240,12 @@ or printed only as a secondary consideration
 
 
 
-He pensado que es lo que quiero lograr con este documento 
+He pensado que es lo que quiero lograr con este documento
 
 
-Hace un par de semanas tuve que dejar el lugar en el que vivía. 
+Hace un par de semanas tuve que dejar el lugar en el que vivía.
 Ahora mismo, al escribir esto, estoy en casa de mis padres en Pabellón de Arteaga {% sidenote '0' 'El primer distrito de riego del país.' %}. }
-Antes de esto, vivía en Tlalnepantla. 
+Antes de esto, vivía en Tlalnepantla.
 
-La mudanza interestatal es muy costosa y tuve que repartir mis cosas en las casas de dos amigos que viven cerca de ese municipio, ahora mis pertenencias están divididas. 
+La mudanza interestatal es muy costosa y tuve que repartir mis cosas en las casas de dos amigos que viven cerca de ese municipio, ahora mis pertenencias están divididas.
 Otros de mis bienes materiales los tuve que abandonar en la casa que deshabité: mi silla y mi
-
