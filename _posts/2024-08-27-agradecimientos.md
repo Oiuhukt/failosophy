@@ -34,8 +34,7 @@ que decidir qué secciones y subsecciones son necesarias para
 escribir un capítulo y decidir qué notas a pie incorporar.
 
 Hay herramientas como Microsoft Word que sirven para realizar este
-trabajo. Pero no quiero usar word {% 'sidenote' '0' 'Sin duda,
-Charlie Stross lo expresa mucho mejor en su entrada [Why Microsoft Word Must Die](https://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html)' %} en mi vida personal --aunque he
+trabajo. Pero no quiero usar word  en mi vida personal --aunque he
 tenido que ceder en otros aspectos de mi vida: para las alumnas de
 marketing he estado usando google docs. Entonces necesito un
 sustituto para editar texto.
