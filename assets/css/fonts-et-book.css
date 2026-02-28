@@ -8,7 +8,7 @@
 /* The default family has line numerals, where numbers all look like uppercase letters. */
 @font-face {
     font-family: "et-book";
-    src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff");
+    src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woffoff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: block;

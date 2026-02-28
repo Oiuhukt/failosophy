@@ -1,8 +1,7 @@
 /* Overrides and additional CSS functionality */
-
 .contrast { color: $contrast-color;}
-.smaller { font-size: 80%;}
-.larger { font-size: 2.8rem;}
+.smaller  { font-size: 80%;}
+.larger   { font-size: 2.8rem;}
 
 .faded { color: rgba(17,17,17,0.5); }
 @media (prefers-color-scheme: dark) {
@@ -383,4 +382,4 @@ blockquote.fancy p:first-child::before {
  */
 blockquote.fancy p {
   font-style: italic;
-}
+
