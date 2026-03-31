@@ -33,7 +33,7 @@ $text-color: #111;
 $bg-color: #fffff8;
 $contrast-color: #a00000;
 $border-color: #333333;
-$link-style: color; // choices are 'color' or 'underline'. Default is color using $contrast-color set above
+$link-style: color; // choices are 'color' or 'underline'. Default is color using 
 ```
 Any of these values can be changed in the ```_sass/_settings.scss``` file before the site is built. The default values are the ones from *tufte-css*.
 
@@ -390,5 +390,3 @@ Enclose the code block in three backticks, followed by a space and then the lang
     module Jekyll
     blah, blah...
    ```</code> </pre>
-
-
