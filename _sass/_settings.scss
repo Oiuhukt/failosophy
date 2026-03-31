@@ -6,6 +6,8 @@ $body-font:
 // Note that Gill Sans is the top of the stack and corresponds to what is used in Tufte's books
 // However, it is not a free font, so if it is not present on the computer that is viewing the webpage
 // The free Google 'Lato' font is used instead. It is similar.
+
+$contrast-color: #f33393;
 $sans-font: "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato";
 $code-font: "Consolas", "Liberation Mono", "Menlo", "Courier", "monospace";
 $url-font:
@@ -13,6 +15,5 @@ $url-font:
     "monospace";
 $text-color: #111;
 $bg-color: #fffff8;
-$contrast-color: #f33393;
 $border-color: #333333;
 $link-style: color; // choices are 'color' or 'underline'. Color option styles links with $contrast-color set above
