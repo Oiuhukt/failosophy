@@ -17,25 +17,6 @@ The remainder of this sample post is a self-documenting survey of the features o
 
 I have taken much of the actual *Tufte-css* files and modified them as necessary to accomodate the needs inherent in creating a Jekyll theme that has additional writing aids such as the Liquid tags. I have also turned the CSS file into a [SASS](http://sass-lang.com) file (the .scss type).  This means that you can alter things like font choices, text color, background color, and underlining style by changing values in this file. When the Jekyll site is built using ```jekyll build``` the settings in this file will be compiled into the customized CSS file that the site uses. If you don't use SCSS or SASS, you are missing out on a huge productivity tool.
 
-This file looks like this:
-
-```
-/* This file contains all the constants for colors and font styles */
-
-$body-font:   ETBembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-// Note that Gill Sans is the top of the stack and corresponds to what is used in Tufte's books
-// However, it is not a free font, so if it is not present on the computer that is viewing the webpage
-// The free Google 'Lato' font is used instead. It is similar.
-$sans-font:  "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif;
-$code-font: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-$url-font: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
-$text-color: #111;
-$bg-color: #fffff8;
-$contrast-color: #a00000;
-$border-color: #333333;
-$link-style: color; // choices are 'color' or 'underline'. Default is color using 
-```
-Any of these values can be changed in the ```_sass/_settings.scss``` file before the site is built. The default values are the ones from *tufte-css*.
 
 ## Fundamentals
 
