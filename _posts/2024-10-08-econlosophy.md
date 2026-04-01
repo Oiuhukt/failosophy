@@ -1,0 +1,97 @@
+---
+layout: post
+title: artsick
+subtitle: hartazgo
+date: 2024-06-12
+author: Oscar Olivetti
+---
+
+
+Me cuesta trabajo exagerar lo mucho que me gusta tricot{% marginfigure 'the' 'assets/images/tricot.jpg' '[Página oficial](https://tricot-official.jp/)' %}, una banda de rock formada en Kyoto.
+Según su página oficial, se distinguen por el uso de vocalizaciones pop y de ritmos complejos. 
+He visto que suelen describir a la banda como parte del género "math rock".
+El math rock tiene uno de los nombres más pretenciosos que hay en los género musicales, compartiendo el puesto con "intelligent dance music"{% sidenote 'otra' 'No sé quién se dedica a ponerle etiquetas a la música. Pero, al igual que todas las etiquetas, sólo sirven como una guía temporal.' %}.
+Pero tricot son muy claros en decir que no tienen idea de qué es el math rock y que, lo que sea que sea, no es creado a propósito--aclaración simplemente genial--.
+
+Tengo una pequeña selección de viniles y tricot es la única agrupación de la que tengo dos álbumes, sea lo que sea que hagan, lo hacen muy bien.
+De alguna forma es hasta bailable{% sidenote '2' 'Basta con escuchar su canción [potage](https://www.youtube.com/watch?v=-rZWdolJfgk). Por favor, vean el video.' %}, a diferencia de muchas composiciones *math rock*
+
+Mi album favorito, por lejos, es "THE", que me encantó desde la primera vez que lo escuche completo.
+Cofnieso que no conozco ni una fracción de japonés--¡nada en aboluto!--pero cuando escuché el disco hubo una canción que me llamó personalmente la atención.
+Desde el inicio, la canción tiene cierta sensación melancólica{% sidenote '3' 'No tomen mi palabra en análisis musical: no soy músico. Lo más que puedo ofrecer es algo parecido a lo que hacen los catadores de vino: describir como me parece *el sabor*' %} y me gustan las canciones melancólicas.
+Además la voz de Ikkyu tiene un efecto que la hace sonar como si se estuviese quebrando por el llanto.
+
+En youtube sólo he encontrado una [traducción](https://www.youtube.com/watch?v=dwLQADAZJ4s) al español de la letra{% sidenote '4' 'Si alguien sabe japonés y hace otra traducción al español, por favor hágamelo saber.' %}.
+Pero esta traducción me gusta más que las que he encontrado en otras partes de la web{% sidenote '5' 'En realidad no hay tantas traducciones' %}.
+En términos procaces, la canción trata de arte, nada sorprendente debido al título.
+Pero la parte importante del título es *sick*.
+Esta es una combinación particularmente rara de palabras *art*-*sick*{% sidenote '11' 'Se antoja hacer la comparación con *homesick* y tiene perfecto sentido. Pero me parece que lo descrito es mucho más que nostalgia' %}, ¿qué hace que le *duela* el *arte*? y ¿qué síntomas tiene dicha afectación?
+
+Por decirlo burdamente, la canción nos dibuja la imagen de una persona lidiando emocionalmente con una pintura.
+Para que la explicación sea más sencilla, supongamos que somos nosotros lidiando con alguno de nuestros pasatiempos o con nuestro trabajo.
+Mi trabajo es ser estudiante de posgrado y disfruto investigar, pero me cuesta escribir; algunos de mis pasatiempos son encuadernar y reparar computadoras{% sidenote '6' 'La persona que esté leyendo esto, si es que hay alguien, puede modificar lo anterior a placer.' %}.
+Jamás he tenido que lidiar emocionalmente con mis pasatiempos, comienzo, termino y me siento orgulloso del trabajo realizado. 
+Pero mi empleo es mucho más complicado emocionalmente.
+
+Estudié filosofía y mi doctorado es en filosofía.
+Pero lo que debo hacer no difiere mucho de lo que otros hacen en un doctorado: publicar artículos en revistas arbitradas.
+A otras personas que conozco, parece serles natural escribir y enviar sus artículos.
+A mí personalmente me cuesta mucho trabajo.
+La mayor parte del tiempo no sé qué escribir, no sé qué tema puede ser interesante o en qué debate me puedo insertar para aportar algo.
+Además, muchas de las publicaciones en filosofía me parecen triviales, problemas autogenerados, etc.{% sidenote '7' 'Dennet lo expresa de manera brillante en "Verdades de orden superior del *ajetrez*"' %}, y un estudiante anodino como yo, no puede simplemente ponerse a debatir temas que no entiende--me parece que la sensación de trivialidad es un síntoma de mi ignorancia--.
+
+Esto hace que escribir sea particularmente molesto.
+Literalmente me causa *náusea* no saber si el trabajo realizado es lo suficientemente bueno, si es una aportación original o no, no sé exactamente qué hace *valioso* a este tipo de trabajos.
+Las personas que hemos lidiado con depresión severa, podemos compartir esta sensación.
+Todo el tiempo tienes náuseas, un nudo en la boca del estómago y un ligero cosquilleo que se siente desde la frente hasta los ojos.
+De acuerdo a mis gustos, la descripción más adecuada de esto la hace Wallace en "el planeta trillaphon y su relación con respecto a *lo malo*"
+
+>This is hard to understand but it’s really true. 
+>Imagine a really painful disease that, say, attacked your legs and your throat and resulted in a really bad pain and paralysis and all·around agony in these areas. 
+>The disease would be bad enough, obviously, but the disease would also be open·ended; you wouldn’t be able to do anything about it.
+
+Creo que esta es precisamente la imagen que dibuja *artsick*.
+Imaginemos que nuestros pasatiempos sufren del mismo defecto.
+Nuestros pasatiempos nos hacen sentir enfermos, nauseabundos e inmóviles.
+De nuevo, Wallace hace una descripción más bella de esto
+
+>Because the Bad Thing [depression] not only attacks you and makes you feel bad and puts you out of commission, it especially attacks and makes you feel bad and puts out of commission precisely those things that are necessary in order for you to fight the Bad Thing, to maybe get better, to stay alive.
+
+La canción describe cómo el arte--que era una forma en la que nuestro personaje podía expresarse y escapar del vómito--, ahora se ha convertido en fuente de repugnancia{% sidenote '0' 'Phoebe Brisgers lo describiría como [*emotional motion sickness*](https://www.youtube.com/watch?v=9sfYpolGCu8&pp=ygUXbW90aW9uIHNpY2tuZXNzIGJyaXNnZXI%3D). La canción ni de lejos trata el mismo tema, pero la frase es muy adecuada' %} "Está pintándolo, lo mezcla, lo deja atrás, lo resuelve fácilmente y lo convierte en arte", mientras "yo me ensucio de pintura, sobrepongo capas, repito los colores; repaso mis emociones, escapo constantemente del impulso emocional porque soy empujado por emociones sombrías" pintando me desahogaba y ahora que quiero hacerlo, simplemente no puedo.
+Además, los intentos se vuelven dolorosos, difíciles e incluso se sienten imposibles.
+
+Personalmente, me identifico con la imagen que dibuja la canción.
+Dejé de ser estudiante de filosofía{% sidenote '8' 'Uno realmente nunca de ser estudiante de filosofía, pero lo que quiero decir queda claro por el contexto.' %} cuando caí en cuenta de que es mi trabajo.
+Me encanta la filosofía, pero tuve que empezar a preocuparme por las publicaciones y por cómo voy a obtener ganancias cuando termine el posgrado.
+Me gusta la filosofía, pero odio esta sensación de vómito.
+
+Pero de alguna manera hay que tratar de lidiar con el vómito.
+La canción en cuestión termina bellamente diciendo "estoy pintando".
+Actualmente estoy lidiando con esa sensación de náusea.
+La náusea ha amainado en los últimos meses, pero no se ha ido por completo.
+Necesito que se vaya, necesito "seguir pintando" y esta entrada es un intento más.
+
+Creo que esto puede parecer una cantidad exagerada de palabras para describir lo bella que es esa canción, pero no puedo exagerarlo.
+Escuchen a tricot, escuchen [artsick](https://www.youtube.com/watch?v=G9xfiwX803U&pp=ygUOYXJ0c2ljayB0cmljb3Q%3D) y pídanles insistentemente que vengan a México.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
