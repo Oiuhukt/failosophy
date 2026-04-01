@@ -1,7 +1,7 @@
 ---
 title: "Primerito"
 layout: post
-date: 2020-00-00
+date: 2020-01-01
 categories: jobis escribir info
 ---
 
