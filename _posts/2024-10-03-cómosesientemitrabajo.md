@@ -7,7 +7,7 @@ categories: profesor utr academia personal
 
 Por supuesto que es una referencia a Nagel. Lean "como se siente ser un murciélago." Ciertamente es más interesante que esta entrada.
 
-<!---more--->
+<!--more-->
 
 ## Excelente ambiente laboral
 

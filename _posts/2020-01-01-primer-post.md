@@ -7,7 +7,7 @@ categories: jobis escribir info
 
 De por qué comenzó este proyecto
 
-<!---more--->
+<!--more-->
 
 
 # El primero de varios

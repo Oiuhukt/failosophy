@@ -7,7 +7,7 @@ categories: escribir academia info libre
 
 Sobre separar el formato del contenido o de por que me esfuerzo demasiado en usar texto plano
 
-<!---more--->
+<!--more-->
 
 <!-- LTeX: language=es -->
 
