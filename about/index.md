@@ -19,6 +19,6 @@ Hablando de mi trabajo, ahora mismo soy candidato a doctor en filosofía de la c
 
 No estoy seguro de cómo presentar mi trabajo de investigación, sigo diciendo que me dedico a la “filosofía de la ciencia general”. Tengo un par de publicaciones, que pueden revisar en el apartado correspondiente.
 
-De mis intereses personales, soy entusiasta del software libre. Eso explica por qué le estoy dedicando un día a resolver los breaking changes de una actualización, porque no soy, ni de lejos, un programador. Pero trato de usar herramientas libres en mi vida diaria. Me gustan los taladros, especialmente si son gratis y van a facilitar mi trabajo. Me gustan los juegos de mesa, mi favorito es Wingspan, el arte del juego es hermoso. Me gusta escuchar músicaTengo una pequeña selección en vinil de álbumes que me gustan mucho. Debo la foto
+De mis intereses personales, soy entusiasta del software libre. Eso explica por qué le estoy dedicando un día a resolver los breaking changes de una actualización: porque no soy programador. Pero trato de usar herramientas libres en mi vida diaria. Me gustan los taladros, especialmente si son gratis y van a facilitar mi trabajo. Me gustan los juegos de mesa, mi favorito es Wingspan, el arte del juego es hermoso. Me gusta escuchar músicaTengo una pequeña selección en vinil de álbumes que me gustan mucho. Debo la foto
 
 Es mi página, publico lo que estoy dispuesto a que sea de acceso público.
