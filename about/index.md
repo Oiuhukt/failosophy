@@ -5,7 +5,7 @@ title: About
 
 # failosophy
 
-  {% epigraph 'Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza. Sin duda es verdad [$\ldots$]' 'Iris Murdoch' 'La idea de perfección' 
+  {% epigraph 'Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza. Sin duda es verdad [$\ldots$]' 'Iris Murdoch' 'La idea de perfección' %}
     
     . . . no hay ningún argumento contundente para mostrar que esta consecuencia es inaceptable; con intuiciones suficientemente flexibles se puede uno tragar cualquier cosa en filosofía.
     Gareth Evans, “La teoría causal de los nombres”
