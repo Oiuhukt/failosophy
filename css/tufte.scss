@@ -19,12 +19,6 @@ $code-font: "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
 @use "syntax-highlighting";
 
 // Global Resets
-//
-
-/* OVERRIDE CLASSES - PUT THESE AFTER THE @use STATEMENTS */
-.contrast {
-    color: $text-color !important;
-}
 
 * {
     margin: 0;
@@ -936,3 +930,67 @@ hr.slender {
     content: "\eae4";
 }
 /*-- End of Icomoon icon font section --*/
+
+/* GLOBAL TWO-COLOR OVERRIDE - Force everything to use only these colors */
+body,
+.sans,
+.contrast,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+blockquote,
+.sidenote,
+.marginnote,
+.epigraph,
+.epigraph blockquote,
+.numeral,
+code,
+pre,
+header,
+footer,
+article,
+hr,
+table,
+th,
+td,
+input,
+button,
+textarea {
+    color: #111111 !important;
+    background-color: #fefefe !important;
+    border-color: #111111 !important;
+}
+
+/* Links specifically - underline only */
+a {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.1em;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Keep background for code blocks subtle */
+pre,
+code {
+    background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+pre code {
+    background-color: transparent !important;
+}
+
+/* Horizontal rules */
+hr {
+    background-color: #111111 !important;
+    border: none !important;
+    opacity: 0.2;
+}
