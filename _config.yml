@@ -2,16 +2,16 @@ baseurl: /failosophy
 sass:
   sass_dir: _sass
   style: compressed
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
-author: clay harmon
+title: failosophy
+subtitle: The blog about nothing
+author: Abraham Olivetti
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: A blog about nothing
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
-timezone: America/New_York
+timezone: America/Mexico_City
 excerpt_separator: <!--more--> # you can specify your own separator, of course.
 exclude:
   ["Gemfile", "Gemfile.lock", "Rakefile", "UploadToGithub.Rakefile", "README.md"]
@@ -24,8 +24,3 @@ page:
 editor: gvim
 git:
   branch: master
-transfer:
-  command: rsync
-  settings: -av
-  source: _site/
-  destination: ~/Git/clayh53.github.com/
