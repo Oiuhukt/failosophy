@@ -17,7 +17,7 @@ páginas personales me parecen una forma más fiel de estar en contacto con otra
 rededor de la web. Conozco personas a quienes no puedo frecuentar, pero si escribo
 algo y recuerdo a esas personas, el escrito deja constancia de que aún las recuerdo y
 me da el pretexto para enviarles un mensaje personal. Además creo que las páginas
-personales reflejan más que las redes sociales: puedes conocer mucho a una persona
+personales reflejan más que las redes sociales: puedes conocer muy bien las personas
 por la cantidad de información que decide hacer pública. Por eso sigo y endorso las
 páginas personales.
 
