@@ -11,7 +11,7 @@ Some edge cases and cautionary examples on using Markdown for writing content us
 
 The mathjax HTML ```<head>``` scripts have been modified to properly render block style mathjax expressions inside a ```$$ ... $$``` set of character pairs,
 using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are now parsing correctly, I believe.
-
+ foo
 This code:
 
 ```latex
