@@ -21,9 +21,9 @@ $link-style: color;
 
 // Imports to create final
 
-@use "../_sass/fonts";
-@use "../_sass/settings";
-@use "../_sass/syntax-highlighting";
+@use "fonts";
+@use "settings";
+@use "syntax-highlighting";
 
 // Global Resets
 //
