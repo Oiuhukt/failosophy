@@ -1,4 +1,4 @@
-baseurl: ./
+baseurl: /failosophy
 sass:
   sass_dir: _sass
   style: compressed
