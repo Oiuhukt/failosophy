@@ -1,4 +1,7 @@
 baseurl: ./
+sass:
+  sass_dir: _sass
+  style: compressed
 title: Tufte-Jekyll
 subtitle: Content-centric blogging
 author: clay harmon
