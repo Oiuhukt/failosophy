@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: fooAbout
+title: Yo
 ---
 
 # failosophy
