@@ -1,10 +1,13 @@
 ---
-layout: post
 title: "Agradezco a LaTeX"
-subtitle: ·
-date: 2024-08-26
-author: oiuhukt
+layout: post
+date: 2024-06-12
+categories: escribir academia info libre 
 ---
+
+Sobre separar el formato del contenido o de por que me esfuerzo demasiado en usar texto plano
+
+<!---more--->
 
 <!-- LTeX: language=es -->
 

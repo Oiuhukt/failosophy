@@ -1,10 +1,14 @@
 ---
-title: Primerito
-header: Primerito
-description: El primer post que hice usando jekyll
-permalink: /primerito/
+title: "Primerito"
 layout: post
+date: 2020-00-00
+categories: jobis escribir info
 ---
+
+De por qué comenzó este proyecto
+
+<!---more--->
+
 
 # El primero de varios
 

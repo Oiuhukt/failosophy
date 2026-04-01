@@ -1,13 +1,13 @@
 ---
-layout: post
 title: "Cómo se siente tener mi trabajo"
-subtitle: "-"
+layout: post
 date: 2024-10-05
-author: oiuhukt
+categories: profesor utr academia personal 
 ---
 
+Por supuesto que es una referencia a Nagel. Lean "como se siente ser un murciélago." Ciertamente es más interesante que esta entrada.
 
-Por supuesto que es una referencia a Nagel. Lean ese artículo.
+<!---more--->
 
 ## Excelente ambiente laboral
 
@@ -250,20 +250,3 @@ Por eso espero que aprecien el trabajo que hacemos los maestros, porque no es po
 
 Si mañana un profesor me mencionara una noticia como la que le mencioné a mis alumnos, me sentiría orgulloso --me parecería admirable.-- y lo felicitaría, porque están apreciando su trabajo.
 Si un profesor me hubiera dado una noticia parecida cuando estaba cursando la licenciatura, la admiración sería la única respuesta.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

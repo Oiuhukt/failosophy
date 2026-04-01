@@ -1,10 +1,14 @@
 ---
-title: Ser amable
-description: Academy
+title: "Ser amable"
 layout: post
 date: 2021-08-25
-author: Oscar Olivetti
+categories: escribir info leer academia
 ---
+
+Un comentario sobre algo que leí de Federica Russo
+
+<!---more--->
+
 
 Tenía hoy años de edad cuando me topé con una entrada en el blog de Federica Russo. En dicha entrada, Russo nos recuerda que en filosofía mucho de lo que se hace (espero que de manera accidental aunque creo que esto es muy optimista) es tratar de probar que los otros están mal.
 
@@ -15,6 +19,3 @@ Leer la entrada de Russo me recordó que la academia es un lugar hostil para ne�
 Creo que las opciones{% sidenote '1' 'Esta es una prueba' %} que Russo menciona son valiosas y que seguirlas puede llevar a que los espacios académicos sean menos hostiles. Esto además me recordó a la genial guía que da Dennet para criticar con amabilidad: trata de reconstruír el argumento de quien criticas, has énfasis en los puntos en los que estás de acuerdo, menciona algo que hayas aprendido de aquel a quien quieres criticar. Es sólo cuando se hayan cumplido las tyres anteriores que te puedes permitir criticar a tu colega.
 
 Al igual que Russo, creo que podemos hacer de la academia un lugar mucho menos hostil. La entrada de blog de Russo está [aquí](https://russofederica.wordpress.com/2019/02/15/whats-wrong-with-just-showing-other-people-wrong/)
-
-
-
