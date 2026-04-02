@@ -145,10 +145,10 @@ span > a {
 }
 
 body {
-    width: 87.5%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 12.5%;
+    padding-left: 0;
     font-family: $body-font;
     background-color: $bg-color;
     color: $text-color;
@@ -213,13 +213,13 @@ li {
 /* Chapter Epigraphs */
 div.epigraph {
     margin: 3.5636rem 0;
-    width: 55%;
+    width: 70%;
 }
 
 div.epigraph > blockquote {
     margin-top: 3rem;
     margin-bottom: 3rem;
-    width: 55%;
+    width: 100%;
 }
 
 div.epigraph > blockquote,
@@ -476,7 +476,7 @@ footer,
 div.table-wrapper,
 .MJXc-display,
 .MathJax {
-    width: 55%;
+    width: 60%;
 }
 
 div.table-wrapper,
