@@ -214,6 +214,8 @@ li {
 div.epigraph {
     margin: 3.5636rem 0;
     width: 70%;
+    float: right;
+    clear: right;
 }
 
 div.epigraph > blockquote {
@@ -241,6 +243,12 @@ div.epigraph > blockquote > footer {
 div.epigraph > blockquote > footer > cite {
     font-style: italic;
 }
+
+/* Clear floats after epigraph so content below doesn't wrap */
+div.epigraph + * {
+    clear: both;
+}
+
 /* end chapter epigraphs styles */
 
 blockquote p,
