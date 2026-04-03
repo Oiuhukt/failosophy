@@ -5,8 +5,6 @@ date: 2021-08-25
 categories: escribir info leer academia
 ---
 
-Un comentario sobre algo que leí de Federica Russo
-
 <!--more-->
 
 
