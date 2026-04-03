@@ -50,37 +50,12 @@ html {
 
 @media screen and (min-width: 800px) {
     html {
-        font-size: 12px;
-    }
-}
-
-@media screen and (min-width: 900px) {
-    html {
-        font-size: 13px;
-    }
-}
-
-@media screen and (min-width: 1000px) {
-    html {
         font-size: 14px;
     }
 }
-
-@media screen and (min-width: 1100px) {
-    html {
-        font-size: 15px;
-    }
-}
-
 @media screen and (min-width: 1200px) {
     html {
         font-size: 16px;
-    }
-}
-
-@media screen and (min-width: 1300px) {
-    html {
-        font-size: 17px;
     }
 }
 
@@ -97,51 +72,8 @@ a {
 p > a,
 cite > a,
 span > a {
-    @if $link-style == underline {
-        color: $text-color;
-        text-decoration: none;
-        background:
-            -webkit-linear-gradient($bg-color, $bg-color),
-            -webkit-linear-gradient($bg-color, $bg-color),
-            -webkit-linear-gradient(currentColor, currentColor);
-        background:
-            linear-gradient($bg-color, $bg-color),
-            linear-gradient($bg-color, $bg-color),
-            linear-gradient(currentColor, currentColor);
-        -webkit-background-size:
-            0.05em 1px,
-            0.05em 1px,
-            1px 1px;
-        -moz-background-size:
-            0.05em 1px,
-            0.05em 1px,
-            1px 1px;
-        background-size:
-            0.05em 1px,
-            0.05em 1px,
-            1px 1px;
-        background-repeat: no-repeat, no-repeat, repeat-x;
-        text-shadow:
-            0.03em 0 $bg-color,
-            -0.03em 0 $bg-color,
-            0 0.03em $bg-color,
-            0 -0.03em $bg-color,
-            0.06em 0 $bg-color,
-            -0.06em 0 $bg-color,
-            0.09em 0 $bg-color,
-            -0.09em 0 $bg-color,
-            0.12em 0 $bg-color,
-            -0.12em 0 $bg-color,
-            0.15em 0 $bg-color,
-            -0.15em 0 $bg-color;
-        background-position:
-            0% 93%,
-            100% 93%,
-            0% 93%;
-    } @else {
-        color: $contrast-color;
-        text-decoration: none;
-    }
+    color: $text-color;
+    text-decoration: underline;
 }
 
 body {
@@ -845,36 +777,15 @@ li.listing h3.new {
     text-transform: uppercase;
     font-style: normal;
 }
+
 hr.slender {
-    border: 0;
+    border: none;
     height: 1px;
-    margin-top: 1.4rem;
-    margin-bottom: 1.4rem;
-    background-image: -webkit-linear-gradient(
-        left,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.75),
-        rgba(0, 0, 0, 0)
-    );
-    background-image: -moz-linear-gradient(
-        left,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.75),
-        rgba(0, 0, 0, 0)
-    );
-    background-image: -ms-linear-gradient(
-        left,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.75),
-        rgba(0, 0, 0, 0)
-    );
-    background-image: -o-linear-gradient(
-        left,
-        rgba(0, 0, 0, 0),
-        rgba(0, 0, 0, 0.75),
-        rgba(0, 0, 0, 0)
-    );
+    background-color: $border-color;
+    opacity: 0.2;
+    margin: 1.4rem 0;
 }
+
 // End of front listing page stuff
 
 // Printing ands screen media queries
@@ -983,64 +894,10 @@ hr.slender {
 .icon-mail3:before {
     content: "\ea85";
 }
-.icon-amazon:before {
-    content: "\ea87";
-}
-.icon-google2:before {
-    content: "\ea89";
-}
-.icon-facebook2:before {
-    content: "\ea91";
-}
 .icon-twitter:before {
     content: "\ea96";
 }
-.icon-rss2:before {
-    content: "\ea9c";
-}
-.icon-youtube:before {
-    content: "\ea9d";
-}
-.icon-vimeo2:before {
-    content: "\eaa1";
-}
-.icon-lanyrd:before {
-    content: "\eaa2";
-}
-.icon-flickr3:before {
-    content: "\eaa5";
-}
-.icon-behance2:before {
-    content: "\eaa9";
-}
-.icon-dropbox:before {
-    content: "\eaae";
-}
 .icon-github:before {
     content: "\eab0";
-}
-.icon-blogger2:before {
-    content: "\eab8";
-}
-.icon-soundcloud2:before {
-    content: "\eac4";
-}
-.icon-skype:before {
-    content: "\eac5";
-}
-.icon-reddit:before {
-    content: "\eac6";
-}
-.icon-linkedin:before {
-    content: "\eac9";
-}
-.icon-pinterest:before {
-    content: "\ead1";
-}
-.icon-paypal:before {
-    content: "\ead8";
-}
-.icon-html-five:before {
-    content: "\eae4";
 }
 /*-- End of Icomoon icon font section --*/
