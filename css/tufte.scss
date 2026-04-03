@@ -673,6 +673,109 @@ header > nav a img {
     max-width: 100%;
     top: -1.5rem;
 }
+
+//Nav and Footer styling area
+
+header > nav.group,
+body footer {
+    width: 95%;
+    padding-top: 2rem;
+}
+
+/* NEW: Site branding (badge + title) styling */
+.site-branding {
+    float: left;
+    text-align: center;
+
+    a {
+        display: block;
+        text-decoration: none;
+    }
+
+    .badge {
+        display: block;
+        margin: 0 auto;
+        max-width: 60px;
+        height: auto;
+    }
+
+    .site-title {
+        display: block;
+        margin-top: 0.5rem;
+        font-family: $sans-font;
+        font-size: 0.9rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: $text-color;
+        text-align: center;
+    }
+
+    a:hover .site-title {
+        text-decoration: underline;
+    }
+}
+
+/* NEW: Navigation links styling */
+.nav-links {
+    float: right;
+    margin-top: 1.5rem;
+
+    a {
+        font-size: 1.2rem;
+        font-family: $sans-font;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: $contrast-color;
+        text-decoration: none;
+        display: inline-block;
+        margin-left: 1.5rem;
+        vertical-align: baseline;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    a.active {
+        &:before {
+            content: "\0003c\000a0";
+        }
+        &:after {
+            content: "\000a0\0003e";
+        }
+    }
+}
+
+/* Keep original styles for backward compatibility */
+header > nav a {
+    font-size: 1.2rem;
+    font-family: $sans-font;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: $contrast-color;
+    padding-top: 1.5rem;
+    text-decoration: none;
+    display: inline-block;
+    float: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-right: 2rem;
+    vertical-align: baseline;
+}
+header > nav a img {
+    height: 5rem;
+    position: relative;
+    max-width: 100%;
+    top: -1.5rem;
+}
+
+/* Clearfix for header */
+header nav.group:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 ul.footer-links,
 .credits {
     list-style: none;
