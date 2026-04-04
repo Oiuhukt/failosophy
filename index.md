@@ -26,8 +26,7 @@ clases en la UNRC (por ahora).
 
 No estoy seguro de cómo presentar mi trabajo de investigación, sigo diciendo que me
 dedico a la “filosofía de la ciencia general”. Tengo un par de publicaciones, que
-pueden revisar en [PhilPeople](https://philpeople.org/profiles)
-oscaar-abraham-olivetti-alvarez.
+pueden revisar en [PhilPeople](https://philpeople.org/profiles/oscaar-abraham-olivetti-alvarez)
 
 De mis intereses personales, soy entusiasta del software libre. Eso explica por qué
 le estoy dedicando un día a resolver los breaking changes de una actualización:
