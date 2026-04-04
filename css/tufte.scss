@@ -872,3 +872,59 @@ hr.slender {
     content: "\eab0";
 }
 /*-- End of Icomoon icon font section --*/
+
+.icon-github:before {
+    content: "\eab0";
+}
+/*-- End of Icomoon icon font section --*/
+
+/* -- END NOTES / FOOTNOTES - FULL WIDTH -- */
+.footnotes {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    width: 100% !important;
+    clear: both;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+
+    &:before {
+        content: "Notes";
+        display: block;
+        font-family: $sans-font;
+        font-size: 1.2rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+    }
+
+    ol,
+    ul {
+        width: 100% !important;
+        padding-left: 1.5rem;
+    }
+
+    li {
+        width: 100% !important;
+        margin-top: 0.75rem;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        padding-right: 0;
+
+        p {
+            width: 100% !important;
+            margin-top: 0;
+            display: inline;
+        }
+    }
+
+    .reversefootnote {
+        margin-left: 0.5rem;
+        text-decoration: none;
+        font-size: 0.8rem;
+    }
+}
+
+/* Ensure footnotes break out of the 60% constraint */
+.footnotes,
+.footnotes * {
+    max-width: 100%;
+}
