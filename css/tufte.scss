@@ -404,7 +404,7 @@ div.epigraph + * {
 blockquote {
     margin: 1.3rem 0;
     padding-left: 1.5rem;
-    line-height: 1.3; !important /* Tighter than body (1.6) */
+    line-height: 1.3 !important; /* Tighter than body (1.6) */
 }
 
 .sans {
