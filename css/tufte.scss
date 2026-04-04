@@ -183,8 +183,11 @@ div.epigraph + * {
 
 /* Blockquote styling - smaller font than body */
 blockquote {
-    font-size: 0.8rem; /* Smaller than body text (1.4rem) */
-    line-height: 1.5;
+    font-size: 0.8rem !important; /* Smaller than body text (1.4rem) */
+    line-height: 1.4 !important;
+    margin: 1rem 0;
+    color: $text-color;
+    opacity: 0.85;
 }
 
 blockquote p,
@@ -195,10 +198,10 @@ blockquote footer {
 }
 
 blockquote footer {
-    font-size: 0.85rem; /* Even smaller for citations */
-    line-height: 1.78181818;
-    margin-top: 1.78181818rem;
-    margin-bottom: 1.78181818rem;
+    font-size: 0.75rem !important; /* Even smaller for citations */
+    line-height: 1.3;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .sans {
