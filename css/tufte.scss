@@ -311,13 +311,13 @@ div.epigraph + * {
 /* Blockquote styling - smaller font than body */
 blockquote {
     margin: 1.4rem 0;
-    line-height: 1.4;
+    line-height: 1.5;
     padding-left: 2rem;
 }
 
 blockquote p {
-    font-size: 1.2rem !important; /* Force override */
-    line-height: 1.4;
+    font-size: 1.15rem !important; /* Force override */
+    line-height: 1.5;
     margin-top: 0;
     text-align: justify;
 }
@@ -504,9 +504,9 @@ img {
     margin-right: -60%;
     width: 50%;
     margin-top: 0;
-    margin-bottom: 1.96rem;
-    font-size: 1rem;
-    line-height: 1.96; //changed to bring line heights into rational pattern
+    margin-bottom: 1.5rem;
+    font-size: 0.85rem;
+    line-height: 1.4; //changed to bring line heights into rational pattern
     vertical-align: baseline;
     position: relative;
 }
@@ -1037,8 +1037,8 @@ hr.slender {
     li {
         width: 100% !important;
         margin-top: 0.75rem;
-        font-size: 0.9rem;
-        line-height: 1.5;
+        font-size: 0.85rem;
+        line-height: 1.4;
         padding-right: 0;
         counter-increment: footnote-counter;
 
