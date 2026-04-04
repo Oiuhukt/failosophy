@@ -885,6 +885,7 @@ hr.slender {
     width: 100% !important;
     clear: both;
     border-top: 1px solid rgba(0, 0, 0, 0.2);
+    counter-reset: footnote-counter;
 
     &:before {
         content: "Notes";
@@ -896,10 +897,10 @@ hr.slender {
         margin-bottom: 1rem;
     }
 
-    ol,
-    ul {
+    ol {
         width: 100% !important;
         padding-left: 1.5rem;
+        list-style-type: none;
     }
 
     li {
@@ -908,6 +909,7 @@ hr.slender {
         font-size: 0.9rem;
         line-height: 1.5;
         padding-right: 0;
+        counter-increment: footnote-counter;
 
         p {
             width: 100% !important;
@@ -916,10 +918,10 @@ hr.slender {
         }
     }
 
-    .reversefootnote {
-        margin-left: 0.5rem;
-        text-decoration: none;
-        font-size: 0.8rem;
+    li:before {
+        content: "(" counter(footnote-counter, lower-latin) ") ";
+        font-weight: bold;
+        margin-right: 0.5rem;
     }
 }
 
@@ -929,49 +931,45 @@ hr.slender {
     max-width: 100%;
 }
 
-/* Customize endnote markers - Numbered bullets */
+/* Customize endnote markers - Letters (a, b, c) */
 a.footnote {
     text-decoration: none;
-    display: inline-block;
-    background-color: rgba(0, 0, 0, 0.1);
-    border-radius: 50%;
-    width: 1.2rem;
-    height: 1.2rem;
-    text-align: center;
-    line-height: 1.2rem;
-    font-size: 0.7rem;
-    font-weight: bold;
     color: $text-color;
-    vertical-align: middle;
-    margin: 0 0.1rem;
+    font-size: 0;
+    vertical-align: baseline;
 
-    &:hover {
-        background-color: rgba(0, 0, 0, 0.2);
-        text-decoration: none;
+    &:before {
+        content: "(" counter(footnote-counter, lower-latin) ")";
+        font-size: 0.7rem;
+        vertical-align: super;
+    }
+
+    &:hover:before {
+        text-decoration: underline;
     }
 }
 
-/* Adjust sup tag that contains the footnote link */
-sup {
-    font-size: 0.8rem;
-    vertical-align: baseline;
-    top: 0;
-    position: relative;
-    padding: 0 0.1rem;
-}
-
-/* Style the backlink in endnotes to match the call marker */
+/* Style the backlink in endnotes to match */
 .footnotes .reversefootnote {
     text-decoration: none;
     font-size: 0;
+    margin-left: 0.5rem;
 
     &:before {
-        content: "↩";
-        font-size: 0.8rem;
+        content: " ↩ (" counter(footnote-counter, lower-latin) ")";
+        font-size: 0.7rem;
         vertical-align: baseline;
     }
 
     &:hover:before {
         text-decoration: underline;
     }
+}
+
+/* Remove default sup styling */
+sup {
+    font-size: 0.8rem;
+    vertical-align: baseline;
+    top: 0;
+    position: relative;
 }
