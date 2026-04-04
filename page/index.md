@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: webroll?
+title: ¿webroll?
 ---
 
 Confieso que me gustan las páginas web personales. Tengo la impresión de que es una manera más fiel de conocer a una persona por su página web, especialmente si tienen un blog. Aquí voy a poner ligas a sitios que me parecen interesantes.{% sidenote '1' 'En los tiempos de inicio de la web se llamaban *blogrolls*. '%} La lista no tiene un orden particular.

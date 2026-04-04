@@ -68,20 +68,14 @@ body {
 
 html {
     text-align: baseline;
-    font-size: 11px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
-@media screen and (min-width: 800px) {
-    html {
-        font-size: 14px;
-    }
-}
-@media screen and (min-width: 1200px) {
-    html {
-        font-size: 16px;
-    }
+/* Fluid responsive font size: 15pt on mobile, 17pt on desktop */
+/* Minimum: 20px (15pt), Preferred: 5vw (scales with screen), Maximum: 23px (17pt) */
+html {
+    font-size: clamp(20px, 5vw, 23px);
 }
 
 // Mathjax fonts need TLC
