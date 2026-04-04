@@ -51,6 +51,11 @@ li {
     vertical-align: baseline;
 }
 
+/* But preserve sidenote line-height inside paragraphs */
+p .sidenote {
+    line-height: 1.4;
+}
+
 /* Letter spacing: minimum 0.12x font size */
 body,
 p,
@@ -350,7 +355,6 @@ ul {
 
 p,
 li {
-    line-height: 2rem;
     margin-top: 1.4rem;
     padding-right: 2rem; //removed because,  why?
     vertical-align: baseline;
