@@ -9,9 +9,9 @@ $contrast-color: #a00000;
 $link-style: underline;
 $border-color: $text-color;
 
-/* Simplified fonts - keep the classic feel */
-$body-font: Georgia, "Times New Roman", Times, serif;
-$sans-font: "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", sans-serif;
+/* Montserrat for everything */
+$body-font: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+$sans-font: "Montserrat", "Helvetica Neue", Arial, sans-serif;
 $code-font: "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
 
 // Imports to create final
@@ -34,9 +34,6 @@ $code-font: "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
 }
 
 /* Spanish hyphenation */
-html {
-    lang: es;
-}
 
 body,
 p,
