@@ -930,55 +930,32 @@ hr.slender {
 }
 
 /* Customize endnote markers - Numbered bullets */
-sup.footnote-ref {
-    vertical-align: baseline;
-    font-size: 0.8rem;
-    top: 0;
-    position: relative;
-    background: none;
-    padding: 0;
+a.footnote {
+    text-decoration: none;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    width: 1.2rem;
+    height: 1.2rem;
+    text-align: center;
+    line-height: 1.2rem;
+    font-size: 0.7rem;
+    font-weight: bold;
+    color: $text-color;
+    vertical-align: middle;
+    margin: 0 0.1rem;
 
-    a {
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.2);
         text-decoration: none;
-        display: inline-block;
-        background-color: rgba(0, 0, 0, 0.1);
-        border-radius: 50%;
-        width: 1.2rem;
-        height: 1.2rem;
-        text-align: center;
-        line-height: 1.2rem;
-        font-size: 0.7rem;
-        font-weight: bold;
-        color: $text-color;
-
-        &:hover {
-            background-color: rgba(0, 0, 0, 0.2);
-            text-decoration: none;
-        }
     }
 }
 
-/* Fallback for non-sup footnotes */
-.footnote-ref {
-    vertical-align: baseline;
+/* Adjust sup tag that contains the footnote link */
+sup {
     font-size: 0.8rem;
-
-    a {
-        text-decoration: none;
-        display: inline-block;
-        background-color: rgba(0, 0, 0, 0.1);
-        border-radius: 50%;
-        width: 1.2rem;
-        height: 1.2rem;
-        text-align: center;
-        line-height: 1.2rem;
-        font-size: 0.7rem;
-        font-weight: bold;
-        color: $text-color;
-
-        &:hover {
-            background-color: rgba(0, 0, 0, 0.2);
-            text-decoration: none;
-        }
-    }
+    vertical-align: baseline;
+    top: 0;
+    position: relative;
+    padding: 0 0.1rem;
 }
