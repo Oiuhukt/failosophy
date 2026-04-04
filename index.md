@@ -10,7 +10,7 @@ Sin duda es verdad' 'Iris Murdoch' 'La idea de perfección' %}
 es inaceptable; con intuiciones suficientemente flexibles se puede uno tragar
 cualquier cosa en filosofía.' 'Gareth Evans', 'La teoría causal de los nombres' %}
 
-Me llamo Oscar Abraham Olivetti Alvarez y esta página es mi página personal. Las
+{% newthought 'Me llamo Oscar Abraham Olivetti' %} y esta página es mi página personal. Las
 páginas personales me parecen una forma más fiel de estar en contacto con otras al
 rededor de la web. Conozco personas a quienes no puedo frecuentar, pero si escribo
 algo y recuerdo a esas personas, el escrito deja constancia de que aún las recuerdo y
