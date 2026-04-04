@@ -5,7 +5,9 @@ date: 2024-10-05
 categories: profesor utr academia personal 
 ---
 
-Por supuesto que es una referencia a Nagel. Lean "como se siente ser un murciélago." Ciertamente es más interesante que esta entrada.
+---
+
+Por supuesto que es una referencia a Nagel. Lean "como se siente ser un murciélago." Ciertamente es más interesante que esta entrada. Ya no trabajo en la UTR
 
 <!--more-->
 

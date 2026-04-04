@@ -5,7 +5,7 @@ date: 2024-06-12
 categories: escribir academia info libre 
 ---
 
-Sobre separar el formato del contenido o de por que me esfuerzo demasiado en usar texto plano
+Sobre separar el formato del contenido o de por que me esfuerzo demasiado en usar texto plano. Este es un post incompleto. 
 
 <!--more-->
 
