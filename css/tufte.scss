@@ -930,39 +930,33 @@ hr.slender {
 }
 
 /* Customize endnote reference markers (in-text) */
+
+/* Customize endnote markers - Numbered bullets */
 .footnote-ref {
-    /* Remove superscript styling */
     vertical-align: baseline;
-    font-size: 1rem;
+    font-size: 0.8rem;
 
-    /* Add brackets around the number */
-    &:before {
-        content: "•";
-        vertical-align: middle;
+    a {
+        text-decoration: none;
         display: inline-block;
-        transition: transform 0.2s ease;
-    }
+        background-color: rgba(0, 0, 0, 0.1);
+        border-radius: 50%;
+        width: 1.2rem;
+        height: 1.2rem;
+        text-align: center;
+        line-height: 1.2rem;
+        font-size: 0.7rem;
+        font-weight: bold;
 
-    /* Remove default superscript styling */
-    sup,
-    sub {
-        font-size: 1rem;
-        vertical-align: baseline;
-        position: static;
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.2);
+        }
     }
 }
 
-/* Alternative: Style the sup tag directly */
 sup.footnote-ref {
     font-size: 0.8rem;
-    vertical-align: super;
-
-    /* Add custom styling without brackets */
-    a {
-        text-decoration: none;
-
-        &:hover {
-            text-decoration: underline;
-        }
-    }
+    vertical-align: baseline;
+    top: 0;
+    position: relative;
 }
