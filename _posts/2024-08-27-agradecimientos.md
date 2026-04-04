@@ -9,8 +9,6 @@ Sobre separar el formato del contenido o de por que me esfuerzo demasiado en usa
 
 <!--more-->
 
-<!-- LTeX: language=es -->
-
 Estudié filosofía y soy parte de la comunidad dedicada a hacer
 investigación --para eso me pagan-- y necesito producir documentos
 para mostrar mi trabajo. Como producir documentos es una parte

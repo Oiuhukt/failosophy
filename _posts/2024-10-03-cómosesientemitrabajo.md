@@ -151,7 +151,7 @@ Nos ofrecieron cursos de calidad impecable.
 Las personas de Campinas fueron amables y cariñosas. 
 Todo mundo nos trataba como seres humanos.
 Hice amigos con quienes todavía hablo --debería hablar más con ellos-- y descubrí trabajo de punta que se estaba haciendo en áreas tan variadas como ciencias de la computación, matemáticas, lógicas modales, teoría de la probabilidad, teoría formal de la argumentación, historia de la lógica, etc.
-Genuinamente hicimos una familia muy extraña{% marginfigure 'fam' 'assets/images/weirdfam.jpg' 'A Weird Family' %}.
+Genuinamente hicimos una familia muy extraña{% marginfigure 'fam' 'assets/img/weirdfam.jpg' 'A Weird Family' %}.
 La pasé excelente, aprendí mucho, conocí a Graham Priest.
 
 Pero la depresión clínica funciona de maneras misteriosas.

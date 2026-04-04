@@ -26,7 +26,8 @@ clases en la UNRC (por ahora).
 
 No estoy seguro de cómo presentar mi trabajo de investigación, sigo diciendo que me
 dedico a la “filosofía de la ciencia general”. Tengo un par de publicaciones, que
-pueden revisar en el apartado correspondiente.
+pueden revisar en [PhilPeople](https://philpeople.org/profiles)
+oscaar-abraham-olivetti-alvarez.
 
 De mis intereses personales, soy entusiasta del software libre. Eso explica por qué
 le estoy dedicando un día a resolver los breaking changes de una actualización:
@@ -35,4 +36,4 @@ Me gustan los taladros, especialmente si son gratis y van a facilitar mi trabajo
 gustan los juegos de mesa, mi favorito es Wingspan, el arte del juego es hermoso. Me
 gusta escuchar música, por eso tengo una pequeña selección en vinil de álbumes que disfruto. Debo la foto
 
-Es mi página, publico lo que estoy dispuesto a que sea de acceso público.
+Publico lo que se me antoja y lo que estoy dispuesto a que sea de dominio público.
