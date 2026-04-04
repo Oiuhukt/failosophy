@@ -107,7 +107,6 @@ h1,
 h2,
 h3 {
     /* Large text can use 3:1 ratio */
-    font-weight: 500;
 }
 
 /* Ensure links are distinguishable beyond color */
@@ -126,6 +125,97 @@ a {
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
     }
+}
+
+/* ============================================
+   FONT WEIGHT HIERARCHY
+   Creates visual distinction beyond just size
+   ============================================ */
+
+/* PRIMARY LEVEL - Body text (most readable for long content) */
+body,
+p,
+li,
+.sans,
+.credits,
+footer {
+    font-weight: 400; /* Normal weight */
+}
+
+/* SECONDARY LEVEL - Blockquotes (slightly lighter for quoted text) */
+blockquote,
+blockquote p,
+.epigraph,
+.epigraph p {
+    font-weight: 350; /* Slightly lighter - distinguishes quoted content */
+}
+
+/* TERTIARY LEVEL - Sidenotes, Footnotes, Captions (recede into background) */
+.sidenote,
+.marginnote,
+.footnotes li,
+figcaption,
+.table-caption {
+    font-weight: 300; /* Light weight - less prominent */
+}
+
+/* HEADINGS - Bolder for clear document structure */
+h1 {
+    font-weight: 700; /* Bold - most prominent */
+}
+
+h2 {
+    font-weight: 600; /* Semi-bold */
+    font-style: italic;
+}
+
+h3 {
+    font-weight: 500; /* Medium */
+    font-style: italic;
+}
+
+/* NAVIGATION & UI ELEMENTS - Medium weight for visibility */
+.nav-links a,
+header > nav a,
+.site-title,
+.credits a {
+    font-weight: 500; /* Medium - easy to find */
+}
+
+/* BLOG LISTING - Post titles */
+.listing h3,
+.content-listing-header {
+    font-weight: 600; /* Semi-bold - stands out in listings */
+}
+
+/* CODE - Keep normal weight but distinct font */
+code,
+pre,
+.code,
+pre code,
+p code {
+    font-weight: 400; /* Normal */
+}
+
+/* LINKS - Normal weight with hover feedback */
+a {
+    font-weight: 400;
+}
+
+a:hover {
+    font-weight: 500; /* Slightly bolder on hover for feedback */
+    transition: font-weight 0.15s ease;
+}
+
+/* STRONG and BOLD elements - Override with extra bold */
+strong,
+b {
+    font-weight: 700;
+}
+
+/* EPIGRAPH FOOTER (citation) - Lighter weight */
+div.epigraph > blockquote > footer {
+    font-weight: 300;
 }
 
 * {
@@ -219,7 +309,7 @@ body {
 // added rational line height and margins ala http://webtypography.net/intro/
 
 h1 {
-    font-weight: 400;
+    font-weight: 700;
     margin-top: 1.568rem;
     margin-bottom: 1.568rem;
     font-size: 2.5rem;
@@ -228,7 +318,7 @@ h1 {
 
 h2 {
     font-style: italic;
-    font-weight: 400;
+    font-weight: 600;
     margin-top: 1.866666666666667rem;
     margin-bottom: 0;
     font-size: 2.1rem;
@@ -237,7 +327,7 @@ h2 {
 
 h3 {
     font-style: italic;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 1.8rem;
     margin-top: 2.1777777777777778rem;
     margin-bottom: 0;
