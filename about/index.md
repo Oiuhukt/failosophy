@@ -3,8 +3,6 @@ layout: full-width
 title: Yo
 ---
 
-# failosophy
-
 {% epigraph 'Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza.
 Sin duda es verdad' 'Iris Murdoch' 'La idea de perfección' %}
     
