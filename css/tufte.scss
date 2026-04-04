@@ -959,3 +959,19 @@ sup {
     position: relative;
     padding: 0 0.1rem;
 }
+
+/* Style the backlink in endnotes to match the call marker */
+.footnotes .reversefootnote {
+    text-decoration: none;
+    font-size: 0;
+
+    &:before {
+        content: "↩";
+        font-size: 0.8rem;
+        vertical-align: baseline;
+    }
+
+    &:hover:before {
+        text-decoration: underline;
+    }
+}
