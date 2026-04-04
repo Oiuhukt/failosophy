@@ -873,11 +873,6 @@ hr.slender {
 }
 /*-- End of Icomoon icon font section --*/
 
-.icon-github:before {
-    content: "\eab0";
-}
-/*-- End of Icomoon icon font section --*/
-
 /* -- END NOTES / FOOTNOTES - FULL WIDTH -- */
 .footnotes {
     margin-top: 3rem;
@@ -919,7 +914,7 @@ hr.slender {
     }
 
     li:before {
-        content: "(" counter(footnote-counter, lower-latin) ") ";
+        content: counter(footnote-counter) ". ";
         font-weight: bold;
         margin-right: 0.5rem;
     }
@@ -934,31 +929,35 @@ hr.slender {
 /* Customize endnote markers - Letters (a, b, c) */
 a.footnote {
     text-decoration: none;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    width: 1.2rem;
+    height: 1.2rem;
+    text-align: center;
+    line-height: 1.2rem;
+    font-size: 0.7rem;
+    font-weight: bold;
     color: $text-color;
-    font-size: 0;
-    vertical-align: baseline;
+    vertical-align: middle;
+    margin: 0 0.1rem;
 
-    &:before {
-        content: "(" counter(footnote-counter, lower-latin) ")";
-        font-size: 0.7rem;
-        vertical-align: super;
-    }
-
-    &:hover:before {
-        text-decoration: underline;
+    &:hover {
+        background-color: rgba(0, 0, 0, 0.2);
+        text-decoration: none;
     }
 }
 
 /* Style the backlink in endnotes to match */
 .footnotes .reversefootnote {
     text-decoration: none;
-    font-size: 0;
+    font-size: 0.7rem;
     margin-left: 0.5rem;
+    vertical-align: baseline;
 
     &:before {
-        content: " ↩ (" counter(footnote-counter, lower-latin) ")";
+        content: " ↩";
         font-size: 0.7rem;
-        vertical-align: baseline;
     }
 
     &:hover:before {
