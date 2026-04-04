@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title: Yo
+title: Hola
 ---
 
 {% epigraph 'Se dice a menudo, a veces con fastidio, que la filosofía nunca avanaza.
