@@ -185,12 +185,14 @@ div.epigraph + * {
 blockquote {
     margin: 1.4rem 0;
     line-height: 1.4;
+    padding-left: 2rem;
 }
 
 blockquote p {
     font-size: 1.2rem !important; /* Force override */
     line-height: 1.4;
     margin-top: 0;
+    text-align: justify;
 }
 
 blockquote p,
