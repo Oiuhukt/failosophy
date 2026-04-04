@@ -928,3 +928,41 @@ hr.slender {
 .footnotes * {
     max-width: 100%;
 }
+
+/* Customize endnote reference markers (in-text) */
+.footnote-ref {
+    /* Remove superscript styling */
+    vertical-align: baseline;
+    font-size: 1rem;
+
+    /* Add brackets around the number */
+    &:before {
+        content: "•";
+        vertical-align: middle;
+        display: inline-block;
+        transition: transform 0.2s ease;
+    }
+
+    /* Remove default superscript styling */
+    sup,
+    sub {
+        font-size: 1rem;
+        vertical-align: baseline;
+        position: static;
+    }
+}
+
+/* Alternative: Style the sup tag directly */
+sup.footnote-ref {
+    font-size: 0.8rem;
+    vertical-align: super;
+
+    /* Add custom styling without brackets */
+    a {
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
