@@ -14,25 +14,6 @@ $body-font: Georgia, "Times New Roman", Times, serif;
 $sans-font: "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", sans-serif;
 $code-font: "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
 
-/* Hyphenation for justified text - Spanish */
-p,
-blockquote p,
-.footnotes li {
-    text-align: justify; /* Keep justified alignment */
-    hyphens: auto;
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-    word-break: break-word; /* Prevents overflow */
-}
-
-/* Better hyphenation for Spanish */
-html[lang="es"],
-html:lang(es) {
-    hyphens: auto;
-    -webkit-hyphens: auto;
-    -ms-hyphens: auto;
-}
-
 // Imports to create final
 @use "fonts";
 @use "settings";
@@ -50,6 +31,34 @@ html:lang(es) {
     content: "";
     display: table;
     clear: both;
+}
+
+/* Spanish hyphenation */
+html {
+    lang: es;
+}
+
+body,
+p,
+blockquote,
+li,
+.sidenote,
+.marginnote {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Better hyphenation for blockquotes specifically */
+blockquote p,
+blockquote footer {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    text-align: justify; /* Optional: makes text align both sides */
 }
 
 html,
