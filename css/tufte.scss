@@ -84,22 +84,6 @@ input:focus {
     outline-offset: 2px;
 }
 
-/* Skip to content link for screen readers */
-.skip-to-content {
-    position: absolute;
-    top: -40px;
-    left: 0;
-    background: #a00000;
-    color: #fefefe;
-    padding: 8px;
-    text-decoration: none;
-    z-index: 100;
-}
-
-.skip-to-content:focus {
-    top: 0;
-}
-
 /* Responsive text sizing for large text (18pt+) */
 h1,
 h2,
