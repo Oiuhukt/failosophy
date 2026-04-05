@@ -305,7 +305,7 @@ p .subtitle {
 p,
 ol,
 ul {
-    font-size: 1.3rem;
+    font-size: 1rem;
 }
 
 p,
@@ -1055,10 +1055,10 @@ hr.slender {
     counter-reset: footnote-counter;
 
     &:before {
-        content: "Notes";
+        content: "Comentarios";
         display: block;
         font-family: $sans-font;
-        font-size: 1.2rem;
+        font-size: 1rem;
         letter-spacing: 0.1em;
         text-transform: uppercase;
         margin-bottom: 1rem;
@@ -1094,8 +1094,9 @@ hr.slender {
 
 /* Ensure footnotes break out of the 60% constraint */
 .footnotes,
-.footnotes * {
+.footnotes ol {
     max-width: 100%;
+    font-size: 1rem;
 }
 
 /* Customize endnote markers - Letters (a, b, c) */
@@ -1108,7 +1109,7 @@ a.footnote {
     height: 1.2rem;
     text-align: center;
     line-height: 1.2rem;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     font-weight: bold;
     color: $text-color;
     vertical-align: middle;
