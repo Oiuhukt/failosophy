@@ -84,13 +84,6 @@ input:focus {
     outline-offset: 2px;
 }
 
-/* Responsive text sizing for large text (18pt+) */
-h1,
-h2,
-h3 {
-    /* Large text can use 3:1 ratio */
-}
-
 /* Ensure links are distinguishable beyond color */
 a {
     text-decoration: underline;
