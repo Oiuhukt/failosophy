@@ -309,6 +309,11 @@ body {
 
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
+h1,
+h2,
+h3 {
+    letter-spacing: 0.05em; /* Slight increase for small caps */
+}
 
 h1 {
     font-weight: 750;
