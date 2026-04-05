@@ -1,9 +1,12 @@
 ---
-layout: full-width
+layout: post
 title: ¿webroll?
 ---
 
-Confieso que me gustan las páginas web personales. Tengo la impresión de que es una manera más fiel de conocer a una persona por su página web, especialmente si tienen un blog. Aquí voy a poner ligas a sitios que me parecen interesantes.{% sidenote '1' 'En los tiempos de inicio de la web se llamaban *blogrolls*. '%} La lista no tiene un orden particular.
+{% newthought 'Me gustan las' %} páginas web personales. Tengo la impresión de que es una manera más fiel de conocer a una persona por su página web, especialmente si tienen un blog. Originalmente, este lugar contenía sólo páginas personales, pero quiero resguardar ligas a sitios que me parecen interesantes: tanto por el contenido, como por el proyecto detrás.{% sidenote '1' 'En los tiempos de inicio de la web se llamaban *blogrolls*. '%} La lista no tiene un orden particular.
+
+
+[Encyclopedia: the collaborative translation](https://quod.lib.umich.edu/d/did/intro.html){% sidenote '3' 'en sus palabras allows you to browse articles that have been translated and to search the database of translations in a variety of ways. You will also find links to the original French versions of translated articles. Other enhancements are planned.' %}
 
 [Kevin Klement](http://people.umass.edu/klement/) {% sidenote '2' 'Kevin Klement es profesor de lógica y especialista en Russell, Frege y Wittgenstein. En su sitio tiene en pdf algunas obras de Russell, que el mismo transcribió a latex.' %}
 
