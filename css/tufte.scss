@@ -1092,13 +1092,6 @@ hr.slender {
     }
 }
 
-/* Ensure footnotes break out of the 60% constraint */
-.footnotes,
-.footnotes ol {
-    max-width: 100%;
-    font-size: 1rem;
-}
-
 /* Customize endnote markers - Letters (a, b, c) */
 a.footnote {
     text-decoration: none;
