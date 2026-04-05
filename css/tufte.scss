@@ -297,34 +297,26 @@ body {
 h1,
 h2,
 h3 {
-    letter-spacing: 0.05em; /* Slight increase for small caps */
+    letter-spacing: 0.05em;
+    font-variant: small-caps;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.2; /* Slight increase for small caps */
 }
 
 h1 {
     font-weight: 750;
-    font-variant: small-caps;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
     font-size: 2.5rem;
-    line-height: 1.2;
 }
 
 h2 {
-    font-weight: 625;
-    font-variant: small-caps;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-    font-size: 2.5rem;
-    line-height: 1.2;
+    font-weight: 500;
+    font-size: 2rem;
 }
 
 h3 {
-    font-variant: small-caps;
-    font-weight: 512;
-    font-size: 2.5rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-    line-height: 1.2;
+    font-weight: 375;
+    font-size: 1.5rem;
 }
 
 // ET says a need for more than 3 levels of headings is the sign of a diseased mind
