@@ -1,6 +1,3 @@
-/* ==========================================================================
-   1. VARIABLES Y RESET
-   ========================================================================== */
 $text-color: #111111;
 $bg-color: #fefefe;
 $contrast-color: #a00000;
@@ -27,24 +24,30 @@ body {
 /* ==========================================================================
    2. TIPOGRAFÍA BASE (COLUMNA PRINCIPAL)
    ========================================================================== */
-p,
-footer,
-div.table-wrapper,
-.MathJax,
-ol,
-ul {
-    width: 60%; /* Columna central estilo Tufte */
+/* Añadimos 'body' y 'article' para que la regla sea más fuerte */
+body article,
+body main,
+.post-content {
+    p,
+    footer,
+    div.table-wrapper,
+    .MathJax,
+    ol,
+    ul {
+        width: 60% !important; /* El !important asegura que gane tu estilo */
+        margin-left: 0;
+        padding-right: 2rem;
+    }
 }
 
+/* Para los párrafos que no están en un article */
 p,
 li {
-    font-size: 0.9rem; /* Equivale a los 18px que buscabas */
+    font-size: 0.9rem;
     font-weight: 400;
     margin-top: 1.4rem;
     margin-bottom: 1rem;
-    padding-right: 2rem;
-    hyphens: auto;
-    word-wrap: break-word;
+    line-height: 1.6;
 }
 
 /* Títulos con Small Caps */
@@ -105,15 +108,15 @@ blockquote {
 
 .sidenote,
 .marginnote {
-    float: right;
-    clear: right;
-    margin-right: -60%;
-    width: 50%;
+    float: right !important;
+    clear: right !important;
+    margin-right: -60% !important;
+    width: 50% !important;
     font-size: 0.7rem; /* Dos puntos menor que la cita */
     font-weight: 315;
-    line-height: 1.35;
+    line-height: 1.3;
     position: relative;
-
+    display: inline;
     &:before {
         content: counter(sidenote-counter) ". ";
         font-weight: 600;
