@@ -363,17 +363,17 @@ div.epigraph + * {
 blockquote {
     margin: 1.3rem 0;
     padding-left: 1.5rem;
-    line-height: 1.3 !important; /* Tighter than body (1.6) */
+    line-height: 1.4 !important; /* Tighter than body (1.6) */
 }
 
 /* Blockquote text - smaller than body */
 blockquote p {
-    font-size: 1.15rem; /* Body is 1.4rem - noticeable difference */
+    font-size: 0.82rem; /* Body is 1.4rem - noticeable difference */
 }
 
 /* Blockquote footer (citation) */
 blockquote footer {
-    font-size: 0.85rem; /* Even smaller for citations */
+    font-size: 0.75rem; /* Even smaller for citations */
     line-height: 1.2;
     margin-top: 0.5rem;
     text-align: right;
@@ -614,6 +614,7 @@ table {
         margin-right: 0%;
         max-width: none;
     }
+
     blockquote p,
     blockquote footer,
     div.epigraph > blockquote > footer,
