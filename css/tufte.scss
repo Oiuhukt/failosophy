@@ -117,14 +117,6 @@ footer {
     font-weight: 400; /* Normal weight */
 }
 
-/* SECONDARY LEVEL - Blockquotes (slightly lighter for quoted text) */
-blockquote,
-blockquote p,
-.epigraph,
-.epigraph p {
-    font-weight: 375; /* Slightly lighter - distinguishes quoted content */
-}
-
 /* TERTIARY LEVEL - Sidenotes, Footnotes, Captions (recede into background) */
 .sidenote,
 .marginnote,
@@ -203,15 +195,6 @@ li,
     -ms-hyphens: auto;
     word-wrap: break-word;
     overflow-wrap: break-word;
-}
-
-/* Better hyphenation for blockquotes specifically */
-blockquote p,
-blockquote footer {
-    hyphens: auto;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    text-align: justify; /* Optional: makes text align both sides */
 }
 
 html,
@@ -354,29 +337,56 @@ div.epigraph + * {
     clear: both;
 }
 
-/* ============================================
-   BLOCKQUOTE STYLES - CONSOLIDATED
-   All blockquote settings in one place
-   ============================================ */
+/* ==========================================================================
+   BLOCKQUOTE & EPIGRAPH STYLES - CONSOLIDATED
+   ========================================================================== */
 
-/* Base blockquote container */
+/* 1. Contenedor base del Blockquote */
 blockquote {
-    margin: 1.3rem 0;
+    margin: 1.5rem 0;
     padding-left: 1.5rem;
-    line-height: 1.4 !important; /* Tighter than body (1.6) */
+    border-left: 1px solid rgba(0, 0, 0, 0.1); /* Opcional: una sutil línea lateral */
+    line-height: 1.45 !important;
 }
 
-/* Blockquote text - smaller than body */
+/* 2. Texto de la cita (Párrafos dentro del blockquote) */
 blockquote p {
-    font-size: 0.82rem; /* Body is 1.4rem - noticeable difference */
+    /* Cuerpo es 0.9rem (18px). Esto lo baja a aprox 16px-17px */
+    font-size: 0.82rem;
+    font-weight: 375; /* Peso ligeramente más ligero que el cuerpo */
+    hyphens: auto;
+    text-align: justify;
+    margin-bottom: 0.5rem;
 }
 
-/* Blockquote footer (citation) */
+/* 3. Atribución / Firma (Footer) */
 blockquote footer {
-    font-size: 0.75rem; /* Even smaller for citations */
-    line-height: 1.2;
-    margin-top: 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 300;
     text-align: right;
+    margin-top: 0.5rem;
+    display: block;
+}
+
+blockquote footer cite {
+    font-style: italic;
+}
+
+/* 4. Epígrafes (Blockquotes especiales al inicio de capítulos) */
+div.epigraph {
+    margin: 2rem 0;
+    width: 75%;
+    float: right;
+    clear: right;
+}
+
+div.epigraph blockquote {
+    border-left: none; /* Los epígrafes suelen no llevar barra lateral */
+    padding-left: 0;
+}
+
+div.epigraph blockquote p {
+    font-style: italic;
 }
 
 .sans {
