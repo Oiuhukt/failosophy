@@ -547,28 +547,33 @@ img {
     max-width: 100%;
 }
 
-.sidenote,
-.marginnote {
-    float: right;
-    clear: right;
-    margin-right: -60%;
-    width: 50%;
-    margin-top: 0;
-    margin-bottom: 1.5rem;
-    font-size: 0.8rem;
-    line-height: 1.4; //changed to bring line heights into rational pattern
-    vertical-align: baseline;
-    position: relative;
-}
-
-li .sidenote,
-li .marginnote {
-    margin-right: -80%;
-}
-
 /* ==========================================================================
    SIDENOTES & MARGINNOTES
    ========================================================================== */
+
+/* --- Lógica de numeración de notas --- */
+
+/* Incrementa el contador cada vez que aparece una llamada */
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+
+/* Muestra el número en el cuerpo del texto (la llamada) */
+.sidenote-number:after {
+    content: counter(sidenote-counter);
+    font-size: 0.7rem; /* Tamaño proporcional a tus notas */
+    vertical-align: super; /* Lo eleva como un exponente */
+    position: relative;
+    top: -0.2rem;
+    left: 0.1rem;
+    color: $contrast-color; /* Lo hace resaltar como link */
+}
+
+/* Muestra el número al inicio de la nota en el margen */
+.sidenote:before {
+    content: counter(sidenote-counter) ". ";
+    font-weight: 600;
+}
 
 .sidenote,
 .marginnote {
