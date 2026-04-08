@@ -24,7 +24,7 @@ $code-font: "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
 /* Base body text - 16px minimum (1rem = 16px equivalent) */
 html {
     /* Minimum 16px for accessibility */
-    font-size: clamp(16px, 5vw, 23px);
+    font-size: 20px;
 }
 
 /* Line height: minimum 1.5x font size */

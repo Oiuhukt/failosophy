@@ -8,8 +8,15 @@ title: ¿webroll?
 
 [Encyclopedia: the collaborative translation](https://quod.lib.umich.edu/d/did/intro.html){% sidenote '3' 'En sus palabras _allows you to browse articles that have been translated and to search the database of translations in a variety of ways. You will also find links to the original French versions of translated articles. Other enhancements are planned._' %}
 
+[The philosophy teaching library](https://philolibrary.crc.nd.edu/){%sidenote '6' 'A collection of introductory primary texts' %}
+
 [Open Encyclopedia of Cognitive Science](https://oecs.mit.edu/){% sidenote '6' 'En sus palabras _The goal is to provide a roadmap that is suitable for a broad and informed non-specialist audience, providing tools to understand what is at stake in the study of cognition_' %}
 
+[Against AI](https://against-a-i.com/){%sidenote '1' 'This site is a rough draft, shared to ease back to school prep.  Process is product!  Materials here are intended as solidarity solace for educators' %}
+
+[Conor Mayo-Wilson](https://faculty.washington.edu/conormw/){% sidenote '1' 'I am an associate professor in the philosophy department at the University of Washington. My philosophical interests are rather broad, spanning much of epistemology (esp. formal and social), philosophy of science' %}
+
+[David Hildebrand](https://www.davidhildebrand.org/){% sidenote '2' 'Hi there, and thanks for visiting my site. I'm Professor of philosophy in the Philosophy Department at the University of Colorado Denver. ' %}
 
 [Kevin Klement](http://people.umass.edu/klement/) {% sidenote '2' 'Kevin Klement es profesor de lógica y especialista en Russell, Frege y Wittgenstein. En su sitio tiene en pdf algunas obras de Russell, que el mismo transcribió a latex.' %}
 
