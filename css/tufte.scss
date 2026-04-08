@@ -17,6 +17,56 @@ html {
     -webkit-font-smoothing: antialiased;
 }
 
+/* ==========================================================================
+   HEADER / NAVIGATION (Logo a la izquierda, Links a la derecha)
+   ========================================================================== */
+header {
+    display: flex;
+    justify-content: space-between; /* Empuja logo/título a izq y links a der */
+    align-items: center; /* Centra verticalmente */
+    padding: 1rem 0;
+    width: 90%; /* Alineado con el resto del contenido */
+    max-width: 1400px;
+    margin: 0 auto;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+    /* Contenedor de Logo + Nombre */
+    div.logo-container {
+        display: flex;
+        align-items: center;
+        gap: 15px; /* Espacio entre imagen y texto */
+    }
+
+    img.badge {
+        height: 50px; /* Ajusta este valor para reducir la imagen */
+        width: auto;
+        display: block;
+    }
+
+    /* Título del blog */
+    .site-title {
+        font-weight: 750;
+        font-size: 1.2rem;
+        text-decoration: none;
+        color: $text-color;
+    }
+
+    /* Navegación */
+    nav {
+        display: flex;
+        gap: 20px; /* Espacio entre Hola, Blog, etc. */
+
+        a {
+            font-size: 0.8rem;
+            text-decoration: none;
+            color: $text-color;
+            &:hover {
+                color: $contrast-color;
+            }
+        }
+    }
+}
+
 body {
     width: 90%;
     max-width: 1400px;
