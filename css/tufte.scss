@@ -20,49 +20,53 @@ html {
 /* ==========================================================================
    HEADER / NAVIGATION (Logo a la izquierda, Links a la derecha)
    ========================================================================== */
-header {
+header nav.group {
     display: flex;
-    justify-content: space-between; /* Empuja logo/título a izq y links a der */
-    align-items: center; /* Centra verticalmente */
+    justify-content: space-between; /* Empuja el branding a la izq y links a la der */
+    align-items: center; /* Centra los elementos verticalmente */
     padding: 1rem 0;
-    width: 90%; /* Alineado con el resto del contenido */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    width: 90%;
     max-width: 1400px;
     margin: 0 auto;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
 
-    /* Contenedor de Logo + Nombre */
-    div.logo-container {
-        display: flex;
-        align-items: center;
-        gap: 15px; /* Espacio entre imagen y texto */
-    }
+/* Ajuste del Logo y Texto "failosophy" */
+.site-branding a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 12px; /* Espacio entre la imagen y el texto */
 
-    img.badge {
-        height: 50px; /* Ajusta este valor para reducir la imagen */
+    .badge {
+        height: 45px; /* Reduce el tamaño de la imagen gigante */
         width: auto;
         display: block;
     }
 
-    /* Título del blog */
     .site-title {
         font-weight: 750;
         font-size: 1.2rem;
-        text-decoration: none;
         color: $text-color;
+        font-variant: small-caps; /* Estética clásica de Tufte */
     }
+}
 
-    /* Navegación */
-    nav {
-        display: flex;
-        gap: 20px; /* Espacio entre Hola, Blog, etc. */
+/* Ajuste de los links (Hola, Blog, etc.) */
+.nav-links {
+    display: flex;
+    gap: 25px; /* Espacio entre cada enlace */
 
-        a {
-            font-size: 0.8rem;
-            text-decoration: none;
-            color: $text-color;
-            &:hover {
-                color: $contrast-color;
-            }
+    a {
+        text-decoration: none;
+        font-size: 0.85rem;
+        color: $text-color;
+        font-weight: 400;
+
+        &:hover,
+        &.active {
+            color: $contrast-color;
+            border-bottom: 1px solid $contrast-color;
         }
     }
 }
