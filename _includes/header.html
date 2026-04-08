@@ -2,31 +2,19 @@
     <nav class="group">
         <div class="site-branding">
             <a href="{{ site.baseurl }}/">
-                <img
-                    class="badge"
-                    src="{{ site.baseurl }}/assets/img/badge_1.png"
-                    alt="CH"
-                />
+                <img class="badge" src="{{ site.baseurl }}/assets/img/badge_1.png" alt="CH" />
                 <span class="site-title">failosophy</span>
             </a>
         </div>
 
         <div class="nav-links">
-            {% for node in site.pages %} {% unless node.nav_exclude %}
-            <a
-                href="{{ node.url | prepend: site.baseurl }}"
-                {%
-                if
-                page.url=""
-                ="node.url"
-                %}class="active"
-                {%
-                endif
-                %}
-            >
-                {{ node.title }}
-            </a>
-            {% endunless %} {% endfor %}
+            {% for node in site.pages %}
+                {% unless node.nav_exclude %}
+                    <a href="{{ node.url | prepend: site.baseurl }}" {% if page.url == node.url %}class="active"{% endif %}>
+                   {{ node.title }}
+                    </a>
+                {% endunless %}
+            {% endfor %}
         </div>
     </nav>
 </header>
