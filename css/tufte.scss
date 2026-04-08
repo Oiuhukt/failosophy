@@ -8,7 +8,7 @@ $body-font: "Montserrat", "Helvetica Neue", Arial, sans-serif;
 $code-font: "Consolas", "Liberation Mono", "Menlo", "Courier", monospace;
 
 html {
-    font-size: 20px; /* Tu base de 20px establecida */
+    font-size: 20px; /* Base de 18px-20px según tu preferencia */
     text-align: baseline;
     -webkit-font-smoothing: antialiased;
 }
@@ -33,27 +33,18 @@ div.table-wrapper,
 .MathJax,
 ol,
 ul {
-    width: 60%; /* Control central del ancho de columna */
+    width: 60%; /* Columna central estilo Tufte */
 }
 
 p,
 li {
-    font-size: 0.9rem; /* Tus 18px */
+    font-size: 0.9rem; /* Equivale a los 18px que buscabas */
     font-weight: 400;
     margin-top: 1.4rem;
     margin-bottom: 1rem;
     padding-right: 2rem;
     hyphens: auto;
     word-wrap: break-word;
-}
-
-/* Enlaces */
-a {
-    color: $contrast-color;
-    text-decoration: underline;
-    &:hover {
-        font-weight: 500;
-    }
 }
 
 /* Títulos con Small Caps */
@@ -73,10 +64,6 @@ h2 {
     font-size: 2rem;
     font-weight: 500;
 }
-h3 {
-    font-size: 1.7rem;
-    font-weight: 500;
-}
 
 /* ==========================================================================
    3. BLOQUES DE CITA Y EPÍGRAFES
@@ -91,30 +78,13 @@ blockquote {
         font-size: 0.82rem; /* Un punto menor que el cuerpo */
         font-weight: 375;
         text-align: justify;
+        width: 100%; /* Las citas usan el ancho del blockquote */
     }
 
     footer {
         width: 100%;
         font-size: 0.75rem;
-        font-weight: 300;
         text-align: right;
-        cite {
-            font-style: italic;
-        }
-    }
-}
-
-/* Epígrafes (Anidados) */
-div.epigraph {
-    margin: 2rem 0;
-    width: 75%;
-    float: right;
-    clear: right;
-    blockquote {
-        border-left: none;
-        p {
-            font-style: italic;
-        }
     }
 }
 
@@ -142,35 +112,16 @@ div.epigraph {
     font-size: 0.7rem; /* Dos puntos menor que la cita */
     font-weight: 315;
     line-height: 1.35;
+    position: relative;
 
     &:before {
         content: counter(sidenote-counter) ". ";
         font-weight: 600;
     }
-
-    code {
-        font-size: 0.85em;
-    } /* Código se adapta a la nota */
 }
 
 /* ==========================================================================
-   5. CÓDIGO Y TABLAS
-   ========================================================================== */
-pre,
-code {
-    font-family: $code-font;
-    font-weight: 400;
-}
-
-pre {
-    width: 52.5%;
-    padding: 1rem;
-    overflow-x: auto;
-    font-size: 0.9rem;
-}
-
-/* ==========================================================================
-   6. RESPONSIVE (MÓVIL)
+   5. RESPONSIVE (MÓVIL)
    ========================================================================== */
 @media (max-width: 760px) {
     p,
@@ -185,17 +136,8 @@ pre {
         margin-left: 5%;
         margin-right: 5%;
     }
-
-    .sidenote,
-    .marginnote {
-        display: none;
-    } /* Ocultar por defecto en móvil */
-    .margin-toggle:checked + .sidenote {
-        display: block;
-    }
 }
 
-/* Limpieza final de superíndices */
 sup {
     font-size: 0.7rem;
     vertical-align: super;
