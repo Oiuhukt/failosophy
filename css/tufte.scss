@@ -317,3 +317,19 @@ sup {
     font-size: 0.7rem;
     vertical-align: super;
 }
+
+
+/* Ocultar el pie de página de impresión en la pantalla */
+.print-footer {
+    display: none;
+}
+
+/* Mostrarlo solo cuando se imprime */
+@media print {
+    .print-footer {
+        display: block;
+        font-size: 10pt;
+        text-align: center;
+        margin-top: 2cm;
+    }
+}
