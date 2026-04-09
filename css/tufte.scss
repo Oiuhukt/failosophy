@@ -89,7 +89,10 @@ body {
 body article,
 body main,
 .post-content {
-    p,
+  display: flow-root;
+width: 100%;
+margin-bottom: 5rem;
+  p,
     footer,
     div.table-wrapper,
     .MathJax,
@@ -100,6 +103,19 @@ body main,
         padding-right: 2rem;
     }
 }
+
+
+/* Regla específica para el footer de la página */
+footer.site-footer,
+body > footer {
+    clear: both !important; /* Fuerza al footer a bajar después de las notas */
+    display: block;
+    width: 90%;
+    max-width: 1400px;
+    margin: 4rem auto 2rem auto;
+    padding-top: 2rem;
+}
+
 
 /* Para los párrafos que no están en un article */
 p,
