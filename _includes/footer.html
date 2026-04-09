@@ -1,15 +1,14 @@
 <footer class="site-footer">
   <hr class="slender">
   <ul class="footer-links">
-    <li><a href="mailto:oscar.olivetti39@rcastellanos.cdmx.gob.mx"><span class="icon-mail3"></span></a></li>
     {% for entry in site.data.social %}
       <li>
-        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+        <a href="{{ entry.link }}" target="_blank" rel="noopener">
+          <span class="{{ entry.icon }}"></span></a>
       </li>
     {% endfor %}
   </ul>
 <div class="credits">
-<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span></br> <br>
-<span></span>
+<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span>
 </div>
 </footer>
