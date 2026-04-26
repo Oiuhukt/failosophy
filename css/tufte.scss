@@ -324,15 +324,16 @@ blockquote {
 .content-listing {
     list-style: none;
     padding: 0;
-
+    width: 100%;
     .listing {
         margin-bottom: 2.5rem;
-       
+        width: 100%;
         a h3.contrast {
                 text-decoration: none;
                 color: $contrast-color !important;
                 margin-top: 0.5rem !important;
                 margin-bottom: 0 !important;
+                max-width: 55%;
                 display: block;
                 line-height: 1.1;
                 }
@@ -353,6 +354,9 @@ blockquote {
                     line-height: 1.4 !important;
                     color: $text-color !important;
                     opacity: 0.85;
+                    width: 90% !important;   /* Ocupa casi todo el ancho del contenedor padre */
+                        max-width: 1000px;       /* Un límite para que no sea infinito en pantallas gigantes */
+                        text-align: justify;
                 }
     }
 }
