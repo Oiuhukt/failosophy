@@ -17,6 +17,29 @@ html {
     -webkit-font-smoothing: antialiased;
 }
 
+
+/* ==========================================================================
+   REGLA GLOBAL DE ENLACES
+   ========================================================================== */
+a {
+    color: $contrast-color;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:visited {
+        color: $contrast-color; /* Evita el color morado de links visitados */
+    }
+
+    &:hover {
+        text-decoration: underline;
+        color: darken($contrast-color, 10%); /* Se oscurece un poco al pasar el mouse */
+    }
+}
+
+
+
+
+
 /* ==========================================================================
    HEADER / NAVIGATION (Logo a la izquierda, Links a la derecha)
    ========================================================================== */
