@@ -3,7 +3,6 @@ layout: full-width
 title: blog
 ---
 
-<h1 class="content-listing-header sans"></h1>
 <ul class="content-listing">
     {% for post in site.posts %}
     <li class="listing">
