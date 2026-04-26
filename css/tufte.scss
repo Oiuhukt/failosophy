@@ -304,10 +304,24 @@ blockquote {
 
     .listing {
         margin-bottom: 2rem;
+       
+        a {
+                text-decoration: none;
+                color: $contrast-color !important; /* Cambiamos $text-color por $contrast-color */
+             
+             &:visited {
+             color: $contrast-color;
+             }
+                
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
         
         /* Ajuste del Título */
         h3.contrast {
-            margin-top: 0.5rem !important;
+        color: $contrast-color !important;    
+        margin-top: 0.5rem !important;
             margin-bottom: 0 !important; /* Eliminamos margen inferior */
             display: block;
             line-height: 1.1;
