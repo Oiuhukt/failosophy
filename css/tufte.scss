@@ -343,17 +343,17 @@ blockquote {
             margin-top: -2px !important; /* Ajuste fino hacia arriba */
             color: rgba($contrast-color, 0.55) !important;
             font-style: italic;
-            font-size: 0.8rem !important;
+            font-size: 0.75rem !important;
         }
 
-        /* Espacio para el extracto */
-        div {
-            margin-top: 0.5rem !important;
-            font-size: 0.8rem !important;
-            line-height: 1.5;
-            color: $text-color;
-            opacity: 0.9;
-        }
+        .excerpt-container, 
+                .excerpt-container p {
+                    margin-top: 0.4rem !important;
+                    font-size: 0.7rem !important;  /* SIGNIFICATIVAMENTE MÁS PEQUEÑO */
+                    line-height: 1.4 !important;
+                    color: $text-color !important;
+                    opacity: 0.85;
+                }
     }
 }
 
