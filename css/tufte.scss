@@ -396,6 +396,21 @@ blockquote {
 }
 
 /* ==========================================================================
+   ELIMINAR CHECKBOXES DE NOTAS AL MARGEN
+   ========================================================================== */
+
+/* Esto oculta el cuadro de selección técnico sin romper la funcionalidad */
+input.margin-toggle {
+    display: none !important;
+}
+
+/* Opcional: Asegura que el número de la nota sea clickeable en móviles */
+.margin-toggle {
+    cursor: pointer;
+}
+
+
+/* ==========================================================================
    5. RESPONSIVE (MÓVIL)
    ========================================================================== */
 @media (max-width: 760px) {
