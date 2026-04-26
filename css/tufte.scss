@@ -326,7 +326,7 @@ blockquote {
     padding: 0;
     width: 100%;
     .listing {
-        margin-bottom: 2.5rem;
+        margin-bottom: 1rem !important;
         width: 100%;
         a h3.contrast {
                 text-decoration: none;
@@ -337,6 +337,13 @@ blockquote {
                 display: block;
                 line-height: 1.1;
                 }
+                
+                /* Ajuste específico para la línea horizontal */
+                        hr.slender {
+                            margin-top: 0.5rem !important;    /* Acerca la línea al texto de arriba */
+                            margin-bottom: 1.5rem !important; /* Mantiene un espacio sano con el siguiente título */
+                            opacity: 0.2;                     /* La hace un poco más sutil (opcional) */
+                        }
                         
         /* Ajuste de la Fecha */
         .post-date {
@@ -349,7 +356,7 @@ blockquote {
 
         .excerpt-container, 
                 .excerpt-container p {
-                    margin-top: 0.4rem !important;
+                    margin-top: 0.3rem !important;
                     font-size: 0.7rem !important;  /* SIGNIFICATIVAMENTE MÁS PEQUEÑO */
                     line-height: 1.4 !important;
                     color: $text-color !important;
