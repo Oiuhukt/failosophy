@@ -414,11 +414,12 @@ input.margin-toggle {
    ========================================================================== */
 
 .newthought {
-    font-variant: inherit; /* Resetea herencias extrañas */
     font-family: $body-font;
     font-variant-caps: small-caps; /* El estilo clásico de Tufte */
+    font-weight: bold;
     letter-spacing: 0.05rem;
     font-size: 1.1em; /* Un poco más grande para resaltar el inicio */
+    display: inline;
 }
 
 
