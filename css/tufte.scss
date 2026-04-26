@@ -326,44 +326,33 @@ blockquote {
     padding: 0;
 
     .listing {
-        margin-bottom: 2rem;
+        margin-bottom: 2.5rem;
        
-        a {
+        a h3.contrast {
                 text-decoration: none;
-                color: $contrast-color !important; /* Cambiamos $text-color por $contrast-color */
-             
-             &:visited {
-             color: $contrast-color;
-             }
-                
-                &:hover {
-                    text-decoration: underline;
+                color: $contrast-color !important;
+                margin-top: 0.5rem !important;
+                margin-bottom: 0 !important;
+                display: block;
+                line-height: 1.1;
                 }
-            }
-        
-        /* Ajuste del Título */
-        h3.contrast {
-        color: $contrast-color !important;    
-        margin-top: 0.5rem !important;
-            margin-bottom: 0 !important; /* Eliminamos margen inferior */
-            display: block;
-            line-height: 1.1;
-        }
-
+                        
         /* Ajuste de la Fecha */
         .post-date {
             display: block;
             margin-top: -2px !important; /* Ajuste fino hacia arriba */
-            color: rgba($contrast-color, 0.6) !important;
+            color: rgba($contrast-color, 0.55) !important;
             font-style: italic;
-            font-weight: 500;
+            font-size: 0.8rem !important;
         }
 
         /* Espacio para el extracto */
         div {
-            margin-top: 0.6rem;
-            font-size: 0.9rem;
-            line-height: 1.4;
+            margin-top: 0.5rem !important;
+            font-size: 0.8rem !important;
+            line-height: 1.5;
+            color: $text-color;
+            opacity: 0.9;
         }
     }
 }

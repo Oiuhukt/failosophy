@@ -11,8 +11,10 @@ title: blog
         <a href="{{ post.url | prepend: site.baseurl }}"
             ><h3 class="contrast">{{ post.title }}</h3></a
         >
+<div class="listing">
         <span class="smaller post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-        <div>{{ post.excerpt }}</div>
+        <div">{{ post.excerpt }}</div>
+</div>
     </li>
     {% endfor %}
 </ul>
