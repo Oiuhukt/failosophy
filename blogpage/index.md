@@ -13,7 +13,7 @@ title: blog
         >
 <div class="listing">
         <span class="smaller post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-        <div">{{ post.excerpt }}</div>
+        <div>{{ post.excerpt }}</div>
 </div>
     </li>
     {% endfor %}
