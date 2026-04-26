@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿webroll?
+
 ---
 
 {% newthought 'Me gustan las' %} páginas web personales. Tengo la impresión de que es una manera más fiel de conocer a una persona por su página web, especialmente si tienen un blog. Originalmente, este lugar contenía sólo páginas personales, pero quiero resguardar ligas a sitios que me parecen interesantes: tanto por el contenido, como por el proyecto detrás.{% sidenote '1' 'En los tiempos de inicio de la web se llamaban *blogrolls*. '%} Lo que me importa es que estos sitios sigan existiendo en un futuro lejano. La lista no tiene un orden particular.
