@@ -358,6 +358,31 @@ blockquote {
 }
 
 /* ==========================================================================
+   DISEÑO 100% PARA INDEX / BLOG
+   ========================================================================== */
+
+/* Buscamos el contenedor principal cuando se usa el layout full-width */
+.full-width {
+    article, 
+    section, 
+    header, 
+    footer,
+    .content-listing {
+        width: 95% !important;   /* O 100% si lo prefieres pegado al borde */
+        max-width: 1400px;       /* Un máximo para que no se vea infinito en monitores 4K */
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    /* Esto elimina el espacio reservado para las notas al margen en esta página */
+    .sidenote, .marginnote {
+        display: none !important;
+    }
+}
+
+/* ==========================================================================
    5. RESPONSIVE (MÓVIL)
    ========================================================================== */
 @media (max-width: 760px) {
