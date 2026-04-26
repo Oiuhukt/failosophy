@@ -6,6 +6,9 @@ title: ¿webroll?
 {% newthought 'Me gustan las' %} páginas web personales. Tengo la impresión de que es una manera más fiel de conocer a una persona por su página web, especialmente si tienen un blog. Originalmente, este lugar contenía sólo páginas personales, pero quiero resguardar ligas a sitios que me parecen interesantes: tanto por el contenido, como por el proyecto detrás.{% sidenote '1' 'En los tiempos de inicio de la web se llamaban *blogrolls*. '%} Lo que me importa es que estos sitios sigan existiendo en un futuro lejano. La lista no tiene un orden particular.
 
 
+[xkcd](https://xkcd.com/1/){% sidenote '01' 'A webcomic of romance,
+sarcasm, math, and language.'%}
+
 [The Renaissance Mathematicus](https://thonyc.wordpress.com/){% sidenote '01' 'An aging freak who fell in love with the history of science and now lives mostly in the 16th century.'%}
 
 [Encyclopedia: the collaborative translation](https://quod.lib.umich.edu/d/did/intro.html){% sidenote '01' 'En sus palabras _allows you to browse articles that have been translated and to search the database of translations in a variety of ways. You will also find links to the original French versions of translated articles. Other enhancements are planned._' %}
