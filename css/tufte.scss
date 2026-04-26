@@ -295,6 +295,29 @@ blockquote {
     vertical-align: super;
 }
 
+
+/* Ajuste para la lista de entradas del blog */
+.post-list {
+    li {
+        margin-bottom: 2rem; /* Espacio entre cada entrada de la lista */
+    }
+
+    /* Ajusta el título de la entrada */
+    h2, h3 {
+        margin-bottom: 0.2rem !important; /* Reduce el espacio abajo del título */
+        line-height: 1.2;
+    }
+
+    /* Ajusta la fecha */
+    .post-meta, .post-date {
+        margin-top: 0 !important;   /* Elimina el espacio arriba de la fecha */
+        display: block;
+        font-size: 0.8rem;
+        color: #666;
+    }
+}
+
+
 /* ==========================================================================
    5. RESPONSIVE (MÓVIL)
    ========================================================================== */
