@@ -339,11 +339,13 @@ blockquote {
                 }
                 
                 /* Ajuste específico para la línea horizontal */
-                        hr.slender {
-                            margin-top: 0.5rem !important;    /* Acerca la línea al texto de arriba */
-                            margin-bottom: 1.5rem !important; /* Mantiene un espacio sano con el siguiente título */
-                            opacity: 0.2;                     /* La hace un poco más sutil (opcional) */
-                        }
+                 hr.slender {
+                   border: 0;
+                   border-top: 1px solid rgba($contrast-color, 0.4) !important;    
+                   margin-top: 0.5rem !important;    /* Acerca la línea al texto de arriba */
+                   margin-bottom: 1.8rem !important; /* Mantiene un espacio sano con el siguiente título */
+           width: 100%;       
+                 }
                         
         /* Ajuste de la Fecha */
         .post-date {
