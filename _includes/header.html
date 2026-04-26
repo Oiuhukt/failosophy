@@ -7,14 +7,18 @@
             </a>
         </div>
 
-        <div class="nav-links">
-            {% for node in site.pages %}
-                {% unless node.nav_exclude %}
-                    <a href="{{ node.url | prepend: site.baseurl }}" {% if page.url == node.url %}class="active"{% endif %}>
-                   {{ node.title }}
-                    </a>
-                {% endunless %}
-            {% endfor %}
+<div class="nav-links">
+            <a href="{{ site.baseurl }}/hola" {% if page.url == "/hola" or page.url == "/hola.html" %}class="active"{% endif %}>
+                hola
+            </a>
+
+            <a href="{{ site.baseurl }}/" {% if page.url == "/" or page.url == "/index.html" %}class="active"{% endif %}>
+                blog
+            </a>
+
+            <a href="{{ site.baseurl }}/webroll" {% if page.url == "/webroll" or page.url == "/webroll.html" %}class="active"{% endif %}>
+                ¿webroll?
+            </a>
         </div>
-    </nav>
+        </nav>
 </header>
