@@ -461,3 +461,28 @@ sup {
         margin-top: 2cm;
     }
 }
+
+/* ==========================================================================
+   IMÁGENES A ANCHO COMPLETO (100% PANTALLA)
+   ========================================================================== */
+
+html, body {
+    overflow-x: hidden; /* Previene scroll horizontal con elementos de 100vw */
+}
+
+.full-page-image {
+    display: block;
+    width: 100vw !important; /* Mide exactamente el ancho total del navegador */
+    max-width: none !important;
+    
+    /* Centra la imagen rompiendo las cajas contenedoras <article> */
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw !important;
+    margin-right: -50vw !important;
+    
+    height: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
