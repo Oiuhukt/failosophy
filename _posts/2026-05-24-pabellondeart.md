@@ -8,50 +8,45 @@ categories: escritura personal
 <!--more-->
 
 
-Vengo de un rancho. El pueblo del que vengo se llama [Pabellón de
+{% newthought 'Vengo de un rancho.' %} Lo sé porque en la secundaria me levante un día y  en el pasto estaba pastando un borrego. El pueblo del que vengo se llama [Pabellón de
 Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga), que es un municipio
-del estado de Aguascalientes. El lugar es particular debido a que es un municipio muy
-reciente. El pueblo se fundó en 1929 y fue resultado de la construcción de una
-estación de tren para traer los materiales necesarios y construir la presa Calles. La
-presa Calles que fue un proyecto del gobierno federal y uno de los primeros proyectos
+del estado de Aguascalientes. El lugar es particular debido a que es un municipio con una historia reciente. El pueblo se fundó en 1929 y fue resultado de la necesidad de traer los materiales necesarios para construir la presa Calles. La
+presa Calles fue un proyecto del gobierno federal, y uno de los primeros proyectos
 de riego en el país depués de la revolución mexicana. Por esta razón, la historia de
 Pabellón está relacionada con la revolución---como lo muestra la celebración de
-nuestra feria de la revolución. La construcción de la presa se llevó a cabo bajo el
-gobierno de Plutarco Elías Calles, de ahí el nombre que la presa ostenta.
+nuestra feria. Hay que considerar también que la construcción de la presa se llevó a cabo bajo el gobierno de Plutarco Elías Calles, de ahí el nombre que la presa ostenta.
 
 Ese lugar era monte. Sólo habia un asentamiento del ferrocarril---que iba de la
-Ciudad de México a Ciudad Juárez,---para descargar los materiales y las máquinas que
+Ciudad de México a Ciudad Juárez,---que se usaba para descargar los materiales y las máquinas que
 serían llevadas al punto de construcción de la presa. La construcción del proyecto
-duró un año. Los trabajadores tuvieron que permanecer por lo menos el año que duró la
-construcción de la presa---de 1927 a 1928,---y asentaron un campamento que terminó
+duró un año. Los trabajadores tuvieron que permanecer, por lo menos, el año que duró la construcción---de 1927 a 1928,---y asentaron un campamento que terminó
 creciendo lo suficiente para que en 1929 se fundara Pabellón de Arteaga.
 
 Que haya sido un proyecto federal, implica que participaron diferentes escaques de la
 sociedad laboral mexicana. Desde administradores, dueños de empresas de materiales,
-trabajadores de la construcción, trabajadores con licencias para operar máquinas y
-todo lo que implica un proyecto federal en un desierto cualquiera con sólo un
+trabajadores de la construcción, trabajadores con licencias para operar máquinas, ingenieros, y todo lo que implica un proyecto federal en un desierto cualquiera con sólo un
 asentamiento de ferrocarril. Fueron estos grupos laborales los que comenzaron a
 poblar el campamento que se convertiría en Pabellón de Arteaga.
 
-Después de que terrminó la cosntrucción de la presa, el campamento original de los
-trabajadores se enriqueció de la fuerza laboral de los sectores agropecuarios:
-campesinos, veterinarios, agricultores, etc. La siguiente imagen está tomada de la
-página del municipio---que el próximo encargado de sistemas debería actualizar en su
-tiempo libre---que es un croquis dibujado por el ingeniero Arregui del campamento que
-construyeron los trabajadores.
+{% newthought 'Después de terrminar' %} la cosntrucción de la presa, el campamento
+original de los trabajadores se enriqueció de la fuerza laboral de los sectores
+agropecuarios: campesinos, veterinarios, agricultores, etc. Sumado al conjunto de
+trabajadores de sectores privados, públicos, y diferentes fuerzas de trabajo como 
+agricultores, construtores, operadores, veterinarios, etc., en algún punto del tiempo entre la fundación del pueblo y la guerra civil española, por azares del destino, llegaron a asentarse españoles que venían a buscar refugio debido a esta guerra. Es aquí donde esta historia se vuelve personal. 
+
+Para entrar en temas personales, quiero mencionar la siguiente imagen que es un croquis del campamento que dio origen a mi puieblo. Esta imagen está tomada de la
+[página del municipio](https://www.pabellon.gob.mx/index.php)---que el próximo encargado de sistemas debería actualizar en su
+tiempo libre. Según la página, este croquis fue dibujado por el ingeniero Arregui.
 
 <img src="{{ site.baseurl }}/assets/img/campamentoPabe.jpg" class="full-page-image"
 alt="Croquis del campamento Arregui"/>
 
-Pueden encontrar la libreta en el archivo histórico 'Casino de la Selva,' que se
+Parece ser que si quieren ver la libreta física, la pueden encontrar 
+en el archivo histórico 'Casino de la Selva,' que se
 encuentra muy cerca de un departamento hermoso que tuve el privilegio de rentar
-durante un periodo considerable de tiempo. 
+durante un periodo considerable de tiempo. Donde además venden cerca un café delicioso. Dos razones para visitar el [archivo histórico.](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php)
 
-Sumado al conjunto de trabajadores de sectores privados y públicos, y de diferentes
-ramas desde agricultura, construcción, maquinaria, etc., en algún punto del tiempo
-entre la fundación del pueblo y la guerra civil española, por alguna razón llegaron a
-asentarse españoles que venían de refugiados a causa de esta guerra. Es aquí donde
-esta historia se vuelve personal.
+
 
 Verán, adoro Pabellón de Arteaga. Cuando digo que vengo de un rancho, lo digo con
 mucho orgullo. Lo digo orgullosamente y en voz alta, especialmente ahora que no vivo
