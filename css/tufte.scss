@@ -462,31 +462,30 @@ sup {
     }
 }
 
-
 /* ==========================================================================
-   IMÁGENES A ANCHO COMPLETO (ESCALADO COMPLETO)
+   IMÁGENES A ANCHO COMPLETO (ESCALADO Y CENTRADO DE BORDES)
    ========================================================================== */
 
 html, body {
-    overflow-x: hidden; /* Previene scroll horizontal */
+    overflow-x: hidden; /* Sigue siendo vital para evitar el scroll horizontal */
 }
 
 .full-page-image {
     display: block;
-    /* Permite que se expanda hasta el ancho total de la pantalla si es necesario */
+    
+    /* Obliga a la imagen a ocupar el 100% de la pantalla horizontalmente */
     width: 100vw !important; 
-    /* Pero se reduce elegantemente para no rebasar el espacio visible */
-    max-width: 100% !important; 
-    height: auto !important; /* Mantiene la proporción original sin deformar */
-    object-fit: contain; /* Asegura que la imagen se renderice completa */
     
-    /* Centrado relativo respecto a la pantalla */
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw !important;
-    margin-right: -50vw !important;
+    /* Evita que la altura sobrepase la pantalla y la escala proporcionalmente */
+    height: auto !important; 
     
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    /* Rompe el contenedor <article> calculando la distancia exacta al borde izquierdo */
+    margin-left: calc(-50vw + 50%) !important; 
+    margin-right: calc(-50vw + 50%) !important;
+    
+    /* Máxima seguridad para que no intente heredar límites del layout */
+    max-width: none !important; 
+    
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
 }
