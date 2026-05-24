@@ -472,20 +472,11 @@ html, body {
 
 .full-page-image {
     display: block;
-    
-    /* Obliga a la imagen a ocupar el 100% de la pantalla horizontalmente */
-    width: 100vw !important; 
-    
-    /* Evita que la altura sobrepase la pantalla y la escala proporcionalmente */
+    width: 50vw !important; 
     height: auto !important; 
-    
-    /* Rompe el contenedor <article> calculando la distancia exacta al borde izquierdo */
-    margin-left: calc(-50vw + 50%) !important; 
-    margin-right: calc(-50vw + 50%) !important;
-    
-    /* Máxima seguridad para que no intente heredar límites del layout */
+    margin-left: calc(-25vw + 50%) !important; 
+    margin-right: calc(-25vw + 50%) !important;
     max-width: none !important; 
-    
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
 }
