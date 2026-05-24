@@ -462,27 +462,31 @@ sup {
     }
 }
 
+
 /* ==========================================================================
-   IMÁGENES A ANCHO COMPLETO (100% PANTALLA)
+   IMÁGENES A ANCHO COMPLETO (ESCALADO COMPLETO)
    ========================================================================== */
 
 html, body {
-    overflow-x: hidden; /* Previene scroll horizontal con elementos de 100vw */
+    overflow-x: hidden; /* Previene scroll horizontal */
 }
 
 .full-page-image {
     display: block;
-    width: 100vw !important; /* Mide exactamente el ancho total del navegador */
-    max-width: none !important;
+    /* Permite que se expanda hasta el ancho total de la pantalla si es necesario */
+    width: 100vw !important; 
+    /* Pero se reduce elegantemente para no rebasar el espacio visible */
+    max-width: 100% !important; 
+    height: auto !important; /* Mantiene la proporción original sin deformar */
+    object-fit: contain; /* Asegura que la imagen se renderice completa */
     
-    /* Centra la imagen rompiendo las cajas contenedoras <article> */
+    /* Centrado relativo respecto a la pantalla */
     position: relative;
     left: 50%;
     right: 50%;
     margin-left: -50vw !important;
     margin-right: -50vw !important;
     
-    height: auto;
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
