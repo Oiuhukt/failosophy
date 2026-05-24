@@ -1,7 +1,7 @@
 --- 
-title: "A un lector cualquiera de 'Sobre sentido y referencia'" 
+title: "Pabellón de Artega: la familia que elegí" 
 layout: post 
-date: 2026-03-17
+date: 2026-05-24
 categories: profesor academia filosofía escritura 
 ---
 
