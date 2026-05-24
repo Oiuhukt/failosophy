@@ -11,10 +11,9 @@ categories: escritura personal
 Vengo de un rancho. El pueblo del que vengo se llama [Pabellón de
 Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga), que es un municipio
 del estado de Aguascalientes. El lugar es particular debido a que es un municipio muy
-reciente. El pueblo se fundó porque construyeron una estación de tren para traer los
-materiales para construir la presa Calles, que fue un proyecto del gobierno federal y
-uno de los primeros proyectos de riego en el país depués de la revolución mexicana.
-Bajo el gobierno de Plutarco Elías Calles. De ahí el nombre de la presa.
+reciente. El pueblo se fundó en 1929 y fue resultado de la construcción de una estación de tren para traer los
+materiales necesarios y construir la presa Calles. La presa Calles que fue un proyecto del gobierno federal y
+uno de los primeros proyectos de riego en el país depués de la revolución mexicana. Por esta razón, la historia de Pabellón está relacionada con la revolución---como lo muestra la celebración de nuestra feria de la revolución. La construcción de la presa se llevó a cabo bajo el gobierno de Plutarco Elías Calles, de ahí el nombre que la presa ostenta.
 
 Ese lugar era monte. Sólo habia un asentamiento del ferrocarril---que iba de la
 Ciudad de México a Ciudad Juárez,---para descargar los materiales y las máquinas que
