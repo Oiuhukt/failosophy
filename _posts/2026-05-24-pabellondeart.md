@@ -8,7 +8,7 @@ categories: escritura personal
 <!--more-->
 
 
-{% newthought 'Vengo de un rancho.' %} Lo sé porque en la secundaria me levante un día y  en el pasto estaba pastando un borrego. El pueblo del que vengo se llama [Pabellón de
+{% newthought 'Vengo de un rancho.' %} Lo sé porque en la secundaria me levante un día, abrí mi ventana, y el pasto lo consumía un borrego. El pueblo del que vengo se llama [Pabellón de
 Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga), que es un municipio
 del estado de Aguascalientes. El lugar es particular debido a que es un municipio con una historia reciente. El pueblo se fundó en 1929 y fue resultado de la necesidad de traer los materiales necesarios para construir la presa Calles. La
 presa Calles fue un proyecto del gobierno federal, y uno de los primeros proyectos
