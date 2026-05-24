@@ -11,9 +11,13 @@ categories: escritura personal
 Vengo de un rancho. El pueblo del que vengo se llama [Pabellón de
 Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga), que es un municipio
 del estado de Aguascalientes. El lugar es particular debido a que es un municipio muy
-reciente. El pueblo se fundó en 1929 y fue resultado de la construcción de una estación de tren para traer los
-materiales necesarios y construir la presa Calles. La presa Calles que fue un proyecto del gobierno federal y
-uno de los primeros proyectos de riego en el país depués de la revolución mexicana. Por esta razón, la historia de Pabellón está relacionada con la revolución---como lo muestra la celebración de nuestra feria de la revolución. La construcción de la presa se llevó a cabo bajo el gobierno de Plutarco Elías Calles, de ahí el nombre que la presa ostenta.
+reciente. El pueblo se fundó en 1929 y fue resultado de la construcción de una
+estación de tren para traer los materiales necesarios y construir la presa Calles. La
+presa Calles que fue un proyecto del gobierno federal y uno de los primeros proyectos
+de riego en el país depués de la revolución mexicana. Por esta razón, la historia de
+Pabellón está relacionada con la revolución---como lo muestra la celebración de
+nuestra feria de la revolución. La construcción de la presa se llevó a cabo bajo el
+gobierno de Plutarco Elías Calles, de ahí el nombre que la presa ostenta.
 
 Ese lugar era monte. Sólo habia un asentamiento del ferrocarril---que iba de la
 Ciudad de México a Ciudad Juárez,---para descargar los materiales y las máquinas que
@@ -87,13 +91,20 @@ civil buscaron refugio en México y que algunos de ellos se asentaron en Pabell�
 Artega. Soy oriundo de Pabellón de Arteaga y un descendiente de ese grupo.
 
 Espero que no sea necesario decir lo obvio: mis problemas familiares están
-obviamentre relacionados con mi historia personal como pabellonense---porque ahí nací
-y me desarrollé la mayor parte de mi vida,---y la historia de Pabellón está
-relacionada con la vieja corona y los proyectos federales de la época. Esto quiere
-decir que sea cuál sea el trato que haya hecho Plutarco Elías Calles, que convirtió a
-Pabellón de Arteaga en el primer distrito de riego, causó que yo tuviera problemas
-familiares. Problemas familiares relacionados con los españoles, pero ciertamente no
-relacionados con mi xenofobia, la xenofobia vino a parte.
+obviamentre relacionados con mi historia personal como pabellonense---después de
+todo, ahí nací y me desarrollé la mayor parte de mi vida,---por lo que la cultura del
+pueblo y las actitudes de los pabellonense forman parte de mi desarrollo como
+persona. Debo recordarles que la historia de Pabellón está relacionada con la vieja
+corona y los proyectos federales de la época. Esto quiere decir que sea cuál sea el
+trato que haya hecho Plutarco Elías Calles, que convirtió a Pabellón de Arteaga en el
+primer distrito de riego, causó que yo tuviera problemas familiares. No nacer sería
+suficiente para no tener problemas familiares. Creo que queda claro el punto.
+
+Quiero además hacer patente que mis problemas familiares están, por azares del
+destino, relacionados con las actitudes de los españoles que llegaron a asentarse a
+Pabellón de Arteaga. Ya que mi ascendencia viene directo de las ideologías , sean las
+que fueren, de los españoles de esa época. También quiero aclarar que mi ascendencia
+no está relacionada con mi xenofobia: la xenofobia vino a parte.
 
 Espero que el lector note la ironía que constituye toda esta situación. REalmente no
 tengo la habilidad que necesito para compartirle al lector la comicidad que siento
