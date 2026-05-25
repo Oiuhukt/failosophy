@@ -29,13 +29,6 @@ lo menos, el tiempo que duró la construcción---de 1926 a 1931,---y por ello,
 asentaron un campamento. Este campamento fue el que terminó creciendo lo suficiente
 para que en 1929 se fundara Pabellón de Arteaga.
 
-Que haya sido un proyecto federal, implica que participaron diferentes escaques de la
-sociedad laboral mexicana. Desde administradores, dueños de empresas de materiales,
-trabajadores de la construcción, trabajadores con licencias para operar máquinas,
-ingenieros, y todo lo que implica un proyecto federal en un desierto cualquiera con
-sólo un asentamiento de ferrocarril. Fueron estos grupos laborales los que comenzaron
-a poblar el campamento que se convertiría en Pabellón de Arteaga.
-
 {% newthought 'Hay dos factores' %} que quiero resaltar en torno a la construcción de
 la presa. Primero, que haya sido un proyecto federal, implica que participaron
 diferentes escaques de la sociedad laboral mexicana. Desde administradores, dueños de
