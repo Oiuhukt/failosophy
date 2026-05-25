@@ -87,14 +87,9 @@ debe a la diversidad de grupos y personas que se asentaron durante la construcci
 la presa Calles y los grupos que fueron incluyendose a lo largo de la historia del
 pueblo.
 
-Personalmente me gusta Pabellón de Arteaga por esa tolerancia que es mayor a la de
-los capitalinos. La de Pabellón es personal porque es en Pabellón de Arteaga donde
-están mis amistades más duraderas. Todas las personas que considero más cercanas en
-mi vida, son personas con las que he coincidido en ese pueblo. Creo que además muchas
-de ellas opinarían exactamente lo mismo: que en Pabellón de Arteaga solemos ser más
-tolerantes que en otros municipios del estado. No somos la Suiza del sur, pero quiero
-mucho a mi pueblo y a mis amigos. Estos amigos, _la familia que elegí_, son personas
-que representan la tolerancia que nace de un pueblo con origen diverso---me doy el
+La historia de Pabellón es personal porque es en Pabellón de Arteaga donde están mis amistades más duraderas. Las personas que considero más cercanas en mi vida son personas con las que he coincidido en ese pueblo. Estas personas conforman _la familia que elegí._ Creo además, que muchas de estas personas opinarían exactamente lo mismo: que en Pabellón de Arteaga solemos ser más tolerantes que en otros municipios del estado. No somos la Suiza del sur, pero quiero
+mucho a mi pueblo y a mis amigos. _La familia que elegí,_ son personas
+que representan la tolerancia que nace de un pueblo con origen diverso y me doy el
 gusto de encomiar las buenas cualidades que tienen los oriundos.
 
 El contraste entre la Ciudad de México y mi pueblo me sirve tambien para hacer un par
@@ -103,48 +98,62 @@ tenía que pegar de la ciudad en la que viví el tiempo que duró mi posgrado. M
 clara mi xenofobia porque tengo un problema con los españoles. Esto no es sorpresa
 para quienes me conocen personalmente, ya que continuamente hago comentarios
 despectivos sobre la sensación de superioridad que detecto asumen algunos de los
-vistitantes de la vieja corona cuando llegan al país. Debo decirles que para ser un fulano que viene de un rancho, he tenido el privilegio de conocer personalmente a
-muchos españoles y son ellos los que tienen la carga de la prueba.
+vistitantes de la vieja corona cuando llegan al país. Debo decirles que para ser un
+fulano que viene de un rancho, he tenido el privilegio de conocer personalmente a
+muchos españoles y debo decirles que son ellos los que tienen la carga de la prueba.
 
 Para aclarar a qué me refiero, basta con notar los comentarios de Isabel Díaz Ayuso
 en su reciente visita al país. No me interesa hablar de Ayuso, sólo quiero que el
-lector considere los comentarios de la presidenta y los evalúe como quiera. Pero sin
+lector considere los comentarios de la presidenta y los evalúe como quiera. Sin
 pretender hacer una generalización apresurada, las creencias de Ayuso---expresadas en
-sus comentarios--son creencias compartidas por muchos de los españoles a quienes he
-conocido personalmente. Quiero que el lector considere también que Pabellón es parte
-del estado de Aguascalientes, pro que fue el ayuntamiento del municipio de
-Aguascalientes quien le entregó la llave de la ciudad a Ayuso. Algo que sin duda
-diferencía a las personas de Aguasaclientes municipio, de las personas de Pabellón de
-Arteaga, es que los pabellonenses---al menos la familia que elegí---cuestionarían la
-amabilidad que le mostró el ayundatmiento de Aguasaclientes a la presidenta de la
-Comunidad de Madrid. Debido a este evento, he disfrutado en carne
-propia los comentarios cómicos que hacen los capitalinos respecto a la visita de
-Ayuso. Es por esta razón que ahora debo hacer la aclaración de que no soy de
-Aguascalientes, sino de Pabellon de Arteaga. No me molesta hacerla, siempre he sido
-de Pabellón de Arteaga.
+sus comentarios y actitudes--son creencias compartidas por muchos de los españoles a
+quienes he tenido el gusto de conocer personalmente. 
 
-{% newthought 'La historia de Pabellón de Artega' %} también es personal, porque mi abuela llegó al pueblo como parte del grupo de refugiados españoles, que se asentaron durante el periodo de la guerra civil. México les dio refugio y algunos de ellos se asentaron en Pabellón de Artega. Soy oriundo de Pabellón de Arteaga y un descendiente de ese grupo de refugiados.
+{% newthought 'Quiero que el lector' %} considere también que Pabellón es parte del
+estado de Aguascalientes y que el estado tiene un municipio homónimo. Fue el
+ayuntamiento del municipio de Aguascalientes quien le entregó la llave de la ciudad a
+Ayuso. Personalmente me causa risa la situación, pero algo que sin duda diferencía a
+los pabellonenses de los hidrocálidos, es que los pabellonenses---al menos la familia
+que elegí---cuestionarían la amabilidad que le mostró el ayundatmiento de
+Aguasaclientes a la presidenta de la Comunidad de Madrid. Debido a este evento, he
+disfrutado en carne propia los comentarios cómicos que hacen los capitalinos respecto
+a la visita de Ayuso. Es por esta razón que ahora debo hacer la aclaración de que no
+soy de Aguascalientes, sino de Pabellon de Arteaga. No me molesta hacerla, siempre he
+sido de Pabellón de Arteaga.
 
-Espero que no sea necesario decir lo obvio: mi personalidad está
-influenciada por mi historia personal como pabellonense---después de
-todo, ahí nací y me desarrollé la mayor parte de mi vida,---por lo que la cultura del
-pueblo y las actitudes de los pabellonense forman parte de mi desarrollo como
-persona. Debo recordarles que la historia de Pabellón está relacionada con la vieja
-corona y los proyectos federales de la época. Esto quiere decir que sea cuál sea el
-trato que haya hecho Plutarco Elías Calles, que convirtió a Pabellón de Arteaga en el
-primer distrito de riego, causó que yo tuviera problemas familiares. No nacer sería
-suficiente para no tener problemas familiares. Creo que queda claro el punto.
+Quiero aclarar que no intento hacer generalizaciones apresuradas. Pero es claro que
+como seres humanos nos debemos en buena parte a la familia que elegimos. Me consta
+que algunas de las creencias expresadas por Ayuso, son creencias que comparten los
+hidrocálidos. Por eso me tomo el tiempo de aclarar que no soy de Aguascalientes
+municipio. Asi como ciertas creencias y actitudes se deben a la familia que elegmos,
+también muchas de ellas se deben a la familia que no elegimos. A menos que alguien
+defienda la tesis del determinismo causal, claramente fue azaroso que ese grupo de
+trabajadores terminara fundando Pabellón de Arteaga. También es azaroso haber nacido
+en la familia que nos tocó: muchas de mis creencias---reflejadas en mis comentarios y
+actitudes---se deben también a la _familia que no elegí_
 
-Quiero además hacer patente que mis problemas familiares están, por azares del
-destino, relacionados con las actitudes de los españoles que llegaron a asentarse a
-Pabellón de Arteaga. Ya que mi ascendencia viene directo de las ideologías , sean las
+La historia de Pabellón de Artega también es personal, porque mi abuela llegó al
+pueblo como parte del grupo de refugiados españoles que se asentaron durante el
+periodo de la guerra civil. México les dio refugio y algunos de ellos, de manera
+azarosa, se refugiaron mi pueblo de origen. Soy oriundo de Pabellón de Arteaga y un
+descendiente de ese grupo de refugiados. 
+
+{% newthought 'Espero que sea obvia' %} la ironía que constituye toda esta situación. Realmente no tengo la habilidad que necesito para compartirle al lector la comicidad que siento al escribir esto, o de la gracia con la que hablo de estas cosas con aquellos que me conocen personalmente. Así como mi personalidad está obviamente influenciada por mi historia como pabellonense---ahí
+nací y me desarrollé la mayor parte de mi vida,---por lo que la cultura del pueblo y
+las actitudes que admiro de _la familia que elegí_ forman parte de mi desarrollo como
+persona. La historia y la cultura de Pabellón y mi historia personal está relacionada
+con la vieja corona. Yo no lo pedí, estas condiciones se me impusieron. Repito, esta es _la familia que no elegí._ 
+
+Sea cuál sea el trato que haya hecho Plutarco Elías Calles, fue un trato necesario
+para la fundación de Pabellón de Arteaga, fundación que, a su vez, fue necesaria para
+que yo pudiera nacer pabellonense. No nacer sería suficiente para no tener a _la
+familia que no elegí_. Creo que queda claro el punto.
+
+Mi ascendencia y  mi desarrollo como persona también viene directo de las ideologías, sean las
 que fueren, de los españoles de esa época. También quiero aclarar que mi ascendencia
 no está relacionada con mi xenofobia: la xenofobia vino a parte.
 
-Espero que el lector note la ironía que constituye toda esta situación. REalmente no
-tengo la habilidad que necesito para compartirle al lector la comicidad que siento
-cuando hablo de estas cosas con aquellos que me conocen personalmente. La situación
-es genuinamente risible. Además es cómico, porque eesta charla sobre mi proveniencia
+ Además es cómico, porque eesta charla sobre mi proveniencia
 es necesaria porque ahora tengo que hacer otra comparación que distingue a los
 oriundos de mi pueblo y que contrasta con las actitudes de las personas de
 Aguascalientes municipio.
