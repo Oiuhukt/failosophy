@@ -37,62 +37,82 @@ ingenieros, y todo lo que implica un proyecto federal en un desierto cualquiera 
 sólo un asentamiento de ferrocarril. Fueron estos grupos laborales los que comenzaron
 a poblar el campamento que se convertiría en Pabellón de Arteaga.
 
-{% newthought 'Después de terminar' %} la construcción de la presa, se declaro a
-PAbellón de Arteaga como el primer distrito de riego del país. el campamento
-original de los trabajadores se enriqueció de la fuerza laboral de los sectores
-agropecuarios: campesinos, veterinarios, agricultores, etc. Al conjunto de
-trabajadores de sectores privados, públicos, y diferentes fuerzas de trabajo como 
-agricultores, ganaderos, construtores, operadores, veterinarios, etc., hay que sumar que en algún punto del tiempo entre la fundación del pueblo y la guerra civil española, por azares del destino, llegaron refugiados españoles a Pabellón. Es a partir de ahora que este escrito y la historia de Pabellón  se vuelve personal. 
+{% newthought 'Hay dos factores' %} que quiero resaltar en torno a la construcción de
+la presa. Primero, que haya sido un proyecto federal, implica que participaron
+diferentes escaques de la sociedad laboral mexicana. Desde administradores, dueños de
+empresas de materiales, trabajadores de la construcción, trabajadores con licencias
+para operar máquinas, ingenieros, y todo lo que implica un proyecto masivo en un
+lugar semiárido cualquiera con sólo un asentamiento de ferrocarril. Fueron estos
+grupos laborales los que comenzaron a poblar el campamento que se convertiría en
+Pabellón de Arteaga. 
 
-Para entrar en temas personales, quiero comenzar mencionando la siguiente imagen que es un croquis del campamento que dio origen a mi puieblo. Esta imagen está tomada de la
-[página del municipio](https://www.pabellon.gob.mx/index.php)---que el próximo encargado de sistemas debería actualizar en su
-tiempo libre. Según la página, este croquis fue dibujado por el ingeniero Arregui.
+El segundo factor depende de la culminación del proyecto. El campamento original de
+los trabajadores se enriqueció de la fuerza laboral de los sectores agropecuarios:
+campesinos, veterinarios, agricultores, etc. Al conjunto de trabajadores de sectores
+privados, públicos, que se asentaron en el campamento, se sumaro diferentes fuerzas
+de trabajo como agricultores, ganaderos, veterinarios, etc. Además hay que sumar que
+en algún punto del tiempo entre la fundación del pueblo y la guerra civil española,
+por azares del destino, llegaron refugiados españoles a Pabellón. Es a partir de
+ahora que este escrito y la historia de Pabellón se vuelve personal. 
+
+Para entrar en temas personales, quiero comenzar diciendo que dichosamente me topé
+con esta imagen que es un croquis dibujado por el ingeniero Arregui del campamento
+que dio origen a mi puieblo. Esta imagen está tomada de la [página del
+municipio](https://www.pabellon.gob.mx/index.php)---que el próximo encargado de
+sistemas debería actualizar en su tiempo libre.
 
 <img src="{{ site.baseurl }}/assets/img/campamentoPabe.jpg" class="full-page-image"
 alt="Croquis del campamento Arregui"/>
 
-Parece ser que si quieren ver la libreta física, la pueden encontrar 
-en el archivo histórico 'Casino de la Selva,' que se
-encuentra muy cerca de un departamento hermoso que tuve el privilegio de rentar
-durante un periodo considerable de tiempo. Cerca de ese departamento venden además un café delicioso. Estas son dos razones para visitar mi pueblo: el [archivo histórico.](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php) y el café.
+Parece ser que si quieren ver la libreta física, la pueden encontrar en el archivo
+histórico 'Casino de la Selva,' que se encuentra muy cerca de un departamento hermoso
+que tuve el privilegio de rentar durante un periodo considerable de tiempo. Cerca de
+ese departamento venden además un café delicioso. Lo que le da al lector dos razones
+para visitar mi pueblo: el [archivo
+histórico.](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php)
+y el café.
 
-Verán, adoro Pabellón de Arteaga. Cuando digo que vengo de un rancho, lo digo con
-mucho orgullo. Lo digo orgullosamente y en voz alta, especialmente ahora que no vivo
-en ese lugar. Vivo ya hace varios años, de manera intermitente, en la Ciudad de México, y a pesar de que puede ser una ciudad que se dice tolerante, debo confesarles que los capitalinos son ligeramente xenófobos, xenofobia que he disfrutado en carne propia con los comentarios cómicos que distinguen a los capitalinos. 
+{% newthought 'Adoro Pabellón de Arteaga.' %} Cuando digo que vengo de un rancho, lo
+digo con mucho orgullo. Lo digo orgullosamente y en voz alta, especialmente ahora que
+no vivo en ese lugar. Vivo ya hace varios años, de manera intermitente, en la Ciudad
+de México, y a pesar de que puede ser una ciudad que se dice tolerante, debo
+confesarles que los capitalinos son ligeramente xenófobos, xenofobia que he
+disfrutado en carne propia con los comentarios cómicos que distinguen a la población
+capitalina. 
 
-Si contrasto además la actitud de los capitalinos con la
-actitud de mi rancho, debo decirles que en mi pueblo somos sin duda más tolerantes y me parece que una razón de nuestra tolerancia (no me malentiendad, la tolerancia de los pabellonenses no es infinita) se debe a la diversidad de grupos y personas que se asentaron durante la construcción de la presa Calles y los
-grupos que fueron incluyendose a lo largo de la historia del pueblo.
+Si contrasto la actitud de los capitalinos con la actitud de mi rancho, debo decirles
+que en mi pueblo somos sin duda más tolerantes y me parece que una razón de nuestra
+tolerancia (no me malentiendad, la tolerancia de los pabellonenses no es infinita) se
+debe a la diversidad de grupos y personas que se asentaron durante la construcción de
+la presa Calles y los grupos que fueron incluyendose a lo largo de la historia del
+pueblo.
 
-Esa es una de las razones por las que me gusta Pabellón de Arteaga. La historia se
-vuelve personal porque es en Pabellón de Arteaga donde están mis amistades más
-duraderas. Todas las personas que considero más cercanas en mi vida, son personas con
-las que he coincidido en ese pueblo. Creo que además muchas de ellas opinarían
-exactamente lo mismo: que en Pabellón de Arteaga solemos ser más tolerantes que en
-otros municipios del estado. Eso no quiere decir que seamos la suiza del sur, pero
-quiero mucho a mi pueblo y a mis amigos, por eso debo resaltar las buenas cualidades
-que tenemos los oriundos.
+Personalmente me gusta Pabellón de Arteaga por esa tolerancia que es mayor a la de
+los capitalinos. La de Pabellón es personal porque es en Pabellón de Arteaga donde
+están mis amistades más duraderas. Todas las personas que considero más cercanas en
+mi vida, son personas con las que he coincidido en ese pueblo. Creo que además muchas
+de ellas opinarían exactamente lo mismo: que en Pabellón de Arteaga solemos ser más
+tolerantes que en otros municipios del estado. No somos la Suiza del sur, pero quiero
+mucho a mi pueblo y a mis amigos. Estos amigos, _la familia que elegí_ son personas
+que representan la tolerancia que nace de un pueblo con origen diverso---me doy el gusto de encomiar las buenas cualidades que tienen los oriundos.
 
-Esta comparación entre la Ciudad de México y mi pueblo me sirve tambien para hacer un
-par de confesiones. La primera: yo tambien soy ligeramente xenófobo---algo se me
-tenía que pegar de la ciudad en la que viví por 4 años. Me queda clara mi xenofobia
-porque tengo un problema con los españoles. Esto no es sorpresa para quienes me
-conocen personalmente, ya que continuamente hago comentarios despectivos en voz alta
-sobre la sensación de superioridad que detecto asumen algunos de los vistitantes de
-la vieja corona cuando llegan al país. La segunda confesión está relacionada más
-íntimamente con mi historia como oriundo: tengo problemas familiares muy extraños.
-Mis problemas personales con mi familia Son tan extraños que a mis 31 años no logro
-entender cómo es que sucedieron. Lo más que puedo hacer por el lector es comparar mi
-historia familiar---y me da mucha vergüenza hacerlo así,---con una sitcom gringa. Los
-gringos: otro grupo de fulanos con ínfulas de superioridad.
+Este contraste entre la Ciudad de México y mi pueblo me sirve tambien para hacer un
+par de confesiones. La primera es que yo tambien soy ligeramente xenófobo---algo se
+me tenía que pegar de la ciudad en la que viví el tiempo que duró mi posgrado. Me
+queda clara mi xenofobia porque tengo un problema con los españoles. Esto no es
+sorpresa para quienes me conocen personalmente, ya que continuamente hago comentarios
+despectivos sobre la sensación de superioridad que detecto asumen algunos
+de los vistitantes de la vieja corona cuando llegan al país. Debo decirles que para ser una persona que viene de un rancho, he tenido el privilegio de conocer personalmente a muchos españoles y son ellos los que tienen la carga de la prueba.
+
+Para aclarar a qué me refiero, basta con notar los comentarios de Isabel Díaz Ayuso en su reciente visita al país. No me interesa hablar de Ayuso, sólo quiero que el lector considere que si la cultura de mi pueblo es 
 
 La historia de Pabellón de Artega también es personal, porque mi abuela llegó al
 pueblo como refugiada española, en el periodo en el que los españoles de la guerra
 civil buscaron refugio en México y que algunos de ellos se asentaron en Pabellón de
 Artega. Soy oriundo de Pabellón de Arteaga y un descendiente de ese grupo.
 
-Espero que no sea necesario decir lo obvio: mis problemas familiares están
-obviamentre relacionados con mi historia personal como pabellonense---después de
+Espero que no sea necesario decir lo obvio: mi personalidad está
+influenciada por mi historia personal como pabellonense---después de
 todo, ahí nací y me desarrollé la mayor parte de mi vida,---por lo que la cultura del
 pueblo y las actitudes de los pabellonense forman parte de mi desarrollo como
 persona. Debo recordarles que la historia de Pabellón está relacionada con la vieja
