@@ -120,42 +120,46 @@ a la visita de Ayuso. Es por esta razón que ahora debo hacer la aclaración de 
 soy de Aguascalientes, sino de Pabellon de Arteaga. No me molesta hacerla, siempre he
 sido de Pabellón de Arteaga.
 
-No intento hacer generalizaciones apresuradas, pero me consta
-que algunas de las creencias expresadas por Ayuso son creencias que comparten los
-hidrocálidos. También deben concederme que las creencias de Ayuso son creencias que comparten muchos de los españoles que he tenido el privilegio de conocer. Por eso me tomo el tiempo de aclarar que no soy de Aguascalientes
-municipio. 
+No intento hacer generalizaciones apresuradas, pero me consta que algunas de las
+creencias expresadas por Ayuso son creencias que comparten los
+hidrocálidos---reflejadas en sus comentarios y actitudes.. También deben concederme
+que las creencias de Ayuso son creencias que comparten muchos de los españoles que he
+tenido el privilegio de conocer. 
 
-Asi como la historia de Pabellón, especialmente de la familia que elegí, influye en mis creencias y actitudes, también en ellas influye _la familia que no elegí_. A menos que alguien
-defienda la tesis del determinismo causal, claramente fue azaroso que ese grupo de
-trabajadores terminara fundando Pabellón de Arteaga. También es azaroso haber nacido
-en la familia que nos tocó: muchas de mis creencias---reflejadas en mis comentarios y
-actitudes---se deben también a la _familia que no elegí_
+Asi como la historia de Pabellón, especialmente de la familia que elegí, influye en
+mis creencias y actitudes, también en ellas influye _la familia que no elegí_. A
+menos que alguien defienda la tesis del determinismo causal, claramente fue azaroso
+que ese grupo de trabajadores terminara fundando Pabellón de Arteaga. También es
+azaroso haber nacido en la familia que nos tocó, por tanto muchas de mis
+creencias---reflejadas en mis comentarios y actitudes---se deben también a la
+_familia que no elegí_
 
 La historia de Pabellón de Artega también es personal, porque mi abuela llegó al
 pueblo como parte del grupo de refugiados españoles que se asentaron durante el
-periodo de la guerra civil. México les dio refugio y algunos de ellos, de manera
-azarosa, se refugiaron mi pueblo de origen. Soy oriundo de Pabellón de Arteaga y un
-descendiente de ese grupo de refugiados. 
+periodo de la guerra civil. México les dio refugio y algunos de ellos se refugiaron
+mi pueblo de origen. Soy oriundo de Pabellón de Arteaga y un descendiente de ese
+grupo de refugiados. 
 
-{% newthought 'Espero que sea obvia' %} la ironía que constituye toda esta situación. Realmente no tengo la habilidad que necesito para compartirle al lector la comicidad que siento al escribir esto, o de la gracia con la que hablo de estas cosas con aquellos que me conocen personalmente. Así como mi personalidad está obviamente influenciada por mi historia como pabellonense---ahí
-nací y me desarrollé la mayor parte de mi vida,---por lo que la cultura del pueblo y
-las actitudes que admiro de _la familia que elegí_ forman parte de mi desarrollo como
-persona. La historia y la cultura de Pabellón y mi historia personal está relacionada
-con la vieja corona. Yo no lo pedí, estas condiciones se me impusieron. Repito, esta es _la familia que no elegí._ 
+{% newthought 'Espero que sea obvia' %} la ironía que constituye toda esta situación.
+Realmente no tengo la habilidad que necesito para compartirle al lector la comicidad
+que siento al escribir esto y de la gracia con la que hablo de estas cosas con
+aquellos que me conocen personalmente. Así como mi personalidad está obviamente
+influenciada por mi historia como pabellonense---ahí nací y me desarrollé la mayor
+parte de mi vida---la cultura del pueblo y las actitudes que admiro de _la familia
+que elegí_ forman parte de mi desarrollo como persona. Por azares del destino, la
+historia y la cultura de Pabellón y mi historia personal están relacionadas con la
+vieja españa. Yo no lo pedí, estas condiciones se me impusieron: esta es _la familia
+que no elegí._ 
 
 Sea cuál sea el trato que haya hecho Plutarco Elías Calles, fue un trato necesario
 para la fundación de Pabellón de Arteaga, fundación que, a su vez, fue necesaria para
 que yo pudiera nacer pabellonense. No nacer sería suficiente para no tener a _la
-familia que no elegí_. Creo que queda claro el punto.
+familia que no elegí_. Creo que queda claro el punto. Debido a la _familia que no
+elegí,_ mi desarrollo como persona también tiene rasgos de las ideologías, sean las
+que fueren, de los españoles de esa época. Viví mucho tiempo con mi abuela y sin duda
+compartía algunas de las creencias de Ayuso. Quiero aclarar que mi ascendencia no
+está relacionada con mi xenofobia: la xenofobia vino a parte.
 
-Mi ascendencia y  mi desarrollo como persona también viene directo de las ideologías, sean las
-que fueren, de los españoles de esa época. También quiero aclarar que mi ascendencia
-no está relacionada con mi xenofobia: la xenofobia vino a parte.
-
- Además es cómico, porque eesta charla sobre mi proveniencia
-es necesaria porque ahora tengo que hacer otra comparación que distingue a los
-oriundos de mi pueblo y que contrasta con las actitudes de las personas de
-Aguascalientes municipio.
 
 
 
