@@ -8,27 +8,37 @@ categories: escritura personal
 <!--more-->
 
 
-{% newthought 'Vengo de un rancho.' %} Lo sé porque en la secundaria me levante un día, abrí mi ventana, y el pasto lo consumía un borrego. El pueblo del que vengo se llama [Pabellón de
-Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga), que es un municipio
-del estado de Aguascalientes. El lugar es particular debido a que es un municipio con una historia reciente. El pueblo se fundó en 1929 y fue resultado de la necesidad de traer los materiales necesarios para construir la presa Calles. La
-presa Calles fue un proyecto del gobierno federal, y uno de los primeros proyectos
-de riego en el país depués de la revolución mexicana. Por esta razón, la historia de
+{% newthought 'Vengo de un rancho.' %} Lo sé porque en la secundaria me levanté un
+día, abrí mi ventana, y el pasto lo consumía un borrego. El pueblo del que vengo se
+llama [Pabellón de Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga),
+que es un municipio del estado de Aguascalientes. El lugar es particular debido a que
+es un municipio con una historia reciente. El pueblo se fundó en 1929 y fue resultado
+de la necesidad de transportar los materiales para construir la presa Calles. La
+presa Calles fue un proyecto del gobierno federal, y uno de los primeros proyectos de
+riego en el país depués de la revolución mexicana. Por esta razón, la historia de
 Pabellón está relacionada con la revolución---como lo muestra la celebración de
-nuestra feria. Hay que considerar también que la construcción de la presa se llevó a cabo bajo el gobierno de Plutarco Elías Calles, de ahí el nombre que la presa ostenta.
+nuestra feria. Hay que considerar también que la construcción de la presa se llevó a
+cabo bajo el gobierno de Plutarco Elías Calles, de ahí el nombre que la presa
+ostenta.
 
 Ese lugar era monte. Sólo habia un asentamiento del ferrocarril---que iba de la
-Ciudad de México a Ciudad Juárez,---que se usaba para descargar los materiales y las máquinas que
-serían llevadas al punto de construcción de la presa. La construcción del proyecto
-duró un año. Los trabajadores tuvieron que permanecer, por lo menos, el año que duró la construcción---de 1927 a 1928,---y asentaron un campamento que terminó
-creciendo lo suficiente para que en 1929 se fundara Pabellón de Arteaga.
+Ciudad de México a Ciudad Juárez,---que se usaba para descargar herramientas,
+máquinas y materiales que serían llevadas al punto de construcción de la presa. La
+construcción del proyecto duró un añoy co n los materiales y herramientas llegan
+también los trabajadores. Los trabajadores del proyecto tuvieron que permanecer, por
+lo menos, el tiempo que duró la construcción---de 1926 a 1931,---y por ello,
+asentaron un campamento. Este campamento fue el que terminó creciendo lo suficiente
+para que en 1929 se fundara Pabellón de Arteaga.
 
 Que haya sido un proyecto federal, implica que participaron diferentes escaques de la
 sociedad laboral mexicana. Desde administradores, dueños de empresas de materiales,
-trabajadores de la construcción, trabajadores con licencias para operar máquinas, ingenieros, y todo lo que implica un proyecto federal en un desierto cualquiera con sólo un
-asentamiento de ferrocarril. Fueron estos grupos laborales los que comenzaron a
-poblar el campamento que se convertiría en Pabellón de Arteaga.
+trabajadores de la construcción, trabajadores con licencias para operar máquinas,
+ingenieros, y todo lo que implica un proyecto federal en un desierto cualquiera con
+sólo un asentamiento de ferrocarril. Fueron estos grupos laborales los que comenzaron
+a poblar el campamento que se convertiría en Pabellón de Arteaga.
 
-{% newthought 'Después de terminar' %} la construcción de la presa, el campamento
+{% newthought 'Después de terminar' %} la construcción de la presa, se declaro a
+PAbellón de Arteaga como el primer distrito de riego del país. el campamento
 original de los trabajadores se enriqueció de la fuerza laboral de los sectores
 agropecuarios: campesinos, veterinarios, agricultores, etc. Al conjunto de
 trabajadores de sectores privados, públicos, y diferentes fuerzas de trabajo como 
