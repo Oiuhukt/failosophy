@@ -93,23 +93,37 @@ están mis amistades más duraderas. Todas las personas que considero más cerca
 mi vida, son personas con las que he coincidido en ese pueblo. Creo que además muchas
 de ellas opinarían exactamente lo mismo: que en Pabellón de Arteaga solemos ser más
 tolerantes que en otros municipios del estado. No somos la Suiza del sur, pero quiero
-mucho a mi pueblo y a mis amigos. Estos amigos, _la familia que elegí_ son personas
-que representan la tolerancia que nace de un pueblo con origen diverso---me doy el gusto de encomiar las buenas cualidades que tienen los oriundos.
+mucho a mi pueblo y a mis amigos. Estos amigos, _la familia que elegí_, son personas
+que representan la tolerancia que nace de un pueblo con origen diverso---me doy el
+gusto de encomiar las buenas cualidades que tienen los oriundos.
 
-Este contraste entre la Ciudad de México y mi pueblo me sirve tambien para hacer un
-par de confesiones. La primera es que yo tambien soy ligeramente xenófobo---algo se
-me tenía que pegar de la ciudad en la que viví el tiempo que duró mi posgrado. Me
-queda clara mi xenofobia porque tengo un problema con los españoles. Esto no es
-sorpresa para quienes me conocen personalmente, ya que continuamente hago comentarios
-despectivos sobre la sensación de superioridad que detecto asumen algunos
-de los vistitantes de la vieja corona cuando llegan al país. Debo decirles que para ser una persona que viene de un rancho, he tenido el privilegio de conocer personalmente a muchos españoles y son ellos los que tienen la carga de la prueba.
+El contraste entre la Ciudad de México y mi pueblo me sirve tambien para hacer un par
+de confesiones. La primera es que yo tambien soy ligeramente xenófobo---algo se me
+tenía que pegar de la ciudad en la que viví el tiempo que duró mi posgrado. Me queda
+clara mi xenofobia porque tengo un problema con los españoles. Esto no es sorpresa
+para quienes me conocen personalmente, ya que continuamente hago comentarios
+despectivos sobre la sensación de superioridad que detecto asumen algunos de los
+vistitantes de la vieja corona cuando llegan al país. Debo decirles que para ser un fulano que viene de un rancho, he tenido el privilegio de conocer personalmente a
+muchos españoles y son ellos los que tienen la carga de la prueba.
 
-Para aclarar a qué me refiero, basta con notar los comentarios de Isabel Díaz Ayuso en su reciente visita al país. No me interesa hablar de Ayuso, sólo quiero que el lector considere que si la cultura de mi pueblo es 
+Para aclarar a qué me refiero, basta con notar los comentarios de Isabel Díaz Ayuso
+en su reciente visita al país. No me interesa hablar de Ayuso, sólo quiero que el
+lector considere los comentarios de la presidenta y los evalúe como quiera. Pero sin
+pretender hacer una generalización apresurada, las creencias de Ayuso---expresadas en
+sus comentarios--son creencias compartidas por muchos de los españoles a quienes he
+conocido personalmente. Quiero que el lector considere también que Pabellón es parte
+del estado de Aguascalientes, pro que fue el ayuntamiento del municipio de
+Aguascalientes quien le entregó la llave de la ciudad a Ayuso. Algo que sin duda
+diferencía a las personas de Aguasaclientes municipio, de las personas de Pabellón de
+Arteaga, es que los pabellonenses---al menos la familia que elegí---cuestionarían la
+amabilidad que le mostró el ayundatmiento de Aguasaclientes a la presidenta de la
+Comunidad de Madrid. Debido a este evento, he disfrutado en carne
+propia los comentarios cómicos que hacen los capitalinos respecto a la visita de
+Ayuso. Es por esta razón que ahora debo hacer la aclaración de que no soy de
+Aguascalientes, sino de Pabellon de Arteaga. No me molesta hacerla, siempre he sido
+de Pabellón de Arteaga.
 
-La historia de Pabellón de Artega también es personal, porque mi abuela llegó al
-pueblo como refugiada española, en el periodo en el que los españoles de la guerra
-civil buscaron refugio en México y que algunos de ellos se asentaron en Pabellón de
-Artega. Soy oriundo de Pabellón de Arteaga y un descendiente de ese grupo.
+{% newthought 'La historia de Pabellón de Artega' %} también es personal, porque mi abuela llegó al pueblo como parte del grupo de refugiados españoles, que se asentaron durante el periodo de la guerra civil. México les dio refugio y algunos de ellos se asentaron en Pabellón de Artega. Soy oriundo de Pabellón de Arteaga y un descendiente de ese grupo de refugiados.
 
 Espero que no sea necesario decir lo obvio: mi personalidad está
 influenciada por mi historia personal como pabellonense---después de
