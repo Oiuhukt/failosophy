@@ -23,8 +23,7 @@ ostenta.
 
 Ese lugar era monte. Sólo habia un asentamiento del ferrocarril---que iba de la
 Ciudad de México a Ciudad Juárez,---que se usaba para descargar herramientas,
-máquinas y materiales que serían llevadas al punto de construcción de la presa. La
-construcción del proyecto duró un añoy co n los materiales y herramientas llegan
+máquinas y materiales que serían transportadas al punto de construcción de la presa. La construcción del proyecto duró un año y con los materiales y herramientas llegan
 también los trabajadores. Los trabajadores del proyecto tuvieron que permanecer, por
 lo menos, el tiempo que duró la construcción---de 1926 a 1931,---y por ello,
 asentaron un campamento. Este campamento fue el que terminó creciendo lo suficiente
@@ -106,8 +105,8 @@ Para aclarar a qué me refiero, basta con notar los comentarios de Isabel Díaz 
 en su reciente visita al país. No me interesa hablar de Ayuso, sólo quiero que el
 lector considere los comentarios de la presidenta y los evalúe como quiera. Sin
 pretender hacer una generalización apresurada, las creencias de Ayuso---expresadas en
-sus comentarios y actitudes--son creencias compartidas por muchos de los españoles a
-quienes he tenido el gusto de conocer personalmente. 
+sus comentarios y actitudes---son creencias compartidas por muchos de los españoles a
+quienes he tenido el gusto de conocer personalmente.
 
 {% newthought 'Quiero que el lector' %} considere también que Pabellón es parte del
 estado de Aguascalientes y que el estado tiene un municipio homónimo. Fue el
@@ -121,12 +120,12 @@ a la visita de Ayuso. Es por esta razón que ahora debo hacer la aclaración de 
 soy de Aguascalientes, sino de Pabellon de Arteaga. No me molesta hacerla, siempre he
 sido de Pabellón de Arteaga.
 
-Quiero aclarar que no intento hacer generalizaciones apresuradas. Pero es claro que
-como seres humanos nos debemos en buena parte a la familia que elegimos. Me consta
-que algunas de las creencias expresadas por Ayuso, son creencias que comparten los
-hidrocálidos. Por eso me tomo el tiempo de aclarar que no soy de Aguascalientes
-municipio. Asi como ciertas creencias y actitudes se deben a la familia que elegmos,
-también muchas de ellas se deben a la familia que no elegimos. A menos que alguien
+No intento hacer generalizaciones apresuradas, pero me consta
+que algunas de las creencias expresadas por Ayuso son creencias que comparten los
+hidrocálidos. También deben concederme que las creencias de Ayuso son creencias que comparten muchos de los españoles que he tenido el privilegio de conocer. Por eso me tomo el tiempo de aclarar que no soy de Aguascalientes
+municipio. 
+
+Asi como la historia de Pabellón, especialmente de la familia que elegí, influye en mis creencias y actitudes, también en ellas influye _la familia que no elegí_. A menos que alguien
 defienda la tesis del determinismo causal, claramente fue azaroso que ese grupo de
 trabajadores terminara fundando Pabellón de Arteaga. También es azaroso haber nacido
 en la familia que nos tocó: muchas de mis creencias---reflejadas en mis comentarios y
