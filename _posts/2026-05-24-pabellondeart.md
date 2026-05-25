@@ -28,13 +28,13 @@ trabajadores de la construcción, trabajadores con licencias para operar máquin
 asentamiento de ferrocarril. Fueron estos grupos laborales los que comenzaron a
 poblar el campamento que se convertiría en Pabellón de Arteaga.
 
-{% newthought 'Después de terrminar' %} la cosntrucción de la presa, el campamento
+{% newthought 'Después de terminar' %} la construcción de la presa, el campamento
 original de los trabajadores se enriqueció de la fuerza laboral de los sectores
-agropecuarios: campesinos, veterinarios, agricultores, etc. Sumado al conjunto de
+agropecuarios: campesinos, veterinarios, agricultores, etc. Al conjunto de
 trabajadores de sectores privados, públicos, y diferentes fuerzas de trabajo como 
-agricultores, construtores, operadores, veterinarios, etc., en algún punto del tiempo entre la fundación del pueblo y la guerra civil española, por azares del destino, llegaron a asentarse españoles que venían a buscar refugio debido a esta guerra. Es aquí donde esta historia se vuelve personal. 
+agricultores, ganaderos, construtores, operadores, veterinarios, etc., hay que sumar que en algún punto del tiempo entre la fundación del pueblo y la guerra civil española, por azares del destino, llegaron refugiados españoles a Pabellón. Es a partir de ahora que este escrito y la historia de Pabellón  se vuelve personal. 
 
-Para entrar en temas personales, quiero mencionar la siguiente imagen que es un croquis del campamento que dio origen a mi puieblo. Esta imagen está tomada de la
+Para entrar en temas personales, quiero comenzar mencionando la siguiente imagen que es un croquis del campamento que dio origen a mi puieblo. Esta imagen está tomada de la
 [página del municipio](https://www.pabellon.gob.mx/index.php)---que el próximo encargado de sistemas debería actualizar en su
 tiempo libre. Según la página, este croquis fue dibujado por el ingeniero Arregui.
 
@@ -44,18 +44,14 @@ alt="Croquis del campamento Arregui"/>
 Parece ser que si quieren ver la libreta física, la pueden encontrar 
 en el archivo histórico 'Casino de la Selva,' que se
 encuentra muy cerca de un departamento hermoso que tuve el privilegio de rentar
-durante un periodo considerable de tiempo. Donde además venden cerca un café delicioso. Dos razones para visitar el [archivo histórico.](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php)
-
-
+durante un periodo considerable de tiempo. Cerca de ese departamento venden además un café delicioso. Estas son dos razones para visitar mi pueblo: el [archivo histórico.](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php) y el café.
 
 Verán, adoro Pabellón de Arteaga. Cuando digo que vengo de un rancho, lo digo con
 mucho orgullo. Lo digo orgullosamente y en voz alta, especialmente ahora que no vivo
-en ese lugar. Estoy en la Ciudad de México, y a pesar de que puede ser una ciudad
-'progresista,' debo confesarles que son ligeramente xenófobos. Es por eso que he
-evitado activamente adoptar el acento de este lugar. Si contrasto esta actitud con la
-actitud dce mi rancho, debo decirles que en mi pueblo somos sin duda más tolerantes y
-creo que una razón clara de nuestra actitud en el pueblo, se debe a la diversidad de
-grupos y personas que se asentaron durante la construcción de la presa Calles y los
+en ese lugar. Vivo ya hace varios años, de manera intermitente, en la Ciudad de México, y a pesar de que puede ser una ciudad que se dice tolerante, debo confesarles que los capitalinos son ligeramente xenófobos, xenofobia que he disfrutado en carne propia con los comentarios cómicos que distinguen a los capitalinos. 
+
+Si contrasto además la actitud de los capitalinos con la
+actitud de mi rancho, debo decirles que en mi pueblo somos sin duda más tolerantes y me parece que una razón de nuestra tolerancia (no me malentiendad, la tolerancia de los pabellonenses no es infinita) se debe a la diversidad de grupos y personas que se asentaron durante la construcción de la presa Calles y los
 grupos que fueron incluyendose a lo largo de la historia del pueblo.
 
 Esa es una de las razones por las que me gusta Pabellón de Arteaga. La historia se
