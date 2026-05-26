@@ -139,7 +139,7 @@ México les dio refugio y algunos de ellos se refugiaron mi pueblo de origen. So
 oriundo de Pabellón de Arteaga y un descendiente de ese grupo de refugiados. Espero que sea obvia la ironía que constituye toda esta situación. Realmente no tengo la habilidad que necesito para compartirle al lector la comicidad
 que siento 
 
-El punto es que así como mi personalidad está obviamente influenciada por mi historia como pabellonense (donde nací y me desarrollé la mayor parte de mi vida), de modo que la cultura del pueblo y las actitudes que admiro de _la familia que elegí_ forman parte de mi desarrollo como persona, también forma parte el azar que estuvo involucrado en la conformación de la historia y la cultura de Pabellón. Además, mi historia personal están relacionada con la _familia que no eligió_ vieja españa. Yo no lo pedí, estas condiciones se me impusieron: esta es _la familia
+El punto es que así como mi personalidad está obviamente influenciada por mi historia como pabellonense (donde nací y me desarrollé la mayor parte de mi vida), porque la cultura del pueblo y las actitudes que admiro de _la familia que elegí_ forman parte de mi desarrollo como persona, también forma parte de mi persona el azar que estuvo involucrado en la conformación del campamento que se convirtió en  Pabellón. Así como mi historia personalconstituye mis creencias, mis creencias a su vez dependen tanto de la _familia que eligí,_ como de _la familia que no elegí_. Yo participé activamente en esta elección, esas condiciones me fueron impuestas.
 que no elegí._ 
 
 Sea cuál sea el trato que haya hecho Plutarco Elías Calles, fue un trato necesario
