@@ -129,10 +129,12 @@ Pabellón y la familia que elegí, influyen en mis creencias, también en ellas 
 _la familia que no elegí._ A menos que alguien defienda la tesis del determinismo
 causal, claramente fue azaroso que ese grupo de trabajadores terminara fundando
 Pabellón de Arteaga. También es azaroso haber nacido en la familia que me tocó y, por
-tanto, muchas de mis creencias---reflejadas en mis comentarios y actitudes,---se deben
-a la _familia que no elegí._
+tanto, muchas de mis creencias---reflejadas en mis comentarios y actitudes,---se
+deben a la _familia que no elegí._ Nadie jamás tendrá voz ni voto para decidir dónde
+le toca nacer. 
 
-{% newthought 'La historia de Pabellón' %} de Artega también es personal, porque mi abuela llegó al
+{% newthought 'La historia de Pabellón' %} de Artega también es personal, porque mi
+abuela llegó al
 pueblo como parte del grupo de refugiados españoles que se asentaron durante el
 periodo de la guerra civil. México les dio refugio y algunos de ellos se refugiaron
 mi pueblo de origen. Soy oriundo de Pabellón de Arteaga y un descendiente de ese
