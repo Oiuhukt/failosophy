@@ -200,7 +200,7 @@ eficientes, personas que curan el cerebro, una persona que entrevisto a la mism�
 Alexandra Elbakyan (fundadora de Sci-Hub). 
 
 Si algo quiero que me distinga de la familia que no elegí, porque era inconsistente
-con lo que aprendí y admiro de la familia que elegí, es la habilidad de ser amable. Mejor expresado tricot 'gentleness is my only strong suit.' Intento paracticar día con día, aunque algunas veces sin éxito. Espero ir pronto a compartir mesa con amigos, para discutir qué creencias debemos modificar, cuáles debemos eliminar, y cuáles debemos mantener, y espero que esto le dé al lector muchas razones para visitar Pabellón de Arteaga.
+con lo que aprendí y admiro de la familia que elegí, es la habilidad de ser amable. Mejor expresado por tricot 'gentleness is my only strong suit.' Intento paracticar día con día, aunque algunas veces sin éxito. Espero ir pronto a compartir mesa con amigos, para discutir qué creencias debemos modificar, cuáles debemos eliminar, y cuáles debemos mantener, y espero que este escrito le dé al lector muchas razones para visitar Pabellón de Arteaga.
 
 
 
