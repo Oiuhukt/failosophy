@@ -110,23 +110,22 @@ Ayuso. Personalmente me causa risa la situación, no sé que más podríamos hac
 sus comentarios y actitudes: su ingerencia política es nula. Pero algo que sin duda
 diferencía a los pabellonenses de los hidrocálidos, es que los pabellonenses---al
 menos la familia que elegí---cuestionarían la amabilidad que le mostró el
-ayundatmiento de Aguascalientes a la presidenta de la Comunidad de Madrid. Debido a
-este evento, he disfrutado en carne propia los comentarios cómicos que distinguen a
-los capitalinos respecto a la visita de Ayuso. Es por esta razón que ahora debo hacer
-la aclaración de que no soy de Aguascalientes, sino de Pabellon de Arteaga. No me
-molesta hacerla, siempre he sido de Pabellón de Arteaga.
+ayundatmiento de Aguascalientes a la presidenta de la Comunidad de Madrid. 
+
+Debido al evento promocionado por el gobierno de Aguascalientes municipio, he disfrutado en carne propia y he aportado verbalmente a los comentarios cómicos que distinguen a los capitalinos respecto a la visita de Ayuso. Es por esta razón que ahora debo hacer la aclaración de que no soy de Aguascalientes, sino de Pabellon de Arteaga.
 
 No intento hacer generalizaciones apresuradas, pero me consta que algunas de las
 creencias expresadas por Ayuso son creencias que comparten los
 hidrocálidos---reflejadas en sus comentarios y actitudes. También deben concederme
 que las creencias de Ayuso son creencias que comparten muchos de los españoles.
-Especulo que estas creencias se deben a _la cultura española_ sea lo que sea que eso
+Especulo que estas creencias se deben a _la cultura española,_ lo que sea que eso
 signifique. 
 
 Para intentar capturar lo que quiero decir con _cultura_ en _cultura española,_---en
-contraste con _cultura mexicana, por ejemplo--- es que asi como la historia de
-Pabellón y la familia que elegí, influyen en mis creencias, también en ellas influye
-_la familia que no elegí._ A menos que alguien defienda la tesis del determinismo
+contraste con _cultura mexicana_, por ejemplo---es que mis creencias---reflejadas en mis comentarios y actitudes---fueron influenciadas por la historia de
+Pabellón y la familia que elegí, tambien en mis crencias influye _la familia que no elegí._ 
+
+A menos que alguien defienda la tesis del determinismo
 causal, claramente fue azaroso que ese grupo de trabajadores terminara fundando
 Pabellón de Arteaga. También es azaroso haber nacido en la familia que me tocó y, por
 tanto, muchas de mis creencias---reflejadas en mis comentarios y actitudes,---se
