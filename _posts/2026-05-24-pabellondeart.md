@@ -149,21 +149,22 @@ que sea obvia la ironía que constituye toda esta situación. Realmente no tengo
 habilidad que necesito para compartirle al lector la comicidad del asunto 
 
 El punto es que así como mi personalidad está obviamente influenciada por mi historia
-como pabellonense (donde nací y me desarrollé la mayor parte de mi vida), porque la
-cultura del pueblo, reflejada en las actitudes que admiro de _la familia que elegí_
-forman parte de mi desarrollo como persona, también forma parte de mi persona el azar
-que estuvo involucrado en la conformación del campamento que se convirtió en
-Pabellón. Así como mi historia personal constituye parte de mis creencias, mis
-creencias dependen a la vez de la _familia que eligí,_ como de _la familia que no
-elegí_. Yo participé activamente en una, la otra sólo me fue impuesta. 
+como pabellonense (donde nací y me desarrollé la mayor parte de mi vida), por la
+cultura del pueblo reflejada en las actitudes que admiro de _la familia que elegí._
+Pero también forman parte de mi desarrollo como persona el azar que estuvo
+involucrado en la conformación del campamento que se convirtió en Pabellón. Dado que
+mi historia personal constituye parte de mis creencias, mis creencias dependen
+tambien tanto de _la familia que eligí,_ como de _la familia que no elegí_. Yo
+participé activamente en una, la otra sólo me fue impuesta. 
 
-Sea cuál sea el trato que haya hecho Plutarco Elías Calles, fue un trato necesario
-para la fundación de Pabellón de Arteaga, fundación que, a su vez, fue necesaria para
-que yo pudiera nacer pabellonense. No nacer sería suficiente para no tener a _la
-familia que no elegí_. Creo que queda claro el punto. Debido a la _familia que no
-elegí,_ mi desarrollo como persona también tiene rasgos de las ideologías, sean las
-que fueren, de los españoles de esa época. Viví mucho tiempo con mi abuela y sin duda
-compartía algunas de las creencias de Ayuso. Quiero aclarar que mi ascendencia no
+Es obvio que no haber nacido sería suficiente para no tener a _la familia que no
+elegí_. Debido a que parte de mis creencias se deben la _familia que no elegí,_ mi
+desarrollo como persona también tiene rasgos de las creencias---reflejadas en
+comentarios y actitudes---de los españoles de la época. Viví mucho tiempo con mi
+abuela y puedo asegurar que compartía algunas de las creencias de Ayuso.
+
+
+Quiero aclarar que mi ascendencia no
 está relacionada con mi xenofobia: la xenofobia vino a parte.
 
 
