@@ -23,7 +23,8 @@ ostenta.
 
 Ese lugar era monte. Sólo habia un asentamiento del ferrocarril---que iba de la
 Ciudad de México a Ciudad Juárez,---que se usaba para descargar herramientas,
-máquinas y materiales que serían transportadas al punto de construcción de la presa. La construcción del proyecto duró un año y con los materiales y herramientas llegan
+máquinas y materiales que serían transportadas al punto de construcción de la presa.
+La construcción del proyecto duró un año y con los materiales y herramientas llegan
 también los trabajadores. Los trabajadores del proyecto tuvieron que permanecer, por
 lo menos, el tiempo que duró la construcción---de 1926 a 1931,---y por ello,
 asentaron un campamento. Este campamento fue el que terminó creciendo lo suficiente
@@ -39,12 +40,13 @@ grupos laborales los que comenzaron a poblar el campamento que se convertiría e
 Pabellón de Arteaga. 
 
 El segundo factor depende de la culminación del proyecto. El campamento original de
-los trabajadores se enriqueció de la fuerza laboral de los sectores agropecuarios. Es decir que al conjunto de trabajadores de sectores
-privados y públicos, que se asentaron en el campamento, se sumaron diferentes fuerzas
-de trabajo como agricultores, ganaderos, veterinarios, etc. Además hay que sumar que
-en algún punto del tiempo entre la fundación del pueblo y la guerra civil española,
-por azares del destino, llegaron refugiados españoles a Pabellón. Es a partir de
-ahora que este escrito y la historia de Pabellón se vuelven personales. 
+los trabajadores se enriqueció de la fuerza laboral de los sectores agropecuarios. Es
+decir que al conjunto de trabajadores de sectores privados y públicos, que se
+asentaron en el campamento, se sumaron diferentes fuerzas de trabajo como
+agricultores, ganaderos, veterinarios, etc. Además hay que sumar que en algún punto
+del tiempo entre la fundación del pueblo y la guerra civil española, por azares del
+destino, llegaron refugiados españoles a Pabellón. Es a partir de ahora que este
+escrito y la historia de Pabellón se vuelven personales. 
 
 Para entrar en temas personales, quiero comenzar diciendo que dichosamente me topé
 con esta imagen que es un croquis dibujado por el ingeniero Arregui del campamento
@@ -60,8 +62,8 @@ histórico 'Casino de la Selva,' que se encuentra muy cerca de un departamento h
 que tuve el privilegio de rentar durante un periodo considerable de tiempo. Cerca de
 ese departamento venden además un café delicioso. Lo que le da al lector dos razones
 para visitar mi pueblo: el [archivo
-histórico](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php)
-y el café.
+histórico](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php) y
+el café.
 
 {% newthought 'Adoro Pabellón de Arteaga.' %} Cuando digo que vengo de un rancho, lo
 digo con mucho orgullo. Lo digo orgullosamente y en voz alta, especialmente ahora que
@@ -87,60 +89,73 @@ municipios del estado. No somos la Suiza del sur, pero _La familia que elegí,_ 
 personas que creen en la tolerancia que nace de un pueblo con origen diverso y me doy
 el gusto de encomiar las buenas cualidades que tienen los oriundos.
 
-{% newthought 'El contraste entre' %} la Ciudad de México y mi pueblo, me sirve tambien para hacer un par de confesiones. La primera es que yo tambien soy ligeramente xenófobo---algo se me
-tenía que pegar de la ciudad en la que viví el tiempo que duró mi posgrado. Me queda
-clara mi xenofobia porque tengo un problema con los españoles. Esto no es sorpresa
-para quienes me conocen personalmente, ya que continuamente hago comentarios
-despectivos sobre la sensación de superioridad que detecto asumen algunos de los
-vistitantes de la vieja corona cuando llegan al país. Debo decirles que para ser un
-fulano que viene de un rancho, he tenido el privilegio de conocer personalmente a
-muchos españoles, y mi tolerancia pueblerina termina cuando son ellos los que tienen la carga de la prueba.
+{% newthought 'El contraste entre' %} la Ciudad de México y mi pueblo, me sirve
+tambien para hacer un par de confesiones. La primera es que yo tambien soy
+ligeramente xenófobo---algo se me tenía que pegar de la ciudad en la que viví el
+tiempo que duró mi posgrado. Me queda clara mi xenofobia porque tengo un problema con
+los españoles. Esto no es sorpresa para quienes me conocen personalmente, ya que
+continuamente hago comentarios despectivos sobre la sensación de superioridad que
+detecto asumen algunos de los vistitantes de la vieja corona cuando llegan al país.
+La segunda confesión es que para ser un fulano que viene de un rancho, he tenido el
+privilegio de conocer personalmente a muchos españoles y que mi tolerancia pueblerina
+termina cuando son ellos los que tienen la carga de la prueba.
 
 Para aclarar a qué me refiero, basta con notar los comentarios de Isabel Díaz Ayuso
-en su reciente visita al país. Quiero que el
-lector considere los comentarios de la presidenta y los evalúe como se le antoje. Sin
-pretender hacer una generalización apresurada, las creencias de Ayuso---expresadas en
-sus comentarios y actitudes---son creencias compartidas por muchos de los españoles a
-quienes he tenido el gusto de conocer personalmente.
+en su reciente visita al país. Quiero que el lector considere los comentarios de la
+presidenta y los evalúe como se le antoje. Sin pretender hacer una generalización
+apresurada, las creencias de Ayuso---reflejadas en sus comentarios y actitudes---son
+creencias compartidas por muchos de los españoles a quienes he tenido el gusto de
+conocer personalmente.
 
 {% newthought 'Quiero que el lector' %} considere también que Pabellón es parte del
 estado de Aguascalientes y que el estado tiene un municipio homónimo. Fue el
 ayuntamiento del municipio de Aguascalientes quien le entregó la llave de la ciudad a
-Ayuso. Personalmente me causa risa la situación, no sé que más podríamos hacer con
-sus comentarios y actitudes: su ingerencia política es nula. Pero algo que sin duda
-diferencía a los pabellonenses de los hidrocálidos, es que los pabellonenses---al
-menos la familia que elegí---cuestionarían la amabilidad que le mostró el
-ayundatmiento de Aguascalientes a la presidenta de la Comunidad de Madrid. 
+Ayuso. Personalmente el evento me causa risa. No sé que más podemos hacer con los
+comentarios y actitudes de Ayuso. Su ingerencia política es nula. Pero algo que sin
+duda diferencía a los pabellonenses de los hidrocálidos, es que los
+pabellonenses---al menos la familia que elegí---cuestionarían la amabilidad que le
+mostró el ayundatmiento de Aguascalientes a la presidenta de la Comunidad de Madrid. 
 
-Debido al evento promocionado por el gobierno de Aguascalientes municipio, he disfrutado en carne propia y he aportado verbalmente a los comentarios cómicos que distinguen a los capitalinos respecto a la visita de Ayuso. Es por esta razón que ahora debo hacer la aclaración de que no soy de Aguascalientes, sino de Pabellon de Arteaga.
+Debido al evento promocionado por el gobierno de Aguascalientes municipio, he
+disfrutado y he aportado verbalmente a los comentarios cómicos, que distinguen a los
+capitalinos, respecto a la visita de Ayuso. Es por esta razón que ahora debo hacer la
+aclaración de que no soy de Aguascalientes, sino de Pabellon de Arteaga.
 
 No intento hacer generalizaciones apresuradas, pero me consta que algunas de las
 creencias expresadas por Ayuso son creencias que comparten los
 hidrocálidos---reflejadas en sus comentarios y actitudes. También deben concederme
-que las creencias de Ayuso son creencias que comparten muchos de los españoles.
-Especulo que estas creencias se deben a _la cultura española,_ lo que sea que eso
-signifique. 
+que las creencias de Ayuso son creencias que comparten muchos de los que nos visitan
+de la vieja españa. Sólo puedo especular que estas creencias se deben a _la cultura
+española,_ lo que sea que eso signifique. 
 
-Para intentar capturar lo que quiero decir con _cultura_ en _cultura española,_(en
-contraste con _cultura mexicana_, por ejemplo) es que mis creencias---reflejadas en
+Para intentar capturar lo que quiero decir con _cultura_ en _cultura española_ (en
+contraste con _cultura mexicana_, por ejemplo), es que mis creencias---reflejadas en
 mis comentarios y actitudes---fueron influenciadas por la historia de Pabellón y la
-_familia que elegí,_ tambien en mis crencias influye _la familia que no elegí._ 
+_familia que elegí,_ pero también influyen en mis crencias los comentarios y
+actitudes de _la familia que no elegí._ 
 
 A menos que alguien defienda la tesis del determinismo causal, claramente fue azaroso
 que ese grupo de trabajadores terminara fundando Pabellón de Arteaga. También es
 azaroso haber nacido en la familia que me tocó y, por tanto, muchas de mis
-creencias---reflejadas en mis comentarios y actitudes,---se deben a la _familia que
-no elegí._ Nadie jamás tendrá voz ni voto para decidir dónde le toca nacer. 
+creencias---reflejadas en mis comentarios y actitudes,---se deben a la familia que
+no elegí. Nadie jamás tendrá voto para influir en la decisión de dónde le toca nacer.
 
 {% newthought 'La historia de Pabellón' %} y el contraste con Aguascalientes
 municipio es personal también, porque mi abuela llegó al pueblo como parte del grupo
 de refugiados españoles que se asentaron durante el periodo de la guerra civil.
 México les dio refugio y algunos de ellos se refugiaron mi pueblo de origen. Soy
-oriundo de Pabellón de Arteaga y un descendiente de ese grupo de refugiados. Espero que sea obvia la ironía que constituye toda esta situación. Realmente no tengo la habilidad que necesito para compartirle al lector la comicidad
-que siento 
+oriundo de Pabellón de Arteaga y un descendiente de ese grupo de refugiados. Espero
+que sea obvia la ironía que constituye toda esta situación. Realmente no tengo la
+habilidad que necesito para compartirle al lector la comicidad del asunto 
 
-El punto es que así como mi personalidad está obviamente influenciada por mi historia como pabellonense (donde nací y me desarrollé la mayor parte de mi vida), porque la cultura del pueblo y las actitudes que admiro de _la familia que elegí_ forman parte de mi desarrollo como persona, también forma parte de mi persona el azar que estuvo involucrado en la conformación del campamento que se convirtió en  Pabellón. Así como mi historia personalconstituye mis creencias, mis creencias a su vez dependen tanto de la _familia que eligí,_ como de _la familia que no elegí_. Yo participé activamente en esta elección, esas condiciones me fueron impuestas.
-que no elegí._ 
+El punto es que así como mi personalidad está obviamente influenciada por mi historia
+como pabellonense (donde nací y me desarrollé la mayor parte de mi vida), porque la
+cultura del pueblo, reflejada en las actitudes que admiro de _la familia que elegí_
+forman parte de mi desarrollo como persona, también forma parte de mi persona el azar
+que estuvo involucrado en la conformación del campamento que se convirtió en
+Pabellón. Así como mi historia personal constituye parte de mis creencias, mis
+creencias dependen a la vez de la _familia que eligí,_ como de _la familia que no
+elegí_. Yo participé activamente en una, la otra sólo me fue impuesta. 
 
 Sea cuál sea el trato que haya hecho Plutarco Elías Calles, fue un trato necesario
 para la fundación de Pabellón de Arteaga, fundación que, a su vez, fue necesaria para
