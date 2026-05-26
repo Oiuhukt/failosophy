@@ -132,7 +132,7 @@ española,_ lo que sea que eso signifique.
 Para intentar capturar lo que quiero decir con _cultura_ en _cultura española_ (en
 contraste con _cultura mexicana_, por ejemplo), es que mis creencias---reflejadas en
 mis comentarios y actitudes---fueron influenciadas por la historia de Pabellón y la
-_familia que elegí._ Esto es, de las cualidades que admiro de mi familia, pero
+_familia que elegí._ Esto es, de las cualidades que admiro de mi familia. Pero
 también influyen en mis crencias los comentarios y actitudes de _la familia que no
 elegí._ 
 
@@ -164,7 +164,7 @@ marco de las actitudes de la familia que elegí y de la familia que no elegí, l
 que realmente podemos decidir es cuáles creencias manetener. Viví mucho tiempo con mi
 abuela y puedo asegurar que compartía algunas de las creencias de Ayuso. El problema
 con manener estas creencias es que, si todo lo que he dicho es verdad, ya duraron
-bastante: por lo menos desde mi abuela al día de hoy. Es dpor estas razones que mi
+bastante: por lo menos desde mi abuela al día de hoy. Es por estas razones que mi
 ascendencia no está relacionada con mi xenofobia: la xenofobia vino a parte, diría
 que después.
 
@@ -175,14 +175,32 @@ cualidad porque no sólo cuestionarían la amabilidad mostrada por Aguascaliente
 municipio, sino que se cuestionarían si sus creencias se ven reflejadas en los
 comentarios y actitudes de Ayuso. A pesar de que no podemos evaluar nuestras
 creencias una a una, que es la moraleja que deberíamos extraer de las Meditaciones
-Metafísicas, no cabe duda de que la habilidad de evaluar nuestras creenciuas es
+Metafísicas, no cabe duda de que la habilidad de evaluar nuestras creencias es
 necesaria en tiempos donde debería existir la cohesión social y el cuestionamiento
 continuo de las doctrinas. Debo confesar que algunas personas de la _familia
 capitalina que elegí_ son sumamente dogmáticos y esto nos sobra a los pabellonenses.
 
-Comencé con un esquema de lo que fue la historia de Pabellón de acuerdo a lo que he tenido acceso. Les toca a los historiadores hacer investigación en el archivo histórico. Yo soy pesimo para la historia, aunque trato de leer libros históricos, me falta bastante. Especialmente ahora que se va terminando el semestre. Como pabellonense, debo decir que la historia del pueblo no está reflejada en monumentos a figuras históricas nacionales, o sobre restos arqueológicos llamativos para los turistas. Pero esto sólo se debe a que la historia del pueblo es reciente en términos históricos, sino que se ve más reflejada en las historias personales y la tradición familiar. Si quieren ponerle un nombre simple, somos chismosos. Además digo 'familiar' en un sentido bastante amplio, porque en las historia reciente tenemos luminarias. De quienes conozco personalmente: un comediante exitoso, personas que salieron del estado a buscar una mejor educación para hacer una carrera académica, una nutrióloga a la que le hicieron una entrevista reciente, mis amigos agricultores que con su esfuerzo y el de la tierra generan los sagrados alimentos, quien en un futuro será el próximo encargado de sistemas, personas que han trabajado en empresas tecnológicas líderes en el mercado, personas que diseñan sistemas industriales más eficientes, personas que curan el cerebro, una persona que entrevisto a la mismísima Alexandra Elbakyan (fundadora de Sci-Hub). 
+Comencé con un esquema de lo que fue la historia de Pabellón de acuerdo a lo que he
+tenido acceso. Les toca a los historiadores hacer una investigación seria en el archivo
+histórico. Yo personalmente no he podido ir a mi pueblo en algunos meses y no podré ir pronto ahora que se va terminando el semestre. 
 
-Si algo quiero que me distinga de la familia que no elegí, porque era inconsistente con lo que aprendí de la familia que elegí es la habilidad de ser amable. Como dicen las tricot 'gentleness is my only strong suit' y esta es una habilidad que intento paracticar día con día. Eso le da al lector muchas razones para visitar Pabellón de Arteaga.
+Deberían visitar Pabellón. Como
+pabellonense, debo confesarle al lector que la historia del pueblo no está reflejada en monumentos a
+figuras históricas nacionales, o sobre restos arqueológicos llamativos para los
+turistas. Pero esto sólo se debe a que la historia del pueblo es reciente en términos
+históricos. La historia y la cultura del pueblo se ve más reflejada en las historias personales y la tradición familiar. Si quieren ponerle un nombre simple, somos chismosos. Además digo
+'familiar' en un sentido bastante amplio, porque en las historia reciente tenemos
+luminarias. De quienes conozco personalmente: un comediante exitoso, personas que
+salieron del estado a buscar una mejor educación para hacer una carrera académica,
+una nutrióloga a la que le hicieron una entrevista reciente, mis amigos agricultores
+que con su esfuerzo y el de la tierra generan los sagrados alimentos, quien en un
+futuro será el próximo encargado de sistemas, personas que han trabajado en empresas
+tecnológicas líderes en el mercado, personas que diseñan sistemas industriales más
+eficientes, personas que curan el cerebro, una persona que entrevisto a la mismísima
+Alexandra Elbakyan (fundadora de Sci-Hub). 
+
+Si algo quiero que me distinga de la familia que no elegí, porque era inconsistente
+con lo que aprendí y admiro de la familia que elegí, es la habilidad de ser amable. Mejor expresado por las tricot 'gentleness is my only strong suit,' la amabilidad es algo que intento paracticar día con día, a veces sin éxito. Pero espero que esto le dé al lector muchas razones para visitar Pabellón de Arteaga.
 
 
 
