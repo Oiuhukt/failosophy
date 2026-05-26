@@ -121,33 +121,25 @@ que las creencias de Ayuso son creencias que comparten muchos de los españoles.
 Especulo que estas creencias se deben a _la cultura española,_ lo que sea que eso
 signifique. 
 
-Para intentar capturar lo que quiero decir con _cultura_ en _cultura española,_---en
-contraste con _cultura mexicana_, por ejemplo---es que mis creencias---reflejadas en mis comentarios y actitudes---fueron influenciadas por la historia de
-Pabellón y la familia que elegí, tambien en mis crencias influye _la familia que no elegí._ 
+Para intentar capturar lo que quiero decir con _cultura_ en _cultura española,_(en
+contraste con _cultura mexicana_, por ejemplo) es que mis creencias---reflejadas en
+mis comentarios y actitudes---fueron influenciadas por la historia de Pabellón y la
+_familia que elegí,_ tambien en mis crencias influye _la familia que no elegí._ 
 
-A menos que alguien defienda la tesis del determinismo
-causal, claramente fue azaroso que ese grupo de trabajadores terminara fundando
-Pabellón de Arteaga. También es azaroso haber nacido en la familia que me tocó y, por
-tanto, muchas de mis creencias---reflejadas en mis comentarios y actitudes,---se
-deben a la _familia que no elegí._ Nadie jamás tendrá voz ni voto para decidir dónde
-le toca nacer. 
+A menos que alguien defienda la tesis del determinismo causal, claramente fue azaroso
+que ese grupo de trabajadores terminara fundando Pabellón de Arteaga. También es
+azaroso haber nacido en la familia que me tocó y, por tanto, muchas de mis
+creencias---reflejadas en mis comentarios y actitudes,---se deben a la _familia que
+no elegí._ Nadie jamás tendrá voz ni voto para decidir dónde le toca nacer. 
 
-{% newthought 'La historia de Pabellón' %} de Artega también es personal, porque mi
-abuela llegó al
-pueblo como parte del grupo de refugiados españoles que se asentaron durante el
-periodo de la guerra civil. México les dio refugio y algunos de ellos se refugiaron
-mi pueblo de origen. Soy oriundo de Pabellón de Arteaga y un descendiente de ese
-grupo de refugiados. 
+{% newthought 'La historia de Pabellón' %} y el contraste con Aguascalientes
+municipio es personal también, porque mi abuela llegó al pueblo como parte del grupo
+de refugiados españoles que se asentaron durante el periodo de la guerra civil.
+México les dio refugio y algunos de ellos se refugiaron mi pueblo de origen. Soy
+oriundo de Pabellón de Arteaga y un descendiente de ese grupo de refugiados. Espero que sea obvia la ironía que constituye toda esta situación. Realmente no tengo la habilidad que necesito para compartirle al lector la comicidad
+que siento 
 
-{% newthought 'Espero que sea obvia' %} la ironía que constituye toda esta situación.
-Realmente no tengo la habilidad que necesito para compartirle al lector la comicidad
-que siento al escribir esto y de la gracia con la que hablo de estas cosas con
-aquellos que me conocen personalmente. Así como mi personalidad está obviamente
-influenciada por mi historia como pabellonense---ahí nací y me desarrollé la mayor
-parte de mi vida---la cultura del pueblo y las actitudes que admiro de _la familia
-que elegí_ forman parte de mi desarrollo como persona. Por azares del destino, la
-historia y la cultura de Pabellón y mi historia personal están relacionadas con la
-vieja españa. Yo no lo pedí, estas condiciones se me impusieron: esta es _la familia
+El punto es que así como mi personalidad está obviamente influenciada por mi historia como pabellonense (donde nací y me desarrollé la mayor parte de mi vida), de modo que la cultura del pueblo y las actitudes que admiro de _la familia que elegí_ forman parte de mi desarrollo como persona, también forma parte el azar que estuvo involucrado en la conformación de la historia y la cultura de Pabellón. Además, mi historia personal están relacionada con la _familia que no eligió_ vieja españa. Yo no lo pedí, estas condiciones se me impusieron: esta es _la familia
 que no elegí._ 
 
 Sea cuál sea el trato que haya hecho Plutarco Elías Calles, fue un trato necesario
