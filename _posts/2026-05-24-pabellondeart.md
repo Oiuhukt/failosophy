@@ -11,8 +11,8 @@ categories: escritura personal
 {% newthought 'Vengo de un rancho.' %} Lo sé porque en la secundaria me levanté un
 día, abrí mi ventana, y el pasto lo consumía un borrego. El pueblo del que vengo se
 llama [Pabellón de Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga),
-que es un municipio del estado de Aguascalientes. El lugar es particular debido a que
-es un municipio con una historia reciente. El pueblo se fundó en 1929 y fue resultado
+un municipio del estado de Aguascalientes. El lugar es particular debido que
+tenemos historia reciente, en térmminos históricos. El pueblo se fundó en 1929 y fue resultado
 de la necesidad de transportar los materiales para construir la presa Calles. La
 presa Calles fue un proyecto del gobierno federal, y uno de los primeros proyectos de
 riego en el país depués de la revolución mexicana. Por esta razón, la historia de
@@ -24,10 +24,10 @@ ostenta.
 Ese lugar era monte. Sólo habia un asentamiento de ferrocarril---de la Ciudad de
 México a Ciudad Juárez,---que se usaba para descargar herramientas, máquinas y
 materiales que serían transportadas al punto de construcción de la presa. La
-construcción del proyecto duró, y con los materiales y herramientas llegan también
+construcción del proyecto duró, y con los materiales y herramientas, llegan también
 los trabajadores. Los trabajadores del proyecto tuvieron que permanecer, por lo
-menos, el tiempo que duró la construcción---de 1926 a 1931,---y por ello, asentaron
-un campamento. Este campamento fue el que terminó creciendo lo suficiente para que en
+menos, el tiempo que duró la construcción---de 1926 a 1931,---por ello, asentaron
+un campamento cerca del punto de ferrocarril. Este campamento fue el que terminó creciendo lo suficiente para que en
 1929 se fundara Pabellón de Arteaga.
 
 {% newthought 'Hay dos factores' %} que quiero resaltar en torno a la construcción de
@@ -43,9 +43,9 @@ El segundo factor depende de la culminación del proyecto. El campamento origina
 los trabajadores se enriqueció de la fuerza laboral de los sectores agropecuarios. Es
 decir que al conjunto de trabajadores de sectores privados y públicos que se
 asentaron en el campamento, se sumaron diferentes fuerzas de trabajo como
-agricultores, ganaderos, veterinarios, etc. Además hay que sumar que en algún punto
-del tiempo entre la fundación del pueblo y la guerra civil española, por azares del
-destino, llegaron refugiados españoles a Pabellón. Es a partir de ahora que este
+agricultores, ganaderos, veterinarios, etc. Hay que agregar que en algún punto
+del tiempo entre la fundación del pueblo y la guerra civil española, los azares del
+destino llevaron refugiados españoles a Pabellón. Es a partir de ahora que este
 escrito y la historia de Pabellón se vuelven personales. 
 
 Para entrar en temas personales, quiero comenzar diciendo que dichosamente me topé
@@ -66,15 +66,15 @@ histórico](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.
 el café.
 
 {% newthought 'Adoro Pabellón de Arteaga.' %} Cuando digo que vengo de un rancho, lo
-digo con mucho orgullo. Lo digo orgullosamente y en voz alta, especialmente ahora que
+digo con mucho orgullo. Lo digo orgullosamente y en voz alta especialmente ahora que
 no vivo en ese lugar. Vivo ya hace varios años, de manera intermitente, en la Ciudad
 de México, y a pesar de que puede ser una ciudad que se dice tolerante, debo
-confesarles que los capitalinos son ligeramente xenófobos, xenofobia que he
+confesarles que los capitalinos son ligeramente xenófobos. Xenofobia que he
 disfrutado en carne propia con los comentarios cómicos que distinguen a la población
 capitalina. 
 
 Si contrasto la actitud de los capitalinos con la actitud de mi rancho, debo decirles
-que en mi pueblo somos sin duda más tolerantes y me parece que una razón de nuestra
+que en mi pueblo somos sin duda más tolerantes, y me parece que una razón de nuestra
 tolerancia (no me malentiendan, la tolerancia de los pabellonenses no es infinita) se
 debe a la diversidad de grupos y personas que se asentaron durante la construcción de
 la presa Calles y los grupos que fueron incluyéndose a lo largo de la historia del
@@ -92,12 +92,12 @@ el gusto de encomiar las buenas cualidades que tienen los oriundos.
 {% newthought 'El contraste entre' %} la Ciudad de México y mi pueblo, me sirve
 tambien para hacer un par de confesiones. La primera es que yo tambien soy
 ligeramente xenófobo---algo se me tenía que pegar de la ciudad en la que viví el
-tiempo que duró mi posgrado. Me queda clara mi xenofobia porque tengo un problema con
+tiempo que duró mi posgrado. Tengo un problema con
 los españoles. Esto no es sorpresa para quienes me conocen personalmente, ya que
 continuamente hago comentarios despectivos sobre la sensación de superioridad que
 detecto asumen algunos de los vistitantes de la vieja corona cuando llegan al país.
 La segunda confesión es que para ser un fulano que viene de un rancho, he tenido el
-privilegio de conocer personalmente a muchos españoles y confieso que mi tolerancia
+privilegio de conocer personalmente a muchos españoles, y confieso que mi tolerancia
 pueblerina termina cuando son ellos los que tienen la carga de la prueba.
 
 Para aclarar a qué me refiero, basta con notar los comentarios de Isabel Díaz Ayuso
@@ -113,28 +113,28 @@ ayuntamiento del municipio de Aguascalientes quien le entregó la llave de la ci
 Ayuso. Personalmente el evento me causa risa. No sé que más podemos hacer con los
 comentarios y actitudes de Ayuso. Su ingerencia política es nula. Pero algo que sin
 duda diferencía a los pabellonenses de los hidrocálidos, es que los
-pabellonenses---al menos la familia que elegí---cuestionarían la amabilidad que le
-mostró el ayundatmiento de Aguascalientes a la presidenta de la Comunidad de Madrid. 
+pabellonenses y _la familia que elegí_, cuestionarían la amabilidad que le
+mostró el ayundatmiento de Aguascalientes municipio a la presidenta de la Comunidad de Madrid. 
 
 Debido al evento promocionado por el gobierno de Aguascalientes municipio, he
 disfrutado y he aportado verbalmente a los comentarios cómicos (que distinguen a los
 capitalinos) respecto de la visita de Ayuso. Es por esta razón que ahora debo hacer
 la aclaración de que no soy de Aguascalientes, sino de Pabellon de Arteaga.
 
-No intento hacer generalizaciones apresuradas, pero me consta que algunas de las
+Insisto en que no intento hacer generalizaciones apresuradas, pero me consta que algunas de las
 creencias expresadas por Ayuso son creencias que comparten los
 hidrocálidos---reflejadas en sus comentarios y actitudes. También deben concederme
 que las creencias de Ayuso son creencias que comparten muchos de los turistas que nos
 visitan de la vieja españa. Sólo puedo especular que si estas creencias son
-compartidas por tres grupos variados, debemos echarle la culpa a _la cultura
-española,_ lo que sea que eso signifique. 
+compartidas por tres grupos variados, sólo podemos echarle la culpa a _la cultura
+española._ 
 
 Para intentar capturar lo que quiero decir con _cultura_ en _cultura española_ (en
 contraste con _cultura mexicana_, por ejemplo), es que mis creencias---reflejadas en
 mis comentarios y actitudes---fueron influenciadas por la historia de Pabellón y la
 _familia que elegí._ Esto es, de las cualidades que admiro de mi familia. Pero
 también influyen en mis crencias los comentarios y actitudes de _la familia que no
-elegí._ 
+elegí._
 
 A menos que alguien defienda la tesis del determinismo causal, claramente fue azaroso
 que ese grupo de trabajadores terminara fundando Pabellón de Arteaga. También es
@@ -164,43 +164,48 @@ marco de las actitudes de la familia que elegí y de la familia que no elegí, l
 que realmente podemos decidir es cuáles creencias manetener. Viví mucho tiempo con mi
 abuela y puedo asegurar que compartía algunas de las creencias de Ayuso. El problema
 con manener estas creencias es que, si todo lo que he dicho es verdad, ya duraron
-bastante: por lo menos desde mi abuela al día de hoy. Es por estas razones que mi
-ascendencia no está relacionada con mi xenofobia: la xenofobia vino a parte, diría
-que después.
+bastante y no se han preocupado por cuestionarlas: por lo menos desde mi abuela al día de hoy. Es por estas razones que mi ascendencia no está relacionada con mi xenofobia: la xenofobia vino a parte.
 
 {% newthought 'La familia que elegí' %} tiene otra cualidad que admiro: la de hacer
 muchas preguntas. Considero que en muchas ocasiones exageran esa cualidad. Confieso
-que es molesta. Yo la tengo, pero eso sin duda viene de mi profesión. Pero admiro esa
-cualidad porque no sólo cuestionarían la amabilidad mostrada por Aguascalientes
+que es molesta. Yo la tengo, pero eso sin duda viene de mi profesión. Admiro esa
+cualidad de mi familia porque no sólo cuestionarían la amabilidad mostrada por Aguascalientes
 municipio, sino que se cuestionarían si sus creencias se ven reflejadas en los
 comentarios y actitudes de Ayuso. A pesar de que no podemos evaluar nuestras
 creencias una a una, que es la moraleja que deberíamos extraer de las Meditaciones
 Metafísicas, no cabe duda de que la habilidad de evaluar nuestras creencias es
 necesaria en tiempos donde debería existir la cohesión social y el cuestionamiento
 continuo de las doctrinas. Debo confesar que algunas personas de la _familia
-capitalina que elegí_ son sumamente dogmáticos y esto nos sobra a los pabellonenses.
+capitalina que elegí_ son sumamente dogmáticos, y esto nos sobra a los pabellonenses.
 
 Comencé con un esquema de lo que fue la historia de Pabellón de acuerdo a lo que he
-tenido acceso. Les toca a los historiadores hacer una investigación seria en el archivo
-histórico. Yo personalmente no he podido ir a mi pueblo en algunos meses y no podré ir pronto ahora que se va terminando el semestre. 
+tenido acceso. Les toca a los historiadores hacer una investigación seria en el
+archivo histórico. Yo personalmente no he podido ir a mi pueblo en algunos meses, y no
+podré ir pronto debido a que se va terminando el semestre. 
 
-Deberían visitar Pabellón. Como
-pabellonense, debo confesarle al lector que la historia del pueblo no está reflejada en monumentos a
-figuras históricas nacionales, o sobre restos arqueológicos llamativos para los
-turistas. Pero esto sólo se debe a que la historia del pueblo es reciente en términos
-históricos. La historia y la cultura del pueblo se ve más reflejada en las historias personales y la tradición familiar. Si quieren ponerle un nombre simple, somos chismosos. Además digo
+Deberían visitar Pabellón. Como pabellonense, debo confesarle al lector que la
+historia del pueblo no está reflejada en monumentos a figuras históricas nacionales,
+o sobre restos arqueológicos llamativos para los turistas. Pero esto sólo se debe a
+que la historia del pueblo es reciente en términos históricos. La historia y la
+cultura del pueblo se ve más reflejada en las historias personales y la tradición
+familiar. Si quieren ponerle un nombre simple, somos chismosos. Además digo
 'familiar' en un sentido bastante amplio, porque en las historia reciente tenemos
-luminarias. De quienes conozco personalmente: un comediante exitoso, personas que
+luminarias, en las que se ve reflejada la cultura de mi pueblo. De quienes conozco personalmente: un comediante exitoso, personas que
 salieron del estado a buscar una mejor educación para hacer una carrera académica,
 una nutrióloga a la que le hicieron una entrevista reciente, mis amigos agricultores
 que con su esfuerzo y el de la tierra generan los sagrados alimentos, quien en un
 futuro será el próximo encargado de sistemas, personas que han trabajado en empresas
-tecnológicas líderes en el mercado, personas que diseñan sistemas industriales más
-eficientes, personas que curan el cerebro, una persona que entrevisto a la mismísima
+tecnológicas líderes en el mercado y que se han dado el lujo de renunciar, personas que diseñan sistemas industriales más
+eficientes, personas que curan el cerebro, una persona que entrevistó a la mismísima
 Alexandra Elbakyan (fundadora de Sci-Hub). 
 
 Si algo quiero que me distinga de la familia que no elegí, porque era inconsistente
-con lo que aprendí y admiro de la familia que elegí, es la habilidad de ser amable. Mejor expresado por tricot 'gentleness is my only strong suit.' Intento paracticar día con día, aunque algunas veces sin éxito. Espero ir pronto a compartir mesa con amigos, para discutir qué creencias debemos modificar, cuáles debemos eliminar, y cuáles debemos mantener, y espero que este escrito le dé al lector muchas razones para visitar Pabellón de Arteaga.
+con lo que aprendí y admiro de la familia que elegí, es la habilidad de ser amable.
+Mejor expresado por tricot 'gentleness is my only strong suit.' Intento paracticar
+día con día, aunque algunas veces sin éxito. Espero ir pronto a compartir mesa con
+amigos, para discutir qué creencias debemos modificar, cuáles debemos eliminar, y
+cuáles debemos mantener, y espero que este escrito le dé al lector muchas razones
+para visitar Pabellón de Arteaga.
 
 
 
