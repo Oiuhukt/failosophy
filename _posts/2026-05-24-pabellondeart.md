@@ -8,7 +8,7 @@ categories: escritura personal
 <!--more-->
 
 
-{% newthought 'Vengo de un rancho.' %} Lo sé porque en la secundaria me levanté un
+<span class="newthought">Vengo de un rancho.</span> Lo sé porque en la secundaria me levanté un
 día, abrí mi ventana, y el pasto lo consumía un borrego. El pueblo del que vengo se
 llama [Pabellón de Arteaga](https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_Arteaga),
 un municipio del estado de Aguascalientes. El lugar es particular debido que
@@ -30,7 +30,7 @@ menos, el tiempo que duró la construcción---de 1926 a 1931,---por ello, asenta
 un campamento cerca del punto de ferrocarril. Este campamento fue el que terminó creciendo lo suficiente para que en
 1929 se fundara Pabellón de Arteaga.
 
-{% newthought 'Hay dos factores' %} que quiero resaltar en torno a la construcción de
+<span class="newthought">Hay dos factores</span> que quiero resaltar en torno a la construcción de
 la presa. Primero, que haya sido un proyecto federal, implica que participaron
 diferentes escaques de la sociedad laboral mexicana. Desde administradores, dueños de
 empresas de materiales, trabajadores de la construcción, trabajadores con licencias
@@ -65,7 +65,7 @@ para visitar mi pueblo: el [archivo
 histórico](https://pabellon.gob.mx/site24-27/archivoHistorico/archivoHistorico.php) y
 el café.
 
-{% newthought 'Adoro Pabellón de Arteaga.' %} Cuando digo que vengo de un rancho, lo
+<span class="newthought">Adoro Pabellón de Arteaga</span> Cuando digo que vengo de un rancho, lo
 digo con mucho orgullo. Lo digo orgullosamente y en voz alta especialmente ahora que
 no vivo en ese lugar. Vivo ya hace varios años, de manera intermitente, en la Ciudad
 de México, y a pesar de que puede ser una ciudad que se dice tolerante, debo
@@ -89,7 +89,7 @@ municipios del estado. No somos la Suiza del sur, pero en _la familia que elegí
 personas que creen en la tolerancia que nace de un pueblo con origen diverso y me doy
 el gusto de encomiar las buenas cualidades que tienen los oriundos.
 
-{% newthought 'El contraste entre' %} la Ciudad de México y mi pueblo, me sirve
+<span class="newthought">El contraste entre</span> la Ciudad de México y mi pueblo, me sirve
 tambien para hacer un par de confesiones. La primera es que yo tambien soy
 ligeramente xenófobo---algo se me tenía que pegar de la ciudad en la que viví el
 tiempo que duró mi posgrado. Tengo un problema con
@@ -107,7 +107,7 @@ apresurada, las creencias de Ayuso---reflejadas en sus comentarios y actitudes--
 creencias compartidas por muchos de los españoles a quienes he tenido el gusto de
 conocer personalmente.
 
-{% newthought 'Quiero que el lector' %} considere también que Pabellón es parte del
+<span class="newthought">Quiero que el lector</span> considere también que Pabellón es parte del
 estado de Aguascalientes y que el estado tiene un municipio homónimo. Fue el
 ayuntamiento del municipio de Aguascalientes quien le entregó la llave de la ciudad a
 Ayuso. Personalmente el evento me causa risa. No sé que más podemos hacer con los
@@ -142,7 +142,7 @@ azaroso haber nacido en la familia que me tocó y, por tanto, muchas de mis cree
 se deben en parte a la familia que no elegí. Nadie jamás tendrá voto para influir en
 la decisión de dónde le toca nacer.
 
-{% newthought 'La historia de Pabellón' %} y el contraste con Aguascalientes
+<span class="newthought">La historia de Pabellón</span> y el contraste con Aguascalientes
 municipio es personal, porque mi abuela llegó al pueblo como parte del grupo de
 refugiados españoles que se asentaron durante el periodo de la guerra civil. México
 les dio refugio y algunos de ellos llegaron a mi pueblo de origen. Soy oriundo de
@@ -166,7 +166,7 @@ abuela y puedo asegurar que compartía algunas de las creencias de Ayuso. El pro
 con manener estas creencias es que, si todo lo que he dicho es verdad, ya duraron
 bastante y no se han preocupado por cuestionarlas: por lo menos desde mi abuela al día de hoy. Es por estas razones que mi ascendencia no está relacionada con mi xenofobia: la xenofobia vino a parte.
 
-{% newthought 'La familia que elegí' %} tiene otra cualidad que admiro: la de hacer
+<span class="newthought">La familia que elegí</span> tiene otra cualidad que admiro: la de hacer
 muchas preguntas. Considero que en muchas ocasiones exageran esa cualidad. Confieso
 que es molesta. Yo la tengo, pero eso sin duda viene de mi profesión. Admiro esa
 cualidad de mi familia porque no sólo cuestionarían la amabilidad mostrada por Aguascalientes
