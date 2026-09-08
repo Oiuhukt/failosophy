@@ -1,4 +1,5 @@
 baseurl: /failosophy
+repository: oiuhukt/failosophy
 sass:
   sass_dir: _sass
   style: compressed
