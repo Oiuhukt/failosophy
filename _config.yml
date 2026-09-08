@@ -15,7 +15,7 @@ permalink: /articles/:short_year/:title
 timezone: America/Mexico_City
 excerpt_separator: <!--more--> # you can specify your own separator, of course.
 exclude:
-  ["Gemfile", "Gemfile.lock", "Rakefile", "vendor", "UploadToGithub.Rakefile", "README.md"]
+  ["*.bak", "**/*.bak", "Gemfile", "Gemfile.lock", "Rakefile", "vendor", "UploadToGithub.Rakefile", "README.md"]
 post:
   template: _post.txt
   extension: md
